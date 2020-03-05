@@ -1,17 +1,14 @@
 ---
 title: "Loneliness and the Rise of Authoritarianism"
 date: "2020-01-03"
+image: "./images/Article-2-Pic-2-Unherd.com_-1.jpg"
 ---
 
 Every college student, within and out of UIC, may at times feel lonely, but they are not alone. More and more people, unfortunately, are affected by loneliness. The percentage of American adults feeling lonely has doubled from the 1980s to reach 40% and in the United Kingdom, more than 9 million people are reported to be feeling lonely, prompting its government to appoint a minister for loneliness. Korea is no exception, as 26% of people  consider themselves as frequently or almost always lonely. These results show why some researchers are considering loneliness as an epidemic spreading across the world. Research has shown that loneliness is more lethal than obesity or even smoking 15 cigarettes a day, as it increases the level of stress and inflammation that may lead to heart diseases, diabetes, as well as suicide attempts. 
 
 While people have attributed social media or the increase of one-person households as primary causes of loneliness, Hannah Arendt, a renowned philosopher/political theorist, had diagnosed loneliness as a “disease of our time” almost 60 years ago. Arendt, who considers singularity as the single most important trait of humans, suggests this uniqueness could only be achieved mostly through speech and action in the political realm, where one manifests its particularity to the world. Arendt acknowledges that solitude is crucial for political life, as it offers a temporary separation from the world where one could discuss with one's self conscience as another entity. However, Arendt argues that it is nonetheless imperfect, since humans are social animals that ultimately need others to confirm their uniqueness and synthesize one’s self and consciousness to a single individual.If one fails to connect with others who appreciate that singularity, one becomes lonely.
 
-<<<<<<< HEAD
 ![](./images/Article-2-Pic-2-Unherd.com_-1.jpg)
-=======
-![](images/Article-2-Pic-2-Unherd.com_-1.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 Loneliness intensifies when people are isolated, which occurs when the political realm of a society is destroyed. Arendt believes that the public realm is crucial for individuals to enjoy a sense of belonging in a group. Inside, members understand each other as equal and unique beings while collectively sharing a meaningful worldview. However, Arendt argues that modernity, which involves imperialism, industrialization, modern science/technology, and capital exploitation, has deconstructed existing political structures. This leads to isolation and loneliness, as people no longer enjoy the sense of belonging and individuals that could confirm one’s singularity, thereby resulting in despair and disorientation.
 
