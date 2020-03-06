@@ -22,9 +22,6 @@ export default ({ children }) => {
       <Link to={`/about/`}>
         About
       </Link>
-      <Link to={`/downloadspage/`}>
-        Downloads Page
-      </Link>
       {children}
     </div>
   )

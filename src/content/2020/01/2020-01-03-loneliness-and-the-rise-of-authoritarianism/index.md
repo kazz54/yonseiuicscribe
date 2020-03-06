@@ -1,7 +1,10 @@
 ---
 title: "Loneliness and the Rise of Authoritarianism"
 date: "2020-01-03"
+author: "Taewon Min"
+category: "Culture"
 image: "./images/Article-2-Pic-2-Unherd.com_-1.jpg"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Every college student, within and out of UIC, may at times feel lonely, but they are not alone. More and more people, unfortunately, are affected by loneliness. The percentage of American adults feeling lonely has doubled from the 1980s to reach 40% and in the United Kingdom, more than 9 million people are reported to be feeling lonely, prompting its government to appoint a minister for loneliness. Korea is no exception, as 26% of people  consider themselves as frequently or almost always lonely. These results show why some researchers are considering loneliness as an epidemic spreading across the world. Research has shown that loneliness is more lethal than obesity or even smoking 15 cigarettes a day, as it increases the level of stress and inflammation that may lead to heart diseases, diabetes, as well as suicide attempts. 

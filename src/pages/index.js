@@ -1,6 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
+import Img from "gatsby-image"
 
 export default ({ data }) => {
   return (
@@ -14,11 +15,12 @@ export default ({ data }) => {
           <div key={node.id}>
             <Link to={node.fields.slug}>
               <h3>
-                {node.frontmatter.title}{" "}
+                {node.frontmatter.title}{" "}by{" "}{node.frontmatter.author}{" "}
                 <span>
                   — {node.frontmatter.date}
                 </span>
               </h3>
+              <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
               <p>{node.excerpt}</p>
             </Link>
           </div>
@@ -39,7 +41,15 @@ export const query = graphql`
           id
           frontmatter {
             title
+            author
             date(formatString: "DD MMMM, YYYY")
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
           fields {
             slug
