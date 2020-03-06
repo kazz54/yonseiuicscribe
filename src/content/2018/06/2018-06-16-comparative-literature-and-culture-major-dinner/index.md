@@ -9,11 +9,7 @@ The Comparative Literature and Culture Major (CLC) hosts some of UIC’s most cr
 
 **Comparative Literature and Culture Major Dinner**
 
-<<<<<<< HEAD
 ![](./images/IMG_1594.jpg)
-=======
-![](images/IMG_1594.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 On June 1st, 2018, the CLC Major hosted a special dinner for their students and professors. This semester, the dinner was held in Sinchon’s famous Italian restaurant, Team Nolita. The biannual Major Dinner is a time for both students and professors to relax outside of class and enjoy some pleasant conversation and great food. The event invited major, minor, and even prospective CLC students.
 
@@ -27,11 +23,7 @@ The restaurant’s intimate and warm atmosphere made a great place for conversat
 
 **Interview with Comparative Literature and Culture Representatives**
 
-<<<<<<< HEAD
 ![](./images/IMG_1607.jpg)
-=======
-![](images/IMG_1607.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 How would you describe the Comparative Literature and Culture (CLC) community?
 

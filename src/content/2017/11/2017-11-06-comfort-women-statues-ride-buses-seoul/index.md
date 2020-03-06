@@ -11,10 +11,6 @@ President Moon’s statement is part of his effort to regain justice for the vic
 
 As most surviving victims are getting old and passing away, it is essential to fight for an official apology from Japan before no victims are left. The establishment of World Comfort Women day and projects like “Dream Lost by Girls” is showing the revitalization  of campaigns for comfort women’s justice. In the same spirit, an exhibition of 500 hundred comfort women statues was held at Cheonggye Stream Square in central Seoul during World Comfort Women Day.
 
-<<<<<<< HEAD
 ![image2](./images/image2.jpg)
-=======
-![image2](images/image2.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 \[Credits: Shim Hyun-chul\]

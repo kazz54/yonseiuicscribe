@@ -25,8 +25,4 @@ Can we stop for a moment and think about how twisted this all is? Why do we feel
 
  
 
-<<<<<<< HEAD
 ![kristjana s williams althjodlegt tre international tree courtesy of tag fine arts 1](./images/kristjana_s_williams_-_althjodlegt_tre_-_international_tree_-_courtesy_of_tag_fine_arts_1.jpg)
-=======
-![kristjana s williams althjodlegt tre international tree courtesy of tag fine arts 1](images/kristjana_s_williams_-_althjodlegt_tre_-_international_tree_-_courtesy_of_tag_fine_arts_1.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b

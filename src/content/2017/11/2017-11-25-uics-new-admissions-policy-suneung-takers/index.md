@@ -15,10 +15,6 @@ This new UIC admissions policy states that applicants will undergo a similar pro
 
 UIC admissions for aspiring applicants who wish to take the Suneung and become UIC students must have their CSAT scores ready. The admission period lasts four days from December 30th to January 2nd, and interviews will be held on January 13th, 2018. The 15 accepted students will be announced on January 26th of next year.
 
-<<<<<<< HEAD
 ![image1](./images/image1.png)
-=======
-![image1](images/image1.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 \[Source: Hana Language Institute\]

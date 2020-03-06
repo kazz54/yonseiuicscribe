@@ -15,11 +15,7 @@ I’m Shayan F. Lahiji, a postdoctoral associate at Yonsei University in the Dep
 
 Since 2014, I have published 5 papers as first author, 9 papers as co-author, and applied for 4 patents in Korea, U.S., Japan, Europe, and China. In addition, I have been the recipient of several awards, including the “Best Researcher Award” at the 3rd World Biotechnology Conference, the “Young Researcher Award” at the 8th Pharmaceutics & Novel Drug Delivery Systems conference, and the “Best Research Award” from Yonsei University.
 
-<<<<<<< HEAD
 ![](./images/KakaoTalk_Photo_2019-06-14-10-07-05-am.jpeg)
-=======
-![](images/KakaoTalk_Photo_2019-06-14-10-07-05-am.jpeg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 Dr. Lahiji at an international conference held in Madrid, Spain to present his scientific research
 

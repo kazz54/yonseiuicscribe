@@ -5,11 +5,7 @@ date: "2018-10-31"
 
 This special Halloween Edition features Jin, the Editor-in-Chief of UIC Scribe.
 
-<<<<<<< HEAD
 ![](./images/UIC-Snapshot-Halloween-ed.-207x300.jpg)
-=======
-![](images/UIC-Snapshot-Halloween-ed.-207x300.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 ### So, in the spirit of Halloween, can you tell me what your favorite candy is?
 

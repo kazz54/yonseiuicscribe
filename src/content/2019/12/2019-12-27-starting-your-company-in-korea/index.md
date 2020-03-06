@@ -15,11 +15,7 @@ To answer these questions, I interviewed Ji Hyun Lee, the CEO of the language ed
 
 > My name is Ji Hyun Lee and I am the CEO of the company ColorProject. Our company is a language education start-up, as of now we focus on teaching the Chinese language in Korea and abroad. I myself have been teaching Chinese since I graduated from Seoul National University.
 
-<<<<<<< HEAD
 ![](./images/Picture-1.png)
-=======
-![](images/Picture-1.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 **When and why did you decide to start your own company?**
 

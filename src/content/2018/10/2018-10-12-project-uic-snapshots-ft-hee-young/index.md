@@ -3,11 +3,7 @@ title: "Project: UIC Snapshots (ft. Hee Young)"
 date: "2018-10-12"
 ---
 
-<<<<<<< HEAD
 ![](./images/SCRIBE-LOGO-300x300.png)
-=======
-![](images/SCRIBE-LOGO-300x300.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 This week’s piece features Hee Young: a UIC student from the class of '15, majoring in Economics.
 

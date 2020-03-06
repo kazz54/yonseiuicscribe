@@ -9,21 +9,13 @@ Chuseok, also known as Korean Thanksgiving Day, is one of the most important hol
 
 Since international students don’t have hometowns to visit or relatives to spend quality time within Korea, Chuseok can be quite a bore, especially with most of the restaurants, cafes, and “hang-out” spots closed for the holiday. Don’t put your week-long break to waste just by sitting at home and watching Netflix all day. Since most Koreans travel out of Seoul during Chuseok, it is actually the perfect time to go and explore the city’s usually crowded hotspots.
 
-<<<<<<< HEAD
 ![pasted image 0 1](./images/pasted-image-0-1.png)
-=======
-![pasted image 0 1](images/pasted-image-0-1.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 PC: Seoulistic
 
 Historic sites such as palaces and Hanok villages are one of the best places to visit during Chuseok. Not only are they still open during Chuseok day itself, but the cultural performances and activities in these places fully operate during Chuseok as well. The most popular palace is Gyeongbok Palace, which was the main royal palace of the Joseon dynasty. With its grand structures and a beautiful pavilion, Gyeongbok Palace is easily one of the most attractive historic locations in Seoul. If you have already visited Gyeongbok Palace, you should also check out the other two palaces nearby- Changdeok Palace and Changgyeong Palace. Changdeok Palace is known for its beautiful gardens and green, open spaces, while Changgyeong Palace is home to Korea’s first ever western-style greenhouse and botanical garden.
 
-<<<<<<< HEAD
 ![pasted image 0 2](./images/pasted-image-0-2.png)
-=======
-![pasted image 0 2](images/pasted-image-0-2.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 PC: thisgirlabroad
 
@@ -31,21 +23,8 @@ Surrounded by Gyeongbok Palace and Changdeok Palace lies Bukchon Hanok Village, 
 
 If visiting palaces and traditional villages are too slow-paced for your taste, then visiting an amusement park might be a better alternative for you. During Chuseok, amusement parks give plenty of discounts, especially for foreigners. And since this year’s Chuseok coincides with Halloween season, amusement parks will have special themed rides and events. Everland, Korea’s largest amusement park, is located on the outskirts of Seoul, in Yongin, Gyeonggi-do. Here you can find the world’s fourth steepest wooden roller coaster, T-Express, and even a zoo. If the two-hour subway commute is too long for you, then maybe you’d opt for a closer amusement park instead- Lotte World. Lotte World consists of both an indoor and outdoor amusement park. In addition to the numerous rides, here you can also find an indoor ice skating rink.
 
-<<<<<<< HEAD
-![pasted image 0](./images/pasted-image-0.png)
-=======
-![pasted image 0](images/pasted-image-0.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
-PC: everydaykorea
-
-If you enjoy nature and the great outdoors, Chuseok would be the perfect time for you to go hiking, especially since Seoul is home to numerous mountains. And as mentioned earlier, most of the people who live in Seoul travel out of the city during this time, so hiking trails and national parks would be a lot less crowded. Also, since fall is already upon us, the scorching hot summer sun has been replaced by a nice, breezy weather- perfect for hiking. At 837 meters, Bukhansan, located in Bukhansan National Park, is one of the largest mountains in Korea. The mountain has at least five peaks and the view from the top is just breathtaking. On your way up, you might come across a hidden temple carrying out Chuseok rituals. Make sure to stop by the beautiful pool of cool, crystal clear mountain water on your way back down, perfect to refresh your post-hike body.
-
-<<<<<<< HEAD
 ![pasted image 0 3](./images/pasted-image-0-3.png)
-=======
-![pasted image 0 3](images/pasted-image-0-3.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 PC: trazy
 

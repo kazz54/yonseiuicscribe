@@ -7,11 +7,7 @@ Soccer was the last game that left a final mark on a new history of Yonsei Unive
 
 **Korea University’s Initiative**
 
-<<<<<<< HEAD
 ![KakaoTalk 20170930 184044083](./images/KakaoTalk_20170930_184044083.jpg)
-=======
-![KakaoTalk 20170930 184044083](images/KakaoTalk_20170930_184044083.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 Korea University (Korea) brought a formation of 3-5-2 while Yonsei University (Yonsei) brought 4-3-3. During the first half, Korea tried to take the initiative by pressuring Yonsei midfielders past the half-line. With a very fast paced passing, Korea midfielders shook Yonsei’s organization. Korea wingers could then exploit the gap between Yonsei center backs and wing backs. Then, Korea would penetrate the flanks and cross the ball to the center which resulted in a perilous situation for Yonsei. With a similar pattern, Korea continued to overwhelm Yonsei defenses by penetrating to the flanks with great passes and physiques.
 
@@ -21,11 +17,7 @@ But the first half eventually ended with no goals. It was a loss for Korea while
 
 **Yonsei University’s Counter Attack**
 
-<<<<<<< HEAD
 ![KakaoTalk 20170930 184044306](./images/KakaoTalk_20170930_184044306.jpg)
-=======
-![KakaoTalk 20170930 184044306](images/KakaoTalk_20170930_184044306.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 During the second half of the game, Yonsei managed to recover and reorganize their formations through aggressive passes and plays that created cracks between Korea formation. At 51st minute, Yonsei’s Lee Jung Mun (#6) connected Doo Hyun Suck’s (#13, Captain) corner kick with a header that drove the ball into the net. Yonsei finally grabbed a 1-0 lead, resulting in further initiatives. Yonsei’s Yu Jung Wan (#19) acted as a playmaker who promptly carried the ball past the half-line; he then gave accurate passes to center and flanks that granted Yonsei forwards the opportunities to take shots on goal.
 
@@ -33,11 +25,7 @@ Desperate to equalize, Korea launched fast counter attacks whenever they won the
 
 That was when both teams reached the heights of their ambition. Yonsei strived to bring this game to a successful conclusion to write a new history for their school while Korea tried to redeem themselves from their previous four losses. But the crack showed on Korea’s defense. At 92nd minute, Yonsei’s Ha Seung Un (#11) dribbled between Korea defenders and his medium-range shot drove the ball into the near post. All that took were few seconds to mark the triumphant end to this game.
 
-<<<<<<< HEAD
 ![KakaoTalk 20170930 184044312](./images/KakaoTalk_20170930_184044312.jpg)
-=======
-![KakaoTalk 20170930 184044312](images/KakaoTalk_20170930_184044312.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 **Final Remarks**
 

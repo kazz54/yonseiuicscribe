@@ -5,11 +5,7 @@ date: "2018-11-01"
 
 This week’s piece features Professor Hwa Young Seo, a UIC Professor teaching courses on music.
 
-<<<<<<< HEAD
 ![](./images/uic-scribe-prof-seo-225x300.jpg)
-=======
-![](images/uic-scribe-prof-seo-225x300.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 ### How did music first become part of your life?
 

@@ -3,11 +3,7 @@ title: "Interview with Professor Michael Ratnapalan"
 date: "2018-06-08"
 ---
 
-<<<<<<< HEAD
 ![Ratnapalan](./images/Ratnapalan.jpg)
-=======
-![Ratnapalan](images/Ratnapalan.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 **In regards to your previous interview with the UIC Scribe (which can be found in the Spring of 2012 publication), you shared your plans to learn Korean more systematically. Has there been significant progress in your Korean language proficiency, and could you share advices for the foreign students studying Korean in UIC?**
 

@@ -43,11 +43,7 @@ Christ of Mercy Statue
 
 Last but not least, I want to share pictures of my favorite traditional Nicaraguan cuisine.   
 
-<<<<<<< HEAD
 ![](./images/21433242912_4a9e4ba6ac_z.jpg)
-=======
-![](images/21433242912_4a9e4ba6ac_z.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 Gallo Pinto
 

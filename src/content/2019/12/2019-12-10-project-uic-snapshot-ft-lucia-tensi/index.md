@@ -15,8 +15,4 @@ An interview with my Ride-or-Die friend, Lucia Tensi, 17.5, PSIR/SDC student.
 
 **If you could describe yourself as a meme, it would be…?**  
 
-<<<<<<< HEAD
 ![](./images/UIC-Snapshot-Lucia-meme.jpg)
-=======
-![](images/UIC-Snapshot-Lucia-meme.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b

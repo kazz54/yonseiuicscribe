@@ -3,11 +3,7 @@ title: "Project: UIC Snapshots (ft. Professor Daryl Bockett)"
 date: "2018-10-26"
 ---
 
-<<<<<<< HEAD
 ![](./images/uicsnapshot-prof-e1540513263101.png)
-=======
-![](images/uicsnapshot-prof-e1540513263101.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 This week’s piece features Professor Daryl Bockett, a UIC Professor.
 

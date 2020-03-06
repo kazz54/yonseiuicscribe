@@ -5,11 +5,7 @@ date: "2018-11-16"
 
 This week’s piece features Jessica Jung, from the class of 17.5, majoring in International Studies.
 
-<<<<<<< HEAD
 ![](./images/scribejessica1-300x169.jpg)
-=======
-![](images/scribejessica1-300x169.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 ### Now, that the semester is halfway done, what is one thing you want to do before the semester ends?
 

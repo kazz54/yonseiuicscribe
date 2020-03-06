@@ -13,11 +13,7 @@ If you’re interested to learn more about CBRE have a look at the 2013 Global C
 
 There are few typical weeks, but generally I look after a number of international clients, among others, various from Korea. Because of the time difference, I spend my mornings on client calls, catching up on current projects or bringing new opportunities to them. The afternoon is spent mostly on client meetings or inspections, preparing financial and other strategic analyses, presentations and reports, and liaising with other advisors including legal, tax and technical. Travelling fortunately is limited to a few trips to Asia and continental Europe every couple of months.
 
-<<<<<<< HEAD
 ![image3](./images/image3.png)
-=======
-![image3](images/image3.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 3\. Why did you choose the career that you are currently in?
 
@@ -31,19 +27,11 @@ I’m not sure if there is one skill that is so much more essential, rather it i
 
 I was in the student council, UGC (Underwood Global Community), UVE (Underwood Vision Ensemble, VOIS (Visionaries of International Studies), MADE (Major Assets and Development of Equity), and the UIC Student Ambassadors. I think I joined pretty much all the English-speaking clubs that one could join at the time. I don’t think it necessarily matters which club you join though, but what you do within those clubs. It’s great being a member, contributing and participating, but if you have an opportunity to take on additional responsibility, initiate and lead a project, or manage the activities and members of an organisation, I think that’s what prepares you the most for your career. At work you’ll be given and you have to look for responsibilities from day one. If you got experience taking responsibility and creating excellent outcomes then that’s the best preparation for a successful career.
 
-<<<<<<< HEAD
 ![image1](./images/image1.png)![image4](./images/image4.png)
 
 I also went on exchange to Paris for a year, at a school called ESCE. In retrospect, it doesn’t really matter which country and which university you go to, but you really need the foreign experience. I think the three-campus exchange is a unique opportunity to experience other Asian countries, especially if you intend on working in EMEA or the Americas, but Yonsei has great exchange partners everywhere. I chose Paris, because I knew I wanted to work in Europe and was always fascinated by the city. It also helped me getting another internship there. If you want to work in a particular place or just want to know another culture / city / country, then I highly recommend an exchange. It’s not an opportunity that comes around very often.
 
 ![image6](./images/image6.png)
-=======
-![image1](images/image1.png)![image4](images/image4.png)
-
-I also went on exchange to Paris for a year, at a school called ESCE. In retrospect, it doesn’t really matter which country and which university you go to, but you really need the foreign experience. I think the three-campus exchange is a unique opportunity to experience other Asian countries, especially if you intend on working in EMEA or the Americas, but Yonsei has great exchange partners everywhere. I chose Paris, because I knew I wanted to work in Europe and was always fascinated by the city. It also helped me getting another internship there. If you want to work in a particular place or just want to know another culture / city / country, then I highly recommend an exchange. It’s not an opportunity that comes around very often.
-
-![image6](images/image6.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 6\. As one of our alumni, please give us some of your advice and/or recommendations regarding UIC student life.
 
@@ -57,10 +45,6 @@ As for classes and professors, I think they’re all good and I would rate them 
 
 I am obviously biased towards Economics as a major, but it’s certainly a more widely known and demanded subject in Europe than e.g. International Studies. ☺
 
-<<<<<<< HEAD
 ![Daniel Woehler](./images/image2-e1514435690950.png)
-=======
-![Daniel Woehler](images/image2-e1514435690950.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 Please do not hesitate to reach out to me anytime if you have any further questions. My email address is daniel.woehler@outlook.com.

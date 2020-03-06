@@ -11,11 +11,7 @@ These days, I ride the subway with a book on my hand. Pocket-sized books are esp
 
 Sson-Sal Moon-Go, published by Min-Um Sa, is one of the most successful Korean pocketbook series so far whereby Min-Um Sa is one of the major Korean publishers. Sson-Sal Moon-Go, which means swift arrow book series, was named after the publisher’s symbol. A man is aiming an arrow at the symbol. Min-Um Sa explains that they named the series as a swift arrow because this series is going to introduce books that are light like an arrow but hit the reader's mind as if an arrow hits the bull’s eye.
 
-<<<<<<< HEAD
 ![KakaoTalk 20171030 145515990](./images/KakaoTalk_20171030_145515990.jpg)
-=======
-![KakaoTalk 20171030 145515990](images/KakaoTalk_20171030_145515990.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 The books in the series are not long nor expensive. They are about 150 to 200 pages long and the price starts from 5800 KRW. In the series are Hermann Hesse’s “Peter Camenzind,” Edgar Allan Poe’s “The Black Cat,” Kim Seung Ok’s “A Cup of Tea,” Andre Gide’s “L’lmmoraliste,” Franz Kafka’s “Before the Law,” and more.
 

@@ -5,11 +5,7 @@ date: "2018-11-23"
 
 This week’s piece features Dr. Milan Balaz, an associate professor currently teaching at Integrated Science and Engineering Division.
 
-<<<<<<< HEAD
 ![](./images/scribe_milanbalaz-238x300.jpg)
-=======
-![](images/scribe_milanbalaz-238x300.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 ### How is your life in Korea going?
 

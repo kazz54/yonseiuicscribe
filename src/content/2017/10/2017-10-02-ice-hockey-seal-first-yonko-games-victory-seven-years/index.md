@@ -11,11 +11,7 @@ Yonsei was on the power play when Korea’s Young-Jun Seo was off the ice for th
 
 Yonsei grabbed a 1-0 lead in the second period when Byung-Gun Kim received the puck from Hyung-Chul Song with an assist from Ji-Hyun Cho at 27:43, silencing the Korea University’s cheering crowds.
 
-<<<<<<< HEAD
 ![KakaoTalk Moim 3Y3lon3f1Rvcc3N4DuLYXjqRmTmxDc](./images/KakaoTalk_Moim_3Y3lon3f1Rvcc3N4DuLYXjqRmTmxDc.jpg)
-=======
-![KakaoTalk Moim 3Y3lon3f1Rvcc3N4DuLYXjqRmTmxDc](images/KakaoTalk_Moim_3Y3lon3f1Rvcc3N4DuLYXjqRmTmxDc.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 But soon, Yonsei was on a penalty kill as Wun-Jae Choi was sent to the penalty box for minor penalties.
 
@@ -23,11 +19,7 @@ The second period ended with 2-0 with Ji-Hyun Cho stuffing a puck with help from
 
 Yonsei and Korean started the last period with fierce tension.
 
-<<<<<<< HEAD
 ![KakaoTalk Moim 3Y3lon3f1Rvcc3N4DuLYXjqRmTnUTo](./images/KakaoTalk_Moim_3Y3lon3f1Rvcc3N4DuLYXjqRmTnUTo.jpg)
-=======
-![KakaoTalk Moim 3Y3lon3f1Rvcc3N4DuLYXjqRmTnUTo](images/KakaoTalk_Moim_3Y3lon3f1Rvcc3N4DuLYXjqRmTnUTo.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 A sequence of shootings continued until Ju-Hyung Lee scored at 42:16. He shot a puck that came from Jong-Min Lee.
 
@@ -45,11 +37,7 @@ With 1:51 left, face-off took place in Yonsei side and Jae-Hee Lee from Korea Un
 
 The decisive game ended with a 5-1 win over the Korea University, marking the Yonsei University’s first Yonko Games victory in seven years.
 
-<<<<<<< HEAD
 ![KakaoTalk Moim 3Y3lon3f1Rvcc3N4DuLYXjqRmTuN9g](./images/KakaoTalk_Moim_3Y3lon3f1Rvcc3N4DuLYXjqRmTuN9g.jpg)
-=======
-![KakaoTalk Moim 3Y3lon3f1Rvcc3N4DuLYXjqRmTuN9g](images/KakaoTalk_Moim_3Y3lon3f1Rvcc3N4DuLYXjqRmTuN9g.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 A promising season undoubtedly awaits Yonsei ice hockey team with talented players from various ages and backgrounds.
 

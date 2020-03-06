@@ -17,11 +17,7 @@ Although Korea did not “regain independence right away with street demonstrati
 
 February 27, 2019 to remember Yu Gwan Sun and the March 1st movement. Yu Gwan Sun was a female independence activists who vigorously fought for independence and freedom at the age of 16. The movie is about Yu’s life while she was in Seodaemun prison after leading the demonstration. Although she was beaten and tortured in the prison, she continued to organize protests and never stopped supporting Korean independence. One of her famous sayings is “even if my fingernails are torn out, my nose and ears are ripped apart, and my legs and arms are crushed, this physical pain does not compare to pain of losing my nation”. The movie effectively portrays her lifelong sacrifice for Korea’s independence. According to Korean Film Council, _The Resistance_ ranked number 1 during the first week of March and sold more than 1,150,000 tickets.
 
-<<<<<<< HEAD
 ![](./images/IMG_7814-1024x683.jpg)
-=======
-![](images/IMG_7814-1024x683.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 #### Seodaemun Prison History Hall’s Special Exhibition
 

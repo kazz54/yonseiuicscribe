@@ -11,11 +11,7 @@ This year, the Meiji students were welcomed with the Asian Studies Student Counc
 
 The final student presenter from UIC, student Jimin Nam, class of ‘15, gave a presentation on her summer workshop on Ahn Junggeun, a rather controversial figure. As the person who shot and killed prince Hito Hirobumi, Ahn is regarded as a hero in Korea and a terrorist in Japan. Opinion varies, but Nam’s point was that we as academics of today should not be looking at history as right or wrong, but should examine how a historical event happened and its impact on the flow of time.
 
-<<<<<<< HEAD
 ![yDm3bdRc85t KI4SeHJ6MLB2oYCHKIRpry1tjBC7H8OTOF7GPMfaHNttRsXm4i8kaBDQdws2048](./images/yDm3bdRc85t-KI4SeHJ6MLB2oYCHKIRpry1tjBC7H8OTOF7GPMfaHNttRsXm4i8kaBDQdws2048.jpg)
-=======
-![yDm3bdRc85t KI4SeHJ6MLB2oYCHKIRpry1tjBC7H8OTOF7GPMfaHNttRsXm4i8kaBDQdws2048](images/yDm3bdRc85t-KI4SeHJ6MLB2oYCHKIRpry1tjBC7H8OTOF7GPMfaHNttRsXm4i8kaBDQdws2048.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 \[Above: Jimin Nam on her experience at Global Korean History workshop\]
 
@@ -23,11 +19,7 @@ Nam’s delicate topic opened up room for discussion that drove the seminar to f
 
 The last half of the seminar was dedicated to comparative presentations from the Meiji students on contemporary issues in the two  countries.The first group offered a presentation on job hunting, an ever-concerning topic for college students. The second group’s presentation was about the pension system. Last year, Statistics Korea predicted that starting from 2018, Korea will become an aged society; pensions are expected to  become one of the most important topics of debate. The last group gave a presentation about entertainment, which mainly compared famous Japanese animations and Korea’s Hallyu wave.
 
-<<<<<<< HEAD
 ![apfEOs8d0CPKx4 DCSzphHhWM zXubs1875ERpBDUsAk763i0kvdhL4Yyv619T7yKoIEfgs2048](./images/apfEOs8d0CPKx4-DCSzphHhWM_zXubs1875ERpBDUsAk763i0kvdhL4Yyv619T7yKoIEfgs2048.jpg)
-=======
-![apfEOs8d0CPKx4 DCSzphHhWM zXubs1875ERpBDUsAk763i0kvdhL4Yyv619T7yKoIEfgs2048](images/apfEOs8d0CPKx4-DCSzphHhWM_zXubs1875ERpBDUsAk763i0kvdhL4Yyv619T7yKoIEfgs2048.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 \[Above: A group of Meiji student on the entertainment industry\]
 

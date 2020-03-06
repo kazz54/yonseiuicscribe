@@ -23,11 +23,7 @@ Rather than rushing to score high on the TOEFL during the semester, get the scor
 
 Begin your research on graduate programs and requirements. Take the time to go to university websites and find out about their average GPAs, graduate coursework, required academic achievements, or firms that recruit at the school. Having prior knowledge can help direct your focus in your current course of study.
 
-<<<<<<< HEAD
 ![](./images/Article-2-Image-2-1.jpg)
-=======
-![](images/Article-2-Image-2-1.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 If you are planning to enroll in law school abroad, start testing the waters for the Law School Admission Test (LSAT). Test yourself on how high you score before committing to full preparation or start forming a study group with your fellow college mates. If you are planning to enroll in graduate school abroad, start preparing for the Graduate Record Examinations (GRE). You can easily purchase sample questions online or at any large bookstore.
 

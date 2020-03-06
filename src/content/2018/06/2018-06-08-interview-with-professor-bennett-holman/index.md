@@ -3,11 +3,7 @@ title: "Interview with Professor Bennett Holman"
 date: "2018-06-08"
 ---
 
-<<<<<<< HEAD
 ![](./images/Holman-225x300.jpg)
-=======
-![](images/Holman-225x300.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 **Could you briefly introduce yourself?**
 

@@ -3,11 +3,7 @@ title: "Project: UIC Snapshots (ft. KT)"
 date: "2018-10-06"
 ---
 
-<<<<<<< HEAD
 _![](./images/SCRIBE-LOGO-300x300.png)“UIC Snapshots” is a series of short Q&A sessions with people connected to Underwood International College. The aim of this mini-series is to show snapshots of UIC itself and the lives of those who are a part of it._
-=======
-_![](images/SCRIBE-LOGO-300x300.png)“UIC Snapshots” is a series of short Q&A sessions with people connected to Underwood International College. The aim of this mini-series is to show snapshots of UIC itself and the lives of those who are a part of it._
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 _This week’s piece features KT: a UIC student from the Class of 15.5 majoring in Asian Studies._
 

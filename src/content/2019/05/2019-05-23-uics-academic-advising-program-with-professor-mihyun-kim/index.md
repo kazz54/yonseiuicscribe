@@ -17,12 +17,6 @@ Initially, it was difficult to provide the right advice to the students’ quest
 
 Career advice is a topic many students approach me with. The moment you feel free from the pressures of entering college, soon you find yourself in endless competition, having to improve your resume. A lot of students don’t focus on positive concerns like who they are as a person and what they want to do. They make judgments based on external criteria like “what are my colleagues doing to prepare for their career?” or “what career does society favor?” Therefore, through various channels of academic advising (freshman seminar, career workshops, individual consultation), we help students better understand themselves, help find what (s)he wants to do in life, specify what kind of preparations are needed, and ultimately, help them lead a happy life as a member of society.
 
-<<<<<<< HEAD
-![](./images/C:\Users\Owner\Desktop\Scribe\김미현 교수님 사진\DSC Cropped 1.PNG)
-=======
-![](images/C:\Users\Owner\Desktop\Scribe\김미현 교수님 사진\DSC Cropped 1.PNG)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
-
 **How do you try to give the best advice to students?**
 
 My direct and indirect experiences are valuable assets. Direct experiences, of course, come from my life. As for indirect experiences, I read news articles daily and 1~2 books a month. This helps me understand the changing society and empathize with the sensibilities and concerns of the younger generation. Moreover, as I am also human, my viewpoint and knowledge could be narrow. Thus I always try to have a balanced view, an open mind, and learn from my colleagues. I also realized how important my health was when I suffered from HIVD (spine disc) a few years ago. After work, I try to maintain my health by walking and taking up light exercise with my family.

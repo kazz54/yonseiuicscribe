@@ -17,11 +17,7 @@ But once you follow Bland Contents Lab, you are freed from all these. Bland Cont
 
 If you are enchanted by this MSG-Free Facebook page, you can write comments about what you felt when looking at these photos. Then, the page will reply. Bland Contents Lab replies all the comments it receives. When someone tags their friend, the Lab replies “Thank you for the recommendation.” On comments that point out why the particular photo was not so bland, the Lab sympathizes with the reason and comments that they will try to better post bland photos. If you wish to share the bland and ambient scene right in front of you, take a photo and send it to the Lab via Facebook Message. They will reply to you and simply say “Thank you for the photo.” On a weekly basis, they upload the selected collection of photos that their followers have sent with apologies to photos that are not chosen. When you interact with the Lab, you will soon be attracted to their comfortingly gentle, yet humorous manner.
 
-<<<<<<< HEAD
 ![pasted image 0 2](./images/pasted-image-0-2.png)
-=======
-![pasted image 0 2](images/pasted-image-0-2.png)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 Last Wednesday, I sent a photo to Bland Contents Lab. I didn’t realize that I had paid close attention to ordinary scenes of my daily routine until I took this photo. It was a photo of a pillow fallen on a flowerbed of an apartment that I passed by every single day. Thanks to Bland Contents Lab, I felt more attached to such seemingly insignificant objects.
 

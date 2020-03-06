@@ -28,9 +28,11 @@ export default ({ data }) => {
   )
 }
 
+//, limit: 6
+
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: 6) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       totalCount
       edges {
         node {

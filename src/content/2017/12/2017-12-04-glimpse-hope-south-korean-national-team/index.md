@@ -9,11 +9,7 @@ One of the contributing factors that has improved the performance of the South K
 
 Of course, Son Heung-Min is not the only player who deserves credit for the triumph. Ki Sung-Yeung was one of the star players who took command of the mid-field. With his great footwork and accurate passes, he could escape the pressure in the mid-field and precisely pass the ball to forwards and wingers. He was the essential central mid-fielder who would initiate the attack from the half-line. Kwon Chang-Hoon and Lee Jae-Sung were also among the star players who adroitly intercepted the passes and effectively exploited the flanks as winger forwards. Overall, each player performed his expected role in the match, which led to a highly coherent and powerful offensive plays.
 
-<<<<<<< HEAD
 ![photo 2](./images/photo-2.jpg)
-=======
-![photo 2](images/photo-2.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 \[Son Heung-Min dribbling against Colombian defender, Credits: Best Eleven\]
 
@@ -21,11 +17,7 @@ Perhaps, one of the most important changes was their attitude. Ever since their 
 
 South Korean national team delivered what fans had exactly wanted to see. Fast and quick offensive plays and coherent passes were what they needed to bring the games to a great and meaningful conclusion. But what really won the hearts of the fans were the team’s valiant efforts. Despite the fact that Colombia and Serbia were much more competent counterparts, our players did not back down and instead put up a great fight. They exemplified the beauty of sports and the pinnacle of sportsmanship where an underdog could still win.
 
-<<<<<<< HEAD
 ![photo 3](./images/photo-3.jpg)
-=======
-![photo 3](images/photo-3.jpg)
->>>>>>> c5a39213c2a78a1e690f117bd8c71f26fb06e35b
 
 \[Choi Chul Soon dribble between Serbian players, Credits: SpoTV News\]
 
