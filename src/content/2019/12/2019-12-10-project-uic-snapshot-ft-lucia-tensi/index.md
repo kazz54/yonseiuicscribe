@@ -1,6 +1,10 @@
 ---
 title: "Project: UIC Snapshots (ft. Lucia Tensi)"
 date: "2019-12-10"
+author: "Hyein Ahn"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png" 
+image: "./images/UIC-Snapshot-Lucia-meme.jpg"
 ---
 
 An interview with my Ride-or-Die friend, Lucia Tensi, 17.5, PSIR/SDC student.

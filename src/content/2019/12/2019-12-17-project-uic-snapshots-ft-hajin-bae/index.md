@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Hajin Bae)"
 date: "2019-12-17"
+author: "Sejeen Park"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png" 
 ---
 
 Interview with Hajin Bae, Creative Technology Management student, class of 2016

@@ -1,6 +1,9 @@
 ---
 title: "Re-Born: Reusing and Recycling"
 date: "2019-12-19"
+author: "Se Jeen Park"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Few undergraduate students can say that they’ve started their own businesses. It’s not enough to just have a good idea; you have to find people who are willing to invest, find teammates with complementary skill sets, and drag your grand idea back to earth with a realistic business model. Re-Born, an organization founded and run by a group of Underwood International College (UIC) students, shows that all of these can be accomplished if you take advantage of the resources and opportunities that are available.

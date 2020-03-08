@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. SaeHyun Lee)"
 date: "2019-12-30"
+author: "Yeon Seo Koh"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 **How was your exchange experience in University of California, Berkeley? What were your most memorable moments?**

@@ -1,6 +1,9 @@
 ---
 title: "How is Yonsei University’s residential college experience different from one in the US?"
 date: "2019-12-27"
+author: "Soonwoo Kwon"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 I have lived in a dorm both at Yonsei University and at the University of Notre Dame. I went to Notre Dame as an exchange student last fall. After experiencing dorm life at both universities, I was able to observe some similarities and differences between them.

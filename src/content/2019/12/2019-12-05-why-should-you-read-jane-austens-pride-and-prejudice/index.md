@@ -1,6 +1,9 @@
 ---
 title: "Why should you read Jane Austen’s Pride and Prejudice"
 date: "2019-12-05"
+author: "Tamy Vu"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Jane Austen’s _Pride and Prejudice_ is a classic story and classic stories are usually considered somewhat uncontemporary and rather difficult to approach for modern readers. However, such generalizations might be misleading since _Pride and Prejudice_ can be a delightful experience for any readers. Here are a few reasons why _Pride and Prejudice_ should be the unconventional classic that is enjoyable for everyone.

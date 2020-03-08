@@ -1,6 +1,9 @@
 ---
 title: "The Revolutionary Alzheimer’s Disease Research at Yonsei University: A look inside Professor YoungSoo Kim’s laboratory"
 date: "2019-12-27"
+author: "Yerim Kim"
+category: "Science"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Professor YoungSoo Kim of Underwood International College’s Bio-Convergence Major has been doing revolutionary research in the Alzheimer’s disease field. Professor Kim uses animal models to simulate the Alzheimer’s disease to find drug candidates and biomarkers that can indicate the presence of Alzheimer’s disease early on in the development of the disease. The research that Professor Kim does is interdisciplinary, as it combines various disciplines of natural sciences including organic chemistry, chemical neurobiology and biochemistry. Professor Kim’s laboratory uses solid-phase peptide synthesis, protein-based in vitro assays, HTS drug screening, and in vitro animal studies. 

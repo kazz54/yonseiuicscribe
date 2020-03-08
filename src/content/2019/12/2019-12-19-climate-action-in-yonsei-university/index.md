@@ -1,6 +1,9 @@
 ---
 title: "Climate Action in Yonsei University"
 date: "2019-12-19"
+author: "Eunje Kim"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpeg" 
 ---
 
 The first time I heard about the 17 Sustainable Development Goals (SDGs), the United Nations’ 2030 global agenda, was last semester when I took the course Introduction to Sustainable Development and Cooperation by Professor Yoon Semee. Out of the three basic pillars—economic growth, social inclusion, and environmental sustainability—I was especially intrigued by the last one. Although I had previously heard about the dire consequences of climate change, such as extreme weather events and disappearing islands due to rising sea levels, when I watched apocalyptic disaster films like _San Andreas (2015)_ and _Geostorm_ _(2017)_ I frankly felt that it was a slow-moving crisis too “fictitious sounding” to be related to my day to day life. 
@@ -12,8 +15,6 @@ However, as I learned about the alarming projections of temperature rise due to 
 In Yonsei University, the student-led organization Yonsei Student Climate Action Network (YSCAN) has taken the initiative to raise awareness about global warming and foster climate action. Founded in 2017 by a student named Ace Apolonio from the College of Engineering and Professor Greg Brooks English, the student organization now comprises of 22 members divided into three main bodies: administration team, media team, and operations team. With the support of grants, such as the Institute for Global Engagement and Empowerment Social Engagement award, YSCAN conducts various activities for decarbonization both in Songdo and Sinchon campuses. 
 
 In May 2019, it held its first inaugural seminar, “Campus Decarbonization: A Local Solution to a Global Threat,” inviting guest speakers from other universities and environmental NGOs to inform students about climate change. YSCAN members continue to hold a series of open lectures integrating team-building activities, like holding UN simulations negotiating a climate change deal. 
-
-![](https://lh6.googleusercontent.com/EGxYZHigexZM6-JIJ7gtptMkl5P2HiY-6h3lA0zoE-iRkflcqcPVJJsarCvjjlBapyJ86XBjvRP1HmsrT3Tr4Z2K1iaE_InRyY5gbcFNtxpU0JBa7HYb1RD8YajT5YQczuRYUIiP)
 
 November 2019 “Solution to Pollution: An Open Lecture on Climate Change”
 

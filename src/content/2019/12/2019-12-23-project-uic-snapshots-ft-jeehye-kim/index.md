@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Jeehye Kim)"
 date: "2019-12-23"
+author: "Yurie Lee"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Interview with Jeehye Kim, Economics major Class of 2018

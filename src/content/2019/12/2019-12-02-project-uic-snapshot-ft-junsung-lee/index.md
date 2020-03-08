@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Junsung Lee)"
 date: "2019-12-02"
+author: "Jungwon Choi"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Junsung Lee, Entering Class of 18, Nano Science and Engineering

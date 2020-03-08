@@ -1,6 +1,9 @@
 ---
 title: "The Meaning of Privilege in 2019 College Admissions Scandal"
 date: "2019-12-05"
+author: "Sukran Choi"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Ever since the controversial story surrounding the children of affluent parents scamming their way into college admissions came out, it has been a non-stop conversational topic for students rightfully enrolled in universities. Celebrities like Felicity Huffman and Lori Laughlin emerged in the headlines of every news outlet, as the faces of reprehensible parents who had been caught in massive legal issues.

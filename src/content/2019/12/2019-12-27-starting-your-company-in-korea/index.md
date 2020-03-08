@@ -1,6 +1,10 @@
 ---
 title: "Starting Your Company in Korea"
 date: "2019-12-27"
+author: "Sara Rousalova"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
+image: "./images/Picture-1.png"
 ---
 
 Interview with the CEO of the start-up Color Project
@@ -15,7 +19,7 @@ To answer these questions, I interviewed Ji Hyun Lee, the CEO of the language ed
 
 > My name is Ji Hyun Lee and I am the CEO of the company ColorProject. Our company is a language education start-up, as of now we focus on teaching the Chinese language in Korea and abroad. I myself have been teaching Chinese since I graduated from Seoul National University.
 
-![](./images/Picture-1.png)
+![Ji Hyun Lee, CEO of ColorProject](./images/Picture-1.png)
 
 **When and why did you decide to start your own company?**
 

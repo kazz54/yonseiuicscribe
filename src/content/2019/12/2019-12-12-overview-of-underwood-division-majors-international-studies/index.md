@@ -1,6 +1,9 @@
 ---
 title: "Overview of Underwood Division Majors: International Studies"
 date: "2019-12-12"
+author: "Yeon Seo Koh"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.png" 
 ---
 
 ### **International Studies (IS) Major **

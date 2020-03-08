@@ -1,6 +1,9 @@
 ---
 title: "League of Eagles: Yonsei RC Olympics"
 date: "2019-12-27"
+author: "Jungwon Choi"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 The sprints that carry life-or-death desperation; the dynamic tackles that inspire the fierce sense of competition; the aggressive heckling and slogan-chanting from the audience; the detonative roars that silence the opposition. At this moment, nothing else matters: the midterms you failed, the increasing unemployment rate, the evasive true meaning of life—let them be forgotten for now. You are here for victory. 

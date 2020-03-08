@@ -1,13 +1,16 @@
 ---
 title: "Hitachi Internship Interview"
 date: "2019-12-12"
+author: "Min Jun Kim"
+category: "Interviews"
+featuredImage: "./images/test.jpg" 
 ---
 
 The Hitachi Automotive Systems Winter Internship is a 2-4 week program that offers UIC students interested in IT an opportunity to experience the Japanese corporate world.
 
 **Please introduce yourself.**
 
-My name is Hee Young Jeong. I am a junior double majoring in economics and applied statistics. I had an opportunity earlier in the summer to intern at Hitachi Automotive Systems.
+My name is Hee Young Jeong. I am a junior double majoring in economics and applied statistics. I had an opportunity earlier in the summer to intern at Hitaychi Automotive Systems.
 
 **Could you give us a brief overview of the internship program?**
 

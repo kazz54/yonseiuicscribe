@@ -1,6 +1,9 @@
 ---
 title: "Aspiring to a Global Consciousness in the Face of Climate Change"
 date: "2019-12-12"
+author: "Hyein Ahn"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg" 
 ---
 
 While we often go no further than thinking of the Anthropocene as something that has happened to the environment, climate change has progressed to the point that we can no longer avoid considering the repercussions of our environmental pollution. The Anthropocene requires nations to begin working together to achieve the common goal of environmental conservation. This new epoch in the history of the Earth has brought about major disruptions to the planet’s ecosystem in the form of chronic climate change, escalating rates of carbon dioxide concentration, and environmental degradation. Humanity, more than ever before, stands as the primary cause of environmental change due to its relentless and unbridled drive for industrial and technological development. The inverse of this reality is that all of humanity now finds itself inescapably at the mercy of an environment which has begun an equally relentless and unbridled pushback in the form of natural disasters such as tsunamis, earthquakes, and tornadoes. Because we are experiencing climate change as the collapse of an environmental state that we did not construct ourselves and therefore do not know how to repair, it will take a sustained and concerted effort on a global scale to even begin to address the ongoing catastrophes of the Anthropocene. As climate change constitutes one of the greatest threats to our livelihood and continued existence, this creates a strong argument for collaboration between nations to that effect. 
