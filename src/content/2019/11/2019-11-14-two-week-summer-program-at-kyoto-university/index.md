@@ -1,13 +1,14 @@
 ---
 title: "Two-Week Summer Program at Kyoto University"
 date: "2019-11-14"
+author: "Hyein An"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 一期一会 (_ichigoichie_). This Japanese saying by Sōji roughly translates into “one life, one encounter.” It describes every meeting as a once-in-a-lifetime encounter and encourages us to give each moment of our lives our all. 一期一会 also happened to encapsulate the two weeks that the four of UIC students spent in Kyoto. This summer, four UIC students were given an opportunity to participate in a program offered by Kyoto University. They were able to make the most of those new intellectual experiences and friendships in a beautiful city where centuries of history intersect with the hustle and bustle of the present. 
 
 Kyoto University (also known as Kyodai) is a national university in Kyoto, with its heritage has been matching by its fame for producing world-class researchers, including 18 Nobel Prize laureates, two Fields medalists, and one Gauss Prize recipient. It is currently one of Asia’s highest ranked universities and a top-tier university in Japan. Three to four UIC students are invited to this institution every year for the “Kyoto Summer Program (KSP) for East Asia and Germany Students with KU Students.” This year, the selected UIC students took part in the program from July 29th to August 9th. The four students from different majors and different stages of their college years engaged with those from even more diverse backgrounds. The participants—whose majors spanned everything from electronic engineering to French literature—were from Peking University in China, the University of Hong Kong in Hong Kong, National Taiwan University in Taiwan, and several universities in Germany along with students at Kyoto University.
-
-![](https://lh3.googleusercontent.com/baiXZbKns-wo2jYM5T0299CIugwov84iwySZC3xxwAoj4JdQh3qzGyRE_NZPJy8nKBsXoTr4SN8E4rNPBJxkNQfpHucsgkvweU35B1k7hoDz5Kp6sl4sTeEsKKe4Ib0DWPlUMbw)
 
 Despite the variety, all of the participants took the same lectures on aesthetics in Japanese literature, the human mind in zoology, environmental technology, and Japanese language. The lecture on aesthetics in Japanese literature especially left a lingering impression on the participants as the lecture delivered the authentic aspects of traditional Japanese literature that could not be learned elsewhere. The Japanese literati often associated environmental elements with their work, as they had a tendency to cherish the essence of nature. This is why many haikus—a short, classical form of Japanese poetry in three phrases—center on the theme of nature. One of the UIC students even raised a question, comparing a haiku with the theme of winter to a novel by Korean modernist author Yi Sang. 
 

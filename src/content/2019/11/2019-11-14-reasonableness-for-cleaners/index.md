@@ -1,6 +1,9 @@
 ---
 title: "Reasonableness for Cleaners"
 date: "2019-11-14"
+author: "Taewon Min"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Strange fruits are hanging in the streets of Yonsei. The red and white banners all over the campus are written by the cleaners protesting the unreasonable orders, breach of the Labor Standards Act, disapproval of labor unions and unfair labor practices. The fact that these protests have occurred cyclically in recent years, not only at Yonsei but also other universities, suggests that this issue is not a temporary problem that can be solved with ease.

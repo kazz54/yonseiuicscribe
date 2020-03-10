@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Alisha Dhanani)"
 date: "2019-11-04"
+author: "Sukran Choi"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Interview with Alisha Dhanani, Political Science and International Relations major, Class of 2018

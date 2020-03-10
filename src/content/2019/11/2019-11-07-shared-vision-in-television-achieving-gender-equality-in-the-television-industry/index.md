@@ -1,6 +1,9 @@
 ---
 title: "Shared Vision in Television: Achieving Gender Equality in the Television Industry"
 date: "2019-11-07"
+author: "Yurie Lee"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Following the recent celebratory practice of loving yourself as who you are along with a number of progressive social movements, major award ceremonies have developed as the perfect platform to not only reflect positive changes in society, but also to actively call for action against a number of controversies.

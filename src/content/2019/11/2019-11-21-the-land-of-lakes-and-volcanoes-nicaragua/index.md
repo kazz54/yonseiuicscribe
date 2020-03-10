@@ -1,6 +1,10 @@
 ---
 title: "The Land of Lakes and Volcanoes, Nicaragua"
 date: "2019-11-21"
+author: "Eunje Kim"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
+image: "./images/21433242912_4a9e4ba6ac_z.jpg"
 ---
 
 One of the most exciting parts about being a UIC student is getting to interact with people from diverse backgrounds and cultures from all over the world. Though I am ethnically Korean, I grew up in Nicaragua before coming to UIC. During my first year, I realized that for many students, Nicaragua is a place you sweepingly hear about in history textbooks, if not at all. Thus, I would like to share a bit about this place I consider home at heart.  

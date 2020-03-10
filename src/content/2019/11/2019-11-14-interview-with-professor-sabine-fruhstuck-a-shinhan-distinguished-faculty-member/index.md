@@ -1,6 +1,9 @@
 ---
 title: "Interview with Professor Sabine Frühstück, a Shinhan Distinguished Faculty Member"
 date: "2019-11-14"
+author: "Dongwoo (Sam) Kang"
+category: "Interviews"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Since 2006, the Shinhan Distinguished Faculty Program has provided UIC students the opportunity to interact with leading scholars and experts from all over the world. As part of the program, UIC annually hosts a number of distinguished visiting faculty to give lectures and intensive seminars. The UIC Scribe had a chance to speak with this year’s visiting Professor Sabine Frühstück, Koichi Takashima Chair in Japanese Cultural Studies at the University of California, Santa Barbara and renowned expert on issues of gender and sexuality, military and war, and the history of childhood and emotion. 

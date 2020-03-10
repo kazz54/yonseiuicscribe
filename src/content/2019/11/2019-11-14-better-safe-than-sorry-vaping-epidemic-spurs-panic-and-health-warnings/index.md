@@ -1,6 +1,9 @@
 ---
 title: "Better Safe than Sorry: Vaping Epidemic Spurs Panic and Health Warnings"
 date: "2019-11-14"
+author: "Hyunjae Lee"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 It was only after coming to Boston as an exchange student in February that I came to know about the pervasiveness of vaping. At my first party, I saw some fellow students smoking out of things that looked like pens and USB flash drives that people called “jewels.” Never once having smoked or set foot in an enclosed smoking area, I was stunned when my friends later informed me that they were e-cigarettes, or vaping products.

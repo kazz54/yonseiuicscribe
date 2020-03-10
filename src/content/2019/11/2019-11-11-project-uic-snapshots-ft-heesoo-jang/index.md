@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Heesoo Jang)"
 date: "2019-11-11"
+author: "Yerim Kim"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 **How is Sinchon life so far? Is there a big difference between Sinchon and Songdo? **

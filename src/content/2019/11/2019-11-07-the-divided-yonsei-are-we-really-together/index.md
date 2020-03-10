@@ -1,6 +1,9 @@
 ---
 title: "The Divided Yonsei—Are we really together?"
 date: "2019-11-07"
+author: "Sara Rousalova"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 The Yonsei campus scenery remains the same no matter what day it is - friendly faces chatting together, relaxing on benches or turning red while running late to class.

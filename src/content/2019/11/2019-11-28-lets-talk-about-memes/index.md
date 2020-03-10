@@ -1,6 +1,9 @@
 ---
 title: "Let's Talk About Memes"
 date: "2019-11-28"
+author: "Ariunzaya Munkhuu"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 There’s not a single university student who wouldn’t know what memes are if I said ‘meme’. Memes have been part of our daily life and youth culture for a long time that it’s hard to imagine that this new internet category was invented only around 10 years ago. But have you ever paused your endless scrolling on Instagram - where you sniff air out of your nose while you press heart on some memes about university students cramming the night before exam with a shake made of red bull and coffee and tears - to think why exactly memes are so relatable?

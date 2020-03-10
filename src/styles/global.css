@@ -1,0 +1,11 @@
+html {
+  background: lavenderblush;
+}
+
+.gatsby-image-wrapper {
+	width: 50%;
+}
+
+img {
+  width: 500px;
+}

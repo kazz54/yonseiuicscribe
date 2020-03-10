@@ -1,6 +1,9 @@
 ---
 title: "Launching a Career: Student Internships in South Korea"
 date: "2019-11-07"
+author: "Yeon Seo Koh"
+category: "Business"
+featuredImage: "./images/thumbnail.png"
 ---
 
 The overall youth unemployment rate of South Korea has been continuously rising since 2001 and has reached 10.4% as of June 2019, a rate significantly higher than 3.7% of Japan and 8.6% of the United States. More and more young adults are becoming discouraged as they face the harsh reality after graduating from college. A decent educational background no longer guarantees a job. The standards of companies have become higher than ever and competition is intense with a large pool of individuals applying for limited job positions. Job market competition, however, does not necessarily begin after one graduates from college. It begins even before that with internships. 

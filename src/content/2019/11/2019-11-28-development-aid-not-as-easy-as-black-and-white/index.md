@@ -1,6 +1,9 @@
 ---
 title: "Development aid—not as easy as black and white"
 date: "2019-11-28"
+author: "Soonwoo Kwon"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 According to the World Bank’s poverty and equity data, in 2015, 735 million people were living below the international poverty line of $1.90 a day, and according to UNICEF, in 2014, 22,000 children died each day due to poverty and 805 million people worldwide did not have enough food to eat. To alleviate these problems, numerous developed countries provide official development assistance to developing countries. Many international organizations such as World Bank, IMF, World Vision, and Oxfam International are also involved in trying to achieve international development. However, is development assistance actually helpful to developing countries?

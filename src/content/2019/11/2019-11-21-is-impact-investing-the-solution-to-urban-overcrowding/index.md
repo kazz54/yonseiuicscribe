@@ -1,6 +1,9 @@
 ---
 title: "Is Impact Investing the Solution to Urban Overcrowding?"
 date: "2019-11-21"
+author: "Min Jun Kim"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Urban overcrowding is becoming an increasingly serious problem across the world. Major cities such as Seoul, Hong Kong and London suffer from problems ranging from housing price inflation, road congestion, and rural depopulation of surrounding areas. Although there have been many attempts during the past decade to solve the issue of urban overcrowding, these have rarely been successful. For instance, the relocation of the South Korean government’s central administrative agencies has not solved the housing price inflation of Seoul.

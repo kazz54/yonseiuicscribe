@@ -1,6 +1,9 @@
 ---
 title: "The Earth is Flat"
 date: "2019-11-07"
+author: "Se Jeen Park"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 If you’ve finished grade school, then you’ve likely learned about how the Earth is round. The idea that the Earth is spherical has been around since ancient Greece, and it’s been proven several times over with the development of science, particularly space travel. Most of us take this as common knowledge, but there’s a growing subculture on the Internet dedicated to unveiling the so-called “Flat Earth Theory.”
