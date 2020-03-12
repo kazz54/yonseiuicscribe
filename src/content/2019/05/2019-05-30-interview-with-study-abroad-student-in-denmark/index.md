@@ -1,6 +1,9 @@
 ---
 title: "Interview with Study Abroad Student in Denmark"
 date: "2019-05-30"
+author: "Sara Rousalova"
+category: "Interviews"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Enjoying some of the great opportunities our university offers, many UIC students decide to escape Seoul for a semester or two and go on a study abroad program. The list of choices features universities from all around the world with many interesting cultural experiences. How can one make the right choice?

@@ -1,6 +1,9 @@
 ---
 title: "UIC Exclusive Exchange Student Programs in the US"
 date: "2019-05-30"
+author: "Soonwoo Kwon"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 According to Office of International Affairs, 1,600 Yonsei students go on an exchange program every year and Yonsei University currently has exchange agreements with 665 universities in 70 countries. Any Yonsei student can apply for exchange student programs for a semester or an academic year. Some of the requirements for application process are GPA above 3.0/4.3 and completion of at least 2 semesters in Yonsei. The latest students can go on an exchange program is the 1st semester of their senior year.

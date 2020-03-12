@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Minjee Kim)"
 date: "2019-05-06"
+author: "Yerim Kim"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 This week's interviewee is Minjee Kim from the LSBT class of 18.

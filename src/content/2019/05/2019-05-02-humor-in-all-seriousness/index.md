@@ -1,6 +1,9 @@
 ---
 title: "Humor in All Seriousness"
 date: "2019-05-02"
+author: "Ye Eun Lee"
+category: "Politics"
+featuredImage: "./images/thumbnail.jpeg"
 ---
 
 [![There's no shortage of material at "SNL" this season when it comes to Donald Trump.](https://lh4.googleusercontent.com/rpJwz02Ipd3o8D3KNg338vXbZqXByNXUxC_J4Z8Tgy2mFwUOXyR6K129RcpTi3hOG061S6xKI8VDtpIXkLZRJIbBEX8cZQSmaxattI597_L3N4hTpiEGQW-h7qigoHMGe2YbnMM1Wr492hChJw)](https://www.huffpost.com/entry/alec-baldwin-trump-impression_n_589dc72ae4b094a129ea4003)

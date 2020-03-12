@@ -1,6 +1,9 @@
 ---
 title: "Chaebols reforms, an ideal fraud"
 date: "2019-05-09"
+author: "Hayun Lee"
+category: "Business"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Chaebol, large industrial conglomerates run and controlled by families, has become a keyword describing the South Korean social and economic landscape today.

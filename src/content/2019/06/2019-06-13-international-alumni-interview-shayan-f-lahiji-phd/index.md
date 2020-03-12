@@ -1,11 +1,13 @@
 ---
 title: "International Alumni Interview: Shayan F. Lahiji, PhD"
 date: "2019-06-13"
+author: "Yerin Kim"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
+image: "./images/KakaoTalk_Photo_2019-06-14-10-07-05-am.jpeg"
 ---
 
 _I met Dr. Lahiji at an LSBT alumni talk that was held earlier this year. I had the wonderful opportunity to interview him, and got to know more about his journey from UIC to graduate school as well as his research on painless drug delivery systems._
-
-![](https://lh5.googleusercontent.com/ltNI09P9LlCrclGw3wCHUtCOeYZbJD6DDGm_p8w5Q4wtTlqSNZRFjJZu5YP0nDgGgjtvIcUABVWvXXG3VP01b5mVuUEEN8hjbo7JjIv4AGAOAj0wKiip1G5DCcaCGwLNznu2_4us)
 
 A photo from the 2019 graduation ceremony with Dr. Samuel Carroll Brooks III (right), Dr. Janie Sue Brooks (left) and Dr. Shayan F. Lahiji (middle)
 

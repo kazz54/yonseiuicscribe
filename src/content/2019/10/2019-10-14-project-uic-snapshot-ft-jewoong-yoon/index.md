@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Jewoong Yoon)"
 date: "2019-10-14"
+author: "Taewon Min"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Interview with Jewoong Yoon, Energy and Environmental Science and Engineering, Class of 2014

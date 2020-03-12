@@ -1,6 +1,9 @@
 ---
 title: "Interview with a UIC student currently preparing for the national exam for diplomat candidates"
 date: "2019-05-23"
+author: "Min Jun Kim"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 National exam season has begun and several aspiring future diplomats are currently going through or planning to take the national exams. The following personal insight from one of our UIC students with such experience may help those undergoing the process!

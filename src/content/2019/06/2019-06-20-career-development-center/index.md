@@ -1,6 +1,9 @@
 ---
 title: "Career Development Center"
 date: "2019-06-20"
+author: "Tamy Vu"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Sooner or later, we as undergraduates will have to confront the decision of whether to continue with our studies or to establish a career path and find a job for ourselves. It is important to decide on your future path as soon as possible. Although some might propose that by making many mistakes you will find out what is right for you, those mistakes are still preferably made when you are in the self-development process of the college years. An early decision regarding your career orientation is more beneficial, as it can give you a clearer direction in planning your future. Of course, while it would be good to figure out all of these things on your own, the UIC Career Development Center  (known as the CDC) is too good a chance to pass up on.

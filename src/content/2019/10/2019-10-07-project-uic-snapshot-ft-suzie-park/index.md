@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Suzie Park)"
 date: "2019-10-07"
+author: "Sara Rousalova"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 For this edition of Scribe UIC Snapshots, let me introduce one of the long-time members of UIC film making club Prism X and in general an amazing person Suzie Park. 

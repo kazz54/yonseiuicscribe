@@ -1,6 +1,9 @@
 ---
 title: "Allen Café, Where Volunteer Spirits Blend with Lattes"
 date: "2019-05-23"
+author: "Hyein Ahn"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Every Wednesday night from 9 to 11pm, Allenians gather to share a cup of coffee. Allen Café located on the 3rd floor of Dormitory G at Yonsei University International Campus has been spreading warmth to the outside community ever since its initial opening in 2017. Allen Café sells various kinds of beverages – fruit smoothies, green tea latte, coffee, and all kinds of tea – and fosters a place where RC students can come together to share a conversation or to play board games with each other. The profit raised from its sales is donated to Children’s Cancer Foundation. Allen Café is one of the programs provided by Allen House for the purpose of Residential College education.
@@ -16,8 +19,6 @@ Among eleven dormitory houses that operate under the RC education system, Allen 
 Recently, a special program was added to the café. The program called “donation by a hand” was first designed this year and then started collaboration with the café. Drawing from the fact that the café has only been serving drinks, a new RA in Allen House devised a program where RC students can make dessert by themselves and sell those at the café so that the profit earned can also be donated to the Children’s Cancer Foundation. The significance of this program lies upon the fact that what students make with their own hands can be transformed into what can be donated. This is why the program is named “donation by a hand”.
 
 On May 1st, fifteen students got together to make strawberry-cream donuts and chocolate-cream s’mores. Students pasted whipping cream on donuts decorating strawberries on the top and made s’mores using marshmallows and chocolate cream. Although students had to make whipping cream manually which could have turned out to be arduous, students stayed engaged believing that it would bring more meanings to their donation. The fruits of their efforts enabled students at the café to relish more various menus while chatting with their friends or blending in with each other playing board games.
-
-![](https://lh3.googleusercontent.com/IYUlDqG2kun9MSHZ96TLXqoZziNp9mqkUPCRq86rOjfUgCYzg0M4UU868YKNvmrU2Dtqh_mkeNAxhwDg_twv-4lGpJVr5KlTXPFPykJXF8t9E-NFnLf9-HhWovw3J1Wmzl6iMlE)
 
 Students making whipping cream
 

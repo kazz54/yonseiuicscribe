@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Jaeyeon Jeon)"
 date: "2019-10-28"
+author: "Hyein Ahn"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Interview with Jaeyeon Jeon, Comparative Literature and Culture major, Class of 15’

@@ -1,6 +1,9 @@
 ---
 title: "A UIC Student Abroad: Hyunjae Lee"
 date: "2019-06-13"
+author: "Maureen Porter"
+category: "Interviews"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Underwood International College, UIC, allows students from all over the world to study and learn in a truly international and global environment. Although many students who study at UIC are already not studying in their home countries, UIC also offers numerous programs and supports for students who wish to further expand their horizons and study abroad at another university. One such student, who is a member of UIC Scribe herself, is Hyunjae Lee. Hyunjae is an international studies major, currently studying at Wellesley College, which is located in the Boston area of the United States. Wellesley College is a women’s liberal arts university, which was something Hyunjae looked for when studying abroad, since she enjoys and prefers a lower student-to-teacher ratio, which is something UIC itself takes prides in. Thus, at the beginning of January, Hyunjae began her studies abroad. To learn more about her studies and experiences abroad, this interview was conducted to fully describe how the international setting at UIC prepares its students to perform well in a foreign country.

@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Ye Won Choi)"
 date: "2019-05-27"
+author: "Ye Eun Lee"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 For this week’s snapshot, we feature Ye Won Choi, UD class of 17, currently majoring in Economics.

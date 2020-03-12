@@ -1,6 +1,9 @@
 ---
 title: "UIC 2019 MA admissions: Alumni interview"
 date: "2019-06-29"
+author: "Yurie Lee"
+category: "Interviews"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 The UIC Dean met with UIC alumni on a peaceful Saturday morning to discuss their current and future plans as graduate students. During their introduction, it was interesting to note their diverse backgrounds, having come from different universities, countries and fields of study. We took a closer look at our sun-baes’ evolving goals as they progress on with their different steps of life.

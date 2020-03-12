@@ -1,6 +1,9 @@
 ---
 title: "The Incantation of Hope"
 date: "2019-05-02"
+author: "Jungwon Choi"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 “And out of the end of his wand burst, not a shapeless cloud of mist, but a blinding, dazzling, silver animal.”

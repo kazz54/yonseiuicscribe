@@ -1,6 +1,9 @@
 ---
 title: "UIC Global Research Competition"
 date: "2019-06-13"
+author: "Yeon Seo Koh"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 #### **What is the UIC Global Research Competition?**

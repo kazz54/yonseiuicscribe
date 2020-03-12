@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Hyun Jae Lee)"
 date: "2019-06-11"
+author: "Ye Eun Jeong"
+category: "Interviews"
+featuredImage: "./images/test.png"
 ---
 
 You just came back from an Exchange Program! 

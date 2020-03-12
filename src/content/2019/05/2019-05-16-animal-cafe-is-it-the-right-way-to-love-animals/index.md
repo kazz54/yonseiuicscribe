@@ -1,6 +1,9 @@
 ---
 title: "Animal café, is it the right way to love animals?"
 date: "2019-05-16"
+author: "Jung Youn Lee"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 These days when we walk down the street, we can easily find numbers of signboards advertising cafes with animals. These cafes, generally referred to as an ‘animal café’ in South Korea, provide unique experiences; customers are able to observe diverse animals from a very close distance and sometimes even feel and hold them while enjoying similar services as ordinary restaurants. It is a thrilling experience indeed to many animal lovers. Some of these cafes serve the role of animal hotels and care centers as well, places that look after animals when their owners have to leave them alone for a while. With such benefits, the animal café business market scale has increased in a remarkable speed during the recent years. Along with this rapid growth, the species that are involved in the business has also diversified. From everyday pets like dogs and cats, there are cafes presenting raccoons, tortoises, sheep, and even meerkat. This animal café culture certainly provides an enjoyable time for customers, but is it also a beneficial place for the animals inhabiting it?

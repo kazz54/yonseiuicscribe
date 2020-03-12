@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Danny Lee)"
 date: "2019-10-21"
+author: "Eunje Kim"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Interview with Danny Lee, Economics major, Class of 2017 Fall

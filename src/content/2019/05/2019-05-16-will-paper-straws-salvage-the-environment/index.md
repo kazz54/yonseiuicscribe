@@ -1,6 +1,9 @@
 ---
 title: "Will Paper Straws Salvage the Environment?"
 date: "2019-05-16"
+author: "Yurie Lee"
+category: "Science"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 South Korea consumed 98.2kg of plastic products per capita in 2016, dethroning the United States (97.7kg) as the world's greatest per-capita consumer of plastics _(Statistics Korea)._ In order to solve such severe environmental issues and promote sustainable development, the South Korean government has implemented the “natural circulation” initiative, aiming to gradually reduce 20% of Korea’s waste by 2027. Starting from this year, the Ministry of Environment partnered up with 21 major coffee shop brands and fast food franchises, such as Starbucks and McDonald’s, to ban the use of disposable cups and plastic straws. In turn, the Ministry has proposed transitioning to alternatives, encouraging consumers to use eco-friendly products such as paper straws and reusable mugs. Let us examine several different perspectives regarding paper straws and their effectiveness.

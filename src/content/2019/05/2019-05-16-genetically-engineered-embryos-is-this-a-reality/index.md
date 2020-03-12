@@ -1,6 +1,9 @@
 ---
 title: "Genetically engineered embryos: Is this a reality?"
 date: "2019-05-16"
+author: "Yerim Kim"
+category: "Science"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 The world was shaken up when the news broke out that a Chinese scientist, He Jiankui, successfully genetically modified three babies. Two genetically engineered twins were born recently, and a third baby is on its way. According to the BBC, Professor He deleted key genes associated with HIV (Human Immunodeficiency Virus) receptors in the body. Professor He claimed that his actions were ethical, because the genetically modified baby’s father has AIDS (Acquired Immunodeficiency Syndrome) and there was thus a risk that the child could also be infected by HIV. Chinese officials, on the other hand, are currently saying that Professor He violated state laws for fame. According to UNESCO, Germline gene editing is banned in all countries. Currently, we do not know the baby’s status and researchers do not fully understand  the real-life consequences of silencing the HIV receptor genes. This event has generated ethical concerns for some, regarding genetically modified embryos.

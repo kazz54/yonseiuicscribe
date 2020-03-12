@@ -1,6 +1,9 @@
 ---
 title: "“Wishcycling”—Doing Our Part as Responsible Consumers"
 date: "2019-10-31"
+author: "Emma Nijssen"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 ### What is wishcycling?

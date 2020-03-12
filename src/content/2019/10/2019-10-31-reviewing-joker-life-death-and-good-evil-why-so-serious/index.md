@@ -1,6 +1,9 @@
 ---
 title: "Reviewing Joker: Life & death and good & evil? Why so serious?"
 date: "2019-10-31"
+author: "Jungwon Choi"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Let us first offer our deepest condolences to the great loss of the Marvel cinematic universe. While Marvel’s beloved Tony Stark was a man of many things—genius, billionaire, playboy, philanthropist—he was ultimately the one in a million noble enough to choose the cursed fate of a hero over his happy ending as a father. But before the throne irrefutably is secured, its rival DC comics has decided to make one last claim for it. So, who is its champion? Who is our new contender for the crown? Perhaps a secret agent, war hero, demigod, mutant, prince, vigilante or at least some other billionaire? Well, he is a clown. No, nothing super to it, just a clown. Save your boos, ladies and gentlemen, for they will not last long when he starts his tricks. Have no time to waste on a creepy freak who scrapes pennies off of vulgar tricks, you say? Trust me when I say he is one of a kind. Without further ado, please give a warm, welcoming applause to Joker.

@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Alisa Sunmark)"
 date: "2019-05-13"
+author: "Scribe"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Interview with Alisa Sunmark – Econ Class of 16

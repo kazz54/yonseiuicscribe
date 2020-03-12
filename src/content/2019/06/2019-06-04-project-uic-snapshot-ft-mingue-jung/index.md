@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Mingue Jung)"
 date: "2019-06-04"
+author: "Hyein Ahn"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 This time we are introducing Mingue Jung who has been working as an RA of Allen House at Songdo International Campus for two semesters.

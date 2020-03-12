@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Soobin Han)"
 date: "2019-06-17"
+author: "Jung Youn Lee"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 This week we will meet Soobin Han, who just came back from an Exchange program at Waseda University in Japan!

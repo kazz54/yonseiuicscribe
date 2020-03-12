@@ -1,6 +1,9 @@
 ---
 title: "Locating Ourselves through the Selfie: The History of Self-Portraiture"
 date: "2019-05-09"
+author: "Hyunjae Lee"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 The practice of taking selfies not only makes up a large portion of our daily lives but also has become a significant aspect of visual culture in recent years. Since its official entry into lexicon by the Oxford Dictionary in 2013, the selfie has evolved from being a social phenomenon to a common activity. You could take these self-portrait type images in the event of something newsworthy to record your presence. It could be a casual selfie taken alone or with others, presenting a prosaic moment in your everyday life to share with friends and family or to display an emotion. You could also very easily apply a camera filter or use simple editing tools on apps like Instagram to create an idealized image of yourself with smoother skin or whiter teeth. It is for these reasons that selfies have too often been regarded as products of the age of narcissism, in which self-loving and attention-seeking individuals seek perfect images of themselves at the cost of distorting the truth. Self-portraiture that seeks to create idealized images of the self, however, has been around since the advent of photography in the 19th century and has proliferated with the mass consumption of cameras.

@@ -1,6 +1,9 @@
 ---
 title: "Delivery in a hurry: a lurking danger to everybody?"
 date: "2019-06-20"
+author: "Jungwon Choi"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Massive piles of printouts, devastating amounts of assignments. At the farthest corner of a bleak dormitory room, a tortured soul was blankly staring into his computer screen. Then at the bottom corner of the screen popped out an advertisement. It was an image he had already seen at least several times: BTS members happily devouring a plate of chicken. He never liked them or fancied their music. Yet at that moment, their elegant postures were inexplicably glorious, and this stunned him. No, he was definitely not into beautiful boys. Then came the moment of realization: it was the chicken sticks in their hands that he was infatuated with. BTS, whose name itself was now a sensation, was no more than a fancy stage prop next to the sticks. It was not their stage. Instead, the spotlight was owned by the plump drumsticks on the plate. He could imagine the crunches of that crispy breast in his mouth and the sweet sound was already echoing in his eardrums. He declared at last, “I had enough of this!” Then with a treacherous smile, he cheerfully asked, “anyone up for food?” There was no need for words. After a few exchanges of meaningful smiles with his roommates, an agreement was quickly made. “Chicken?” The other two fiercely nodded.

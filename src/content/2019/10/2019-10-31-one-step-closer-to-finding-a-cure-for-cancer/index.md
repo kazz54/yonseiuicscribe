@@ -1,6 +1,9 @@
 ---
 title: "One Step Closer to Finding a Cure for Cancer"
 date: "2019-10-31"
+author: "Yerim Kim"
+category: "Science"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 On October 7, 2019, three scientists – Dr. William G. Kaelin Jr., Dr. Gregg L. Semenza and Dr. Peter J. Ratcliffe – shared a Nobel Prize in physiology and medicine for unlocking a critical mechanism of oxygen sensing. This research is groundbreaking, especially in cancer, because this will lead us to understand how cells use oxygen and how cancer cells develop. The scientists shared a SEK 9 million prize, rewarded by the Nobel Institute in Stockholm.
