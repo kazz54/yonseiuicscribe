@@ -1,6 +1,9 @@
 ---
 title: "Minimalist Living: Less is More"
 date: "2019-04-18"
+author: "Yeon Seo Kwon"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Let’s face it, most people believe money can buy happiness. I mean don’t we all love using money to reward ourselves with material items? Whenever we finish our duties or fulfill our goals, we tend to go search for new clothes, jewelry, expensive meals, or even plane tickets to vacation spots. We spend money on these material goods to taste the pleasure of accomplishment, for that moment of happiness when you feel like you spent your money on something you deserve.

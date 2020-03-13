@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Jaeho Jung)"
 date: "2019-04-15"
+author: "Min Jun Kim"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 This week’s piece features Jaeho Jung, from the Class of 15, majoring in Economics.  

@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Chaehyun Son)"
 date: "2019-04-09"
+author: "Jungwon Choi"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 This week’s piece features Chaehyun Son from the class of 19, majoring in Asian Studies. She is currently an active member of the Korean YouTube channel “YonKo TV”- best known for its video contents offering a sneak peek at the life in Korean universities, mainly Yonsei and Korea. She is participating under the nickname “Hana”.  

@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Hyejoon Jung)"
 date: "2019-04-19"
+author: "Yurie Lee"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 This time we are introducing last year's captain of homeroom 9, Hyejoon Jung.

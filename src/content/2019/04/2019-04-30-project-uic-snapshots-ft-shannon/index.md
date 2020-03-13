@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Shannon)"
 date: "2019-04-30"
+author: "Sara Rousalova"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 This time we are introducing the current Life Science and Biotechnology Student Council Representative - Shannon, finishing her fourth semester at UIC.

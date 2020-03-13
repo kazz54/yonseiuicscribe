@@ -1,6 +1,9 @@
 ---
 title: "A Lost Season for Lebron James and the Lakers?"
 date: "2019-04-18"
+author: "Min Jun Kim"
+category: "Sports"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 With the Los Angeles Lakers eliminated from the playoffs, now might be a good time to think about whether this season has been a lost one for Lebron James and the Lakers.  

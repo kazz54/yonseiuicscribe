@@ -1,6 +1,9 @@
 ---
 title: "So What is Seoul Style?"
 date: "2019-04-26"
+author: "Maureen Porter"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 ### Seoul Fashion Week: March 2019

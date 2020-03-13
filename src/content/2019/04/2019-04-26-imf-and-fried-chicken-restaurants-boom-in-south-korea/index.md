@@ -1,6 +1,9 @@
 ---
 title: "IMF and Fried Chicken Restaurants Boom in South Korea"
 date: "2019-04-26"
+author: "Jeong Ye Eun"
+category: "Business"
+featuredImage: "./images/thumbnail.jpeg"
 ---
 
 The movie called ‘Extreme Job’ was big hit by reflecting the self-employment reality in South Korea with comic elements. The middle-aged main character of the movie who opens a fried chicken restaurant is a symbol of most middle-aged people in South Korea today.

@@ -1,6 +1,9 @@
 ---
 title: "Project: UIC Snapshots (ft. Chaeyun Byun)"
 date: "2019-03-25"
+author: "Hayun Lee"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 This week’s piece features Chaeyun Byun, from the class of 18, majoring in CLC.

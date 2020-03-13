@@ -1,5 +1,6 @@
 import React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
+import layoutStyles from "./layout.module.css"
 
 
 export default ({ children }) => {
@@ -15,7 +16,7 @@ export default ({ children }) => {
     `
   )
   return (
-    <div>
+    <div className={layoutStyles.layout}>
       <Link to={`/`}>
         {data.site.siteMetadata.title}
       </Link>
