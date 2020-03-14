@@ -1,6 +1,10 @@
 ---
 title: "Project: UIC Snapshots (ft. Dr. Milan Balaz)"
 date: "2018-11-23"
+author: "Hyungsung (Steven) King"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
+image: "./images/scribe_milanbalaz-238x300.jpg"
 ---
 
 This week’s piece features Dr. Milan Balaz, an associate professor currently teaching at Integrated Science and Engineering Division.

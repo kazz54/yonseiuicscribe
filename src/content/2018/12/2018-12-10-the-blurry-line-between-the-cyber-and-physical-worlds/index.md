@@ -1,9 +1,10 @@
 ---
 title: "The Blurry Line Between the Cyber and Physical Worlds"
 date: "2018-12-10"
+author: "Linh Chi"
+category: "Technology"
+featuredImage: "./images/thumbnail.jpeg"
 ---
-
-Reporter: Linh Chi
 
 You poke your hands into your pockets in search of your oh-so-precious credit card, only to realize that it’s not where it’s supposed to be. Your heart drops, your brain stops, your hands start sweating and you frantically try to remember where you could have dropped it. Now, if you take a second to assess the situation, you would realise that what you actually lost was just a mere piece of plastic linked to a sum of money in a virtual realm. The money that you were in possession of was not actual money, but rather the concept of it.  
 

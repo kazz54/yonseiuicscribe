@@ -1,6 +1,9 @@
 ---
 title: "Choice Overload: Why is it so Hard to Choose?"
 date: "2018-11-28"
+author: "Yoojin Cho"
+category: "Science"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Walking into a cafe, a familiar scene unfolds before us: a number of open-mouthed, wide-eyed people standing still nearby the cashier, staring into the menu as they try hard to choose a drink. It takes quite a while, perhaps even several minutes, for them to finally settle on one drink and break free from their frozen state. All of us face such situations every day, whether it be choosing a drink to order, shopping for clothes, or even deciding which emoticon to send to your friend. The number of things to choose from is overwhelming, and sometimes it’s just much too hard to choose _one_. These overabundances of options have led to the recently-coined humorous term Koreans like to use: “gyul-jung jang-eh,” which roughly translates to ‘a person with choosing disabilities.’ But why exactly is choosing from a large array of things so hard? What happens in the brain that makes us stand open-mouthed in front of the menu for so long?

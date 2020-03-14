@@ -1,6 +1,9 @@
 ---
 title: "The Drawbacks of Artificial Intelligence"
 date: "2018-11-28"
+author: "Yeon Seo Koh"
+category: "Technology"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 #### **What is Artificial Intelligence?**

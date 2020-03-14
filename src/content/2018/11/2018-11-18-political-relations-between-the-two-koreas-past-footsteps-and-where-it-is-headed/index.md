@@ -1,6 +1,9 @@
 ---
 title: "Political Relations Between the Two Koreas: Past Footsteps and Where it is Headed"
 date: "2018-11-18"
+author: "Yejin Kim"
+category: "Politics"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Ensuing from the previous two rounds of the inter-Korea summits, South Korean president Moon Jae-In has visited North Korea this September for the third North-South Korea summit, which carried on the peaceful wave in the Korean peninsula and served as a cornerstone for establishing a peace regime in Korea. Accordingly, there has been increased anticipation towards the reunification of the Korean peninsula, as well as a sense of security and relief following the peaceful relationship between the two Koreas. Inspired by such movement, this article will go over the past footsteps that were taken in order to achieve the status quo and discuss the prospect of a renewed political relationship between North and South Korea.

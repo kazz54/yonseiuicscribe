@@ -1,6 +1,9 @@
 ---
 title: "MAGA: Make America Gay Again"
 date: "2018-11-12"
+author: "Min Jun Kim"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Every now and then, boredom and idleness often lead to aimless browses through the troves of shows available on Netflix. The next time this happens, try out an episode of _Queer Eye_, which is probably the most 2018 show out there.

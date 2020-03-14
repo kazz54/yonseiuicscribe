@@ -1,6 +1,9 @@
 ---
 title: "What is Korea’s Future Energy?"
 date: "2018-11-18"
+author: "Ye Eun Jeong"
+category: "Science"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Even though South Korea is a top manufacturing country, South Korea cannot make electricity independently, and nuclear power plants are the only source for making energy inside the country without any importation. Thus, Korea’s high dependency on nuclear power plants is inevitable.

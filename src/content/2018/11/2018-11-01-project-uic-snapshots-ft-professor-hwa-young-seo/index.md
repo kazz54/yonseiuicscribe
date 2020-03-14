@@ -1,6 +1,10 @@
 ---
 title: "Project: UIC Snapshots (ft. Professor Hwa Young Seo)"
 date: "2018-11-01"
+author: "Dongwoo (Sam) Kang"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
+image: "./images/uic-scribe-prof-seo-225x300.jpg"
 ---
 
 This week’s piece features Professor Hwa Young Seo, a UIC Professor teaching courses on music.

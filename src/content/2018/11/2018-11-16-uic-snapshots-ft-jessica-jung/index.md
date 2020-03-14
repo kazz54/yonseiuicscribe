@@ -1,6 +1,10 @@
 ---
 title: "Project: UIC Snapshots (ft. Jessica Jung)"
 date: "2018-11-16"
+author: "Maureen Porter"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
+image: "./images/scribejessica1-300x169.jpg"
 ---
 
 This week’s piece features Jessica Jung, from the class of 17.5, majoring in International Studies.

@@ -1,6 +1,9 @@
 ---
 title: "New Town, New Life: Adjusting to Life at Sinchon"
 date: "2018-12-03"
+author: "Dongwoo (Sam) Kang"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Songdo (송도), a district of Incheon city, evokes mixed memories of most Yonsei freshmen’s first taste of university life. For some, Yonsei University’s international Campus may evoke images of a lush, ever-growing concrete jungle. While for others, the international campus may solicit cherished memories of their dorm lives. What can be said with certainty, however, is that due to its strict residential college (RC) program, distance from the main campus, and nascent places of interest, the student life at Songdo differs vastly from the life at Sinchon. Sinchon (신촌), which directly translates to “New Town,” ironically hosts the oldest of the three Yonsei campuses along with a long established shopping and nightlife district. For many Yonsei students who’ve just finished their residential college program, life at the main campus may feel new and exciting. This hardly comes as a surprise given that the huge campus, complete with its own (natural) forest and shuttle system, a bustling population, and the countless nearby restaurants open throughout the night, contrast very starkly from the relatively quiet and close-knit Songdo life that many freshmen are accustomed to. The sense of astonishment can be especially strong for the unprepared such as myself, who returned after a long military-service hiatus immediately following a year at the Songdo. Although it would be mistaken to generalize all students’ experiences, the following insights on the key differences of Yonsei’s Sinchon and Songdo campus lives may provide some aid for those who wish to make a smooth transition from one campus to another.

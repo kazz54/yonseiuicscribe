@@ -1,6 +1,9 @@
 ---
 title: "The #MeToo Movement: South Korea and the United States"
 date: "2018-12-03"
+author: "Maureen Porter"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpeg"
 ---
 
 One of the biggest global movements that has come to the forefront of 2018 is the #MeToo movement.  The #MeToo movement has sought to bring attention to the sexual harassment and assault women experience across the globe and bring an end to the cycle of violence. However, are the acts of violence women face throughout the world universal? Or do the cultural backgrounds affect not only the way a nation portrays sexual misconduct, but also the fight to end it? The #MeToo movement in South Korea and the United States, are facing similar problems. However, they both have been differently shaped by greater cultural values, and must be addressed accordingly.

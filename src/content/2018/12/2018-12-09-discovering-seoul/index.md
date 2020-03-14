@@ -1,9 +1,10 @@
 ---
 title: "Discovering Seoul"
 date: "2018-12-09"
+author: "Tamy Vu"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpeg"
 ---
-
-Reporter: Tamy Vu
 
 I spent my first year of college at Yonsei International Campus in Songdo. Even though it was compulsory to live there, I grew to love the city for its simplicity and peacefulness. I moved to Seoul for the very first time after my freshman year. I was unlucky enough to not get into Sinchon campus dorms due to their limited space, yet lucky enough to end up where I live now.
 

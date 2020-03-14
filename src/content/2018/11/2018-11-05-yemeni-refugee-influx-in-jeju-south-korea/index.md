@@ -1,6 +1,9 @@
 ---
 title: "Yemeni Refugee Influx in Jeju, South Korea"
 date: "2018-11-05"
+author: "Hayun Lee"
+category: "Politics"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 South Korea, a “homogeneous country”, is experiencing an influx of refugees for the very first time in its modern history. Since July 2018, 500 or so Yemeni asylum-seekers fleeing the civil war entered Jeju Island, a tourist destination accessible visa-free from most countries. South Korea and its people are not fully prepared in dealing with the influx of refugees. As a result, there have been problems in the government policies and in the way South Korean citizens have reacted to the issue.
