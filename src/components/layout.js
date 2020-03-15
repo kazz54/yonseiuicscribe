@@ -1,6 +1,6 @@
 import React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
-import layoutStyles from "./layout.module.css"
+import layoutStyles from "./layout.module.scss"
 
 
 export default ({ children }) => {

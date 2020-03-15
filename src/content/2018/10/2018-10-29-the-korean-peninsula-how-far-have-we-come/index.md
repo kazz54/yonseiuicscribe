@@ -1,6 +1,9 @@
 ---
 title: "The Korean Peninsula – How Far Have We Come?"
 date: "2018-10-29"
+author: "Hyunsung Kim"
+category: "Politics"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 So many drastic changes have occurred since Scribe’s previous article on North Korea, “North Korean Nuclear Threat”, which was published on May 10th, 2018. At the time, talks and preparations for the first Inter-Korean summit in 11 years were taking place. Two more summits between the two Koreas occurred after the initial meeting at Panmunjeom in late April. Moreover, American President Donald Trump and North Korean leader Kim Jong-un met in Singapore on 12th June 2018, which was the first-ever meeting between an American president and a North Korean leader. There were a few troubles as President Trump unilaterally decided to cancel the summit, but eventually, the two leaders sat down and signed a joint statement. Kim also traveled to China, which was his first official state visit after assuming power in 2011. Nowadays, there is debate on whether Kim will honor his promise to visit Seoul in due course and even pay a state visit to the United States to meet President Trump. These series of events would have been near impossible to predict five months ago.

@@ -1,6 +1,10 @@
 ---
 title: "Project: UIC Snapshots (ft. Jin)"
 date: "2018-10-31"
+author: "Scribe"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
+image: "./images/UIC-Snapshot-Halloween-ed.-207x300.jpg"
 ---
 
 This special Halloween Edition features Jin, the Editor-in-Chief of UIC Scribe.

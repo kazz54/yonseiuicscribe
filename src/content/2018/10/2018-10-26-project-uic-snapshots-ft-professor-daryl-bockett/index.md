@@ -1,6 +1,10 @@
 ---
 title: "Project: UIC Snapshots (ft. Professor Daryl Bockett)"
 date: "2018-10-26"
+author: "Linh Chi"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
+image: "./images/uicsnapshot-prof-e1540513263101.png"
 ---
 
 ![](./images/uicsnapshot-prof-e1540513263101.png)

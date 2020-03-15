@@ -1,6 +1,10 @@
 ---
 title: "Project: UIC Snapshots (ft. Hee Young)"
 date: "2018-10-12"
+author: "Min Jun Kim"
+category: "Interviews"
+featuredImage: "./images/thumbnail.jpg"
+image: "./images/SCRIBE-LOGO-300x300.png"
 ---
 
 ![](./images/SCRIBE-LOGO-300x300.png)

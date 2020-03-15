@@ -1,6 +1,9 @@
 ---
 title: "From Aristotle to Appenzeller- The end of an era?"
 date: "2018-10-29"
+author: "Moses Lee"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Aristotle House was one of the two UIC dorm houses created in 2013. The house took its name from the famous Greek philosopher to embody the values the man upheld. Aristotle believed that to live a good life was to both carry and nurture good character and actively engage in activities that are intellectually and morally stimulating. With the motto, “The Good Life”, the house sought a balance of intellectual and cultural growth along with the “pursuit of pleasure.” Through a combination of events, programs, lectures, and seminars, Aristotle House hoped to promote a living space where students of all ethnicities, nationalities, and cultures could overcome barriers and form long-lasting bonds. As years passed, and students and faculty have come and gone, the house developed a reputation as the ‘Fun House’; it was known for having the biggest events and the most diverse community on campus (it was also the house known to have incurred the most amount of penalty points). From the outside, it seemed that most of the students residing in Aristotle House embraced the house motto in a literal sense. Whether it could have been attributed to the house events, the shenanigans that some students found themselves in, or the plethora of friendships made in the dorm, it is suffice to say that Aristotle House was an experience which many Aristotelians were fond of.
