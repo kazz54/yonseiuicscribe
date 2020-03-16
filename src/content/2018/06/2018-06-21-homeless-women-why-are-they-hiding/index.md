@@ -1,6 +1,9 @@
 ---
 title: "Homeless Women: Why Are They Hiding?"
 date: "2018-06-21"
+author: "Yu Jin Jo"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 The benches of the Sinchon subway station slowly begin to fill with homeless people as night falls. Among the people that stay the night on those benches, there are some that particularly stand out – those who cover their faces up with bags or hide behind open umbrellas. Taking a closer look, one may find that virtually all of these people are women. These homeless women cover as much of their faces and bodies as possible before falling asleep because of their fear of being seen by others who might do them harm. This growing phenomenon can be seen not only in the Sinchon subway station but in all public places in Korea. In fact, it is a nationwide problem that urgently needs to be addressed and solved.

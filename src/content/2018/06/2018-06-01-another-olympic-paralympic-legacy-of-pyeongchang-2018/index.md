@@ -1,6 +1,9 @@
 ---
 title: "Another Olympic/Paralympic Legacy of Pyeongchang 2018"
 date: "2018-06-01"
+author: "Hayun Lee"
+category: "Interviews"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 The Gender Equality Support Centre in Gangneung Olympic Park is tucked around the corner of the Sports Complex Stadium. Situated beside the rock climbing wall, it is convenient for visitors to locate. It is a small office with minimum furniture. Most of the time, silence and muted atmosphere resides in the office. This quietude is pierced by the occasional ringing of the telephone. Most calls are for administrative work, but once in a while calls for help from victims of sexual harassment and assault are received. The victim on the other side of the telephone is tended to with instant assurance and eager ears.

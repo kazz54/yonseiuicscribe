@@ -1,6 +1,9 @@
 ---
 title: "Interview with a 3-Campus Program Exchange Student"
 date: "2018-06-21"
+author: "Sohyang Yun"
+category: "Interviews"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 **Please introduce yourself.**

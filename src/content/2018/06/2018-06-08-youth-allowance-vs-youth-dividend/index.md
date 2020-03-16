@@ -1,6 +1,9 @@
 ---
 title: "Youth Allowance vs. Youth Dividend"
 date: "2018-06-08"
+author: "Juwon Shin"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Compared to the past, the Korean government has been paying more and more attention to the welfare of the youth. As a result, two main policies have been implemented - Youth Allowance and Youth Dividend. There is a need to know more about these two policies, since they may be the first step towards true welfare for the youth.

@@ -1,6 +1,9 @@
 ---
 title: "Comparative Literature and Culture Major Dinner"
 date: "2018-06-16"
+author: "Mijun Kim"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 **About the Comparative Literature and Culture Major**

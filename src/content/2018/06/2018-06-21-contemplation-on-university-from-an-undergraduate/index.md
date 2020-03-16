@@ -1,6 +1,9 @@
 ---
 title: "Contemplation on University from an Undergraduate"
 date: "2018-06-21"
+author: "Hayun Lee"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Was university your own idea? If it was, good for you. A hearty shoulder pat and thumbs up for being in the right place at the right time for you. Was going to university the result of a natural escalation of your academics? A place of refuge because you were clueless after high school graduation and university seemed to be another exploratory route? Even more pragmatically, was it a choice made because it is beneficial to have a degree under your belt in terms of job prospects and future career? Whatever your reason for struggling through a degree laden with dissertation readings, presentations, endless essay writing, and assignments is, we have all met at this higher institution of learning. Nice to meet you.

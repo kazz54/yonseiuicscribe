@@ -1,6 +1,9 @@
 ---
 title: "Interview with Professor Bennett Holman"
 date: "2018-06-08"
+author: "Julia Hong"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 ![](./images/Holman-225x300.jpg)

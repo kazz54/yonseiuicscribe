@@ -1,6 +1,9 @@
 ---
 title: "Personal Advice on How to Survive UIC Curriculum as a Korean Student"
 date: "2018-06-16"
+author: "Hyunsung Kim"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Korean students’ hearts are often filled with joy and expectations once they hear that they got accepted to Underwood International College of Yonsei University. Little do they know, hundreds of reading materials, hours of discussion sessions, and seemingly endless pages of English writing would be awaiting them the following year. Some Korean students feel exhausted and dissatisfied for various reasons; Korean Students sometimes have difficulty catching up with the lectures, discussions, and assignments. For those who have ever felt this way, trust me – you are not alone. I myself was, and still am, another student in the long queue of lost and dumbfounded Koreans in the UIC. Having been educated and residing in Korea for the entirety of my life, my background knowledge on Hegel or the Enlightenment was virtually non-existent. Moreover, writing critically about a given article was too much a difficult task for me to handle. And wasn’t alone in having trouble with keeping up. Many of my Korean friends were also lost, spending more than half of the time looking up the words they did not know in the readings as opposed to using that time to actually understanding the readings.  The Korean education system is known for its focus simple memorization and college application preparations. Thus, UIC’s liberal arts approach of learning and critical thinking is often an “out-of-the-box” experience for native Korean Students.

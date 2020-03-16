@@ -1,6 +1,9 @@
 ---
 title: "Interview with Professor Michael Ratnapalan"
 date: "2018-06-08"
+author: "Julia Hong"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 ![Ratnapalan](./images/Ratnapalan.jpg)

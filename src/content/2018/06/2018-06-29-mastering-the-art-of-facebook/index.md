@@ -1,6 +1,9 @@
 ---
 title: "Mastering the Art of Facebook"
 date: "2018-06-29"
+author: "Julia Hong"
+category: "Technology"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Facebook, by itself as a whole, is a controversy. Based on the statistics of Facebook accounts throughout its existence, its user population will continue to expand. Or will it? As long as Facebook operates, controversies will come along. However, none of the past controversies have done significant damage to this social media site to an extent of long term loss of its users.

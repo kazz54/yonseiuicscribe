@@ -1,6 +1,9 @@
 ---
 title: "Guns Don’t Make Us Safer"
 date: "2018-06-29"
+author: "Maureen Porter"
+category: "Politics"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Guns are something you don’t see every day in South Korea. According to USA Today, South Korea has fewer guns per capita than any other developed nation, the number of registered guns being around 510,000. Registered guns in South Korea have to be kept at local police stations, which is something that is impossible to imagine in the United States. On March 28th, approximately 800,000 people marched in Washington D.C.. This march, dubbed the ‘March for Our Lives’, also led to other rallies across the United States including protests in New York City, Boston, Los Angeles, and Chicago. This movement came as a direct response to the high school shooting in Florida that resulted in the deaths of 17 people. These marches clearly exemplifies the tension surrounding gun control, although there have been no substantive changes in legislation since. By comparing gun control in the U.S. to that in other countries, it is clear that stricter gun control results in fewer gun deaths. However, despite these facts, the U.S. Congress has failed to pass gun control laws due to the inaction of American policy makers, as well as the influence of the National Rifle Association (NRA) in American politics.
