@@ -1,6 +1,9 @@
 ---
 title: "Motherhood is not all sweet - Media Portrayal of Maternity Leave"
 date: "2018-05-17"
+author: "Jiyoon Lee"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
  

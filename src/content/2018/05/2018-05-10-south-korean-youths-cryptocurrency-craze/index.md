@@ -1,6 +1,9 @@
 ---
 title: "South Korean Youth’s Cryptocurrency Craze: Lottery Out of “Hell Joseon”"
 date: "2018-05-10"
+author: "Phuong Nguyen"
+category: "Technology"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 **What is Cryptocurrency?**

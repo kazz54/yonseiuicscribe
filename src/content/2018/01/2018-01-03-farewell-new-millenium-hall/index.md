@@ -2,6 +2,8 @@
 title: "Farewell, New Millenium Hall"
 date: "2018-01-03"
 author: "Elijah Lee, Jihyun Bang"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 _This article highlights select portions from the following public emails the 12th UIC Student Council “Solidity” sent to all UIC students: “Public Hearing Session regarding UIC Relocation (documents)” \[sent September 11, 2017\] and “Update on Building Relocation” \[sent November 10, 2017\]. For more information, please refer to these emails._

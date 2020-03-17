@@ -1,6 +1,9 @@
 ---
 title: "North Korean Nuclear Threat"
 date: "2018-05-10"
+author: "Hyunsung Kim"
+category: "Politics"
+featuredImage: "./images/thumbnail.png"
 ---
 
 The situation change couldn’t have been more drastic. Only a year ago, the tensions surrounding the Korean peninsula were rising as if war was just around the corner. North Korea conducted a nuclear experiment that was more powerful than the previous experiments combined, and launched three ICBMs. Threats and insults, such as “fire and fury”, “Rocket Man”, “dotard” and “EMP attacks” were exchanged across the Pacific Ocean. Now, the South-North talks are included in the itinerary, and U.S-North Korea talks are expected to take place sometime later. These changes, while abrupt, are relieving. Nevertheless, these events are not signs that we can now simply sit back and celebrate the détente. In fact, this peaceful mood is the very reason why we should remain vigilant.

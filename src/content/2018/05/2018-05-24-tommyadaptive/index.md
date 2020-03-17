@@ -1,6 +1,9 @@
 ---
 title: "#TommyAdaptive"
 date: "2018-05-24"
+author: "Mijin Kim"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Tommy Hilfiger leads the way toward inclusivity for people with disabilities

@@ -1,6 +1,9 @@
 ---
 title: "How Safe is Korea?"
 date: "2018-05-17"
+author: "Sara Rousalova"
+category: "Opinion"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Last year, before I moved to South Korea I remember how many relatives I had to assure that I was not planning to die any soon, living in Asia and so close to the feared North Korea.  Brought up in Central Europe, I have enjoyed the rather "safe" and boring life. In a small country like Czech Republic nothing much happens, and local events definitely don't appear on the headlines of overseas newspapers as often as Korean news does. The whole world is continuously focused on whether the threat of another war will emerge in the divided peninsula. Therefore, for most parts of the world, South Korea has sadly turned into one of the most "dangerous" countries to live in. However, is this assumption well-grounded at all?

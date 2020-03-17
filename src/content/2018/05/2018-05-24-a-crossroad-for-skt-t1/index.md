@@ -1,6 +1,9 @@
 ---
 title: "A Crossroad for SKT T1"
 date: "2018-05-24"
+author: "Max Park"
+category: "Sports"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 SKT T1 is a professional Korean League of Legends (LoL) team that has been known to be the juggernaut in the LoL Champions Korea (LCK). Not only are they the three-time winner of the LoL World Championship, twice winner of Mid-Season Invitational (MSI), and the four-time winner of LCK, but their dominant gameplay during every match is enough to consider them a legendary team. In addition, SKT T1 consists of legendary players such as Faker (Mid), Bang (ADC), and Wolf (Support). Their extraordinary skills and creativity always led SKT T1 to numerous victories. This Spring Split season, however, would be the most difficult season for SKT T1 as they fell into a deep slump.

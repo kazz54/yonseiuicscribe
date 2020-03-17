@@ -1,6 +1,9 @@
 ---
 title: "Yonhee Dong Dabang: A Stress-Relieving Haven for Yonsei Students"
 date: "2018-05-24"
+author: "Yu Jin Jo"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 These days, university libraries are no longer places where students merely come to study or borrow books; they’ve turned into places that serve various purposes that may sometimes seem completely irrelevant to the traditional purposes of a library. This is especially true for the Underwood Memorial Library (UML), the school library located in Yonsei University’s International Campus in Songdo. Within UML, there are many facilities such as the school cafeteria ‘Y-Plaza’, a convenience store, and even a post office. But among them all, one of the most sought-after facilities is ‘Latte Flora’, a café located on the seventh floor. It is a go-to spot for students due to its tasty and unique selection of drinks and desserts, including its well-known ‘Jorripong Frappe’ and ‘Melting Cheese Pannini’, which they can enjoy while admiring the beautiful view of the campus from the window. This year, Latte Flora has initiated changes that have made the café an even more attractive place to visit. It has launched a small comic book café called ‘Yonhee Dong Dabang’ within Latte Flora, where visitors of Latte Flora can read comic books free of charge while sipping their drinks.

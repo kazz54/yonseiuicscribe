@@ -1,6 +1,9 @@
 ---
 title: "Turn it Up, or Listen Up? The Loudness War"
 date: "2018-05-17"
+author: "Dongwoo Kang"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Think of your favorite song, any genre. Chances are that the word “loud” or references to volume are included in the lyrics. Popular musicians have long asked listeners in their songs to “turn the music up” or rejoice in the loudness. Surprisingly, it appears that music producers have been doing just that; the music we listen to has actually been steadily increasing in volume throughout the years.

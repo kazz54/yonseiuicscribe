@@ -1,6 +1,9 @@
 ---
 title: "Has the Time Come for Anti-Social Media?"
 date: "2018-05-10"
+author: "Minjun Kim"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 It has been a while since social media became a staple in our everyday lives. Very rare is it nowadays to find a person without a social media account. In this day and age, we don’t ask someone for their number but ‘follow’ them or ‘request to be friends’ on some sort of social networking service.
@@ -23,7 +26,7 @@ It is hard to pin all the blame on Facebook. What else can we expect from a soci
 
 So what can we do?
 
-#DeleteFacebook is trending these days, no less on Facebook itself. But that seems a nonsensical route to take. What is the point of posting on Facebook that you are going to deactivate your account when the post itself will also disappear after you do so?
+The #DeleteFacebook movement is trending these days, no less on Facebook itself. But that seems a nonsensical route to take. What is the point of posting on Facebook that you are going to deactivate your account when the post itself will also disappear after you do so?
 
 Do we find an alternative platform? The closest substitute for Facebook in terms of functionality and number of users is probably Instagram. So… hop onto Instagram? The slight catch is that Instagram is owned by Facebook. Ruling out the option of rushing onto Instagram. Switching to any other social networking service doesn’t make sense either because they lack the number of users – which is the primary reason in people staying put with Facebook for the time being.
 

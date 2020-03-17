@@ -1,6 +1,9 @@
 ---
 title: "Yonsei Social Innovation Networking Night"
 date: "2018-01-03"
+author: "Jihyun Bang"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 **What is the Yonsei Center for Social Innovation?**
