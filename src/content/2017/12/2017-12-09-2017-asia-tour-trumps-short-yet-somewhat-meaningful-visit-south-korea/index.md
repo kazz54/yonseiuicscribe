@@ -1,6 +1,9 @@
 ---
 title: "2017 Asia Tour - Trump's Short Yet Somewhat Meaningful Visit to South Korea"
 date: "2017-12-09"
+author: "Hyeong Jin Lee"
+category: "Politics"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 On November 4th, President Trump left the United States to go on a tour of a few Asia-Pacific countries such as Japan, South Korea, China, Vietnam, and the Philippines. His goal appeared to consist of strengthening US-led efforts to deal with North Korea and its nuclear threats, spreading his administration’s idea of a “free and open Indo-Pacific region”, establishing more favorable bilateral trade relations to reduce US trade deficits, and lastly, to temporarily evade his domestic issues such as low approval ratings and the ongoing Russia probe. President Trump’s Asia tour took place as follows: on November 5th, President Trump arrived in Japan and departed from Japan for Korea on November 7th. After a short 24 hour stay in South Korea, President Trump then proceeded to China on November 8th where he stayed until he departed for Vietnam on the 10th.

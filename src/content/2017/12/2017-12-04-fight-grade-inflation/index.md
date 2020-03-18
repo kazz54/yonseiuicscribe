@@ -1,6 +1,9 @@
 ---
 title: "Should We Fight Grade Inflation?"
 date: "2017-12-04"
+author: "Mijin Kim"
+category: "Opinion"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Grade inflation, which is defined as an increase in the average grade of college students, has become a major discussion topic in the last couple of years. Many believe that this rapid increase is not necessarily the result of more studious and diligent students, but of more lenient grading policies by academic institutions.

@@ -1,6 +1,9 @@
 ---
 title: "Bland"
 date: "2017-12-04"
+author: "Jiyoon Lee"
+category: "Opinion"
+featuredImage: "./images/thumbnail.png"
 ---
 
 “This is a circular lamp.”

@@ -1,6 +1,9 @@
 ---
 title: "Introduction to IDFW"
 date: "2017-12-22"
+author: "Sohyang Yun"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 International Design Factory Week 2017 was held in Veritas Hall B and welcoming many UIC students and professors and representatives from Design Factories all over the world. October 30th was the opening ceremony of the IDFK and at 2 o’clock, Professor Jin-bae Chung, the dean of UIC, opened the ceremony with his welcoming remarks.

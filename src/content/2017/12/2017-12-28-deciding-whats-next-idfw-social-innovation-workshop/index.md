@@ -1,6 +1,9 @@
 ---
 title: "Deciding What's Next for the IDFW Social Innovation Workshop"
 date: "2017-12-28"
+author: "Hyunjae Lee"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 During the 2017 International Design Factory Week (IDFW) at Yonsei University’s Songdo campus, the Design Factory Global Network (DFGN) held one of its sessions on November 2nd. Anita Kocsis, one of the Design Factory directors representing Melbourne, Australia, said that the goal of Design Factory, which consists of students, faculty, and industry partners who share a passion for creative learning and efficient problem-solving, was to “come together all ways, to re-energize, share practices, and together decide what’s next.” During an hour session from 11:30 to 12:30, the directors worked on a creative exercise to discuss what the DFGN would look like in the distant future.

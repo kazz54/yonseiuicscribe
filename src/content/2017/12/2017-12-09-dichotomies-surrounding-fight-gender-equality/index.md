@@ -1,6 +1,9 @@
 ---
 title: "Dichotomies Surrounding the Fight for Gender Equality"
 date: "2017-12-09"
+author: "Semi Park"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Quite simply put, gender equality refers to men and women being offered equal opportunities within all facets of society. Observing this topic from the surface, the concept seems to be a rather basic, easily-comprehensible one. However, a multiplicity of issues and perspectives surround these two simple words, and much-heated debate and argument are arising amongst people who are all essentially fighting for the same cause.

@@ -1,6 +1,9 @@
 ---
 title: "Neuroevolution: Is the Impossible becoming Reality?"
 date: "2017-12-30"
+author: "Se Mi Park"
+category: "Science"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 In modern times, the environment portrayed in science fiction from the 20th century no longer holds extreme deviation from reality. Technology is advancing at an alarming rate, and the world is becoming increasingly obsessed with the idea of intellectual technology, better known as artificial intelligence (AI).

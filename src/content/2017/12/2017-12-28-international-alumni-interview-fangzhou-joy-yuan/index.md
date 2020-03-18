@@ -1,6 +1,9 @@
 ---
 title: "International Alumni Interview: Fangzhou Joy Yuan"
 date: "2017-12-28"
+author: "Mijin Kim"
+category: "Interviews"
+featuredImage: "./images/thumbnail.png"
 ---
 
 1\. Please introduce yourself (student year, major, the location of your current work, etc.)

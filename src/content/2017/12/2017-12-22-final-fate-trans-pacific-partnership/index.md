@@ -1,6 +1,9 @@
 ---
 title: "The Final Fate of the Trans-Pacific Partnership"
 date: "2017-12-22"
+author: "Phuong Nguyen"
+category: "Politics"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 On his fourth day in office, Trump signed the executive order formally ending the United States’ participation in the Trans-Pacific Partnership, a core part of the Obama administration's strategic "Pivot to Asia" that aimed to secure U.S. commitment and write the rule of trade in the region. The TPP, the largest regional trade accord ever, was designed to bring together the United States and 11 other nations in a free-trade zone for about 40 percent of the world’s economy. It was intended to lower tariffs while establishing rules for resolving trade disputes, setting patents and protecting intellectual property. Most importantly, it finally brought the United States and Japan, the world’s largest and third-largest economies, together in a free-trade pact. Trump’s decision to abandon the TTP not only erased his predecessor’s main legacy but also reversed the free-trade strategy adopted by presidents of both parties dating back to the Cold War.

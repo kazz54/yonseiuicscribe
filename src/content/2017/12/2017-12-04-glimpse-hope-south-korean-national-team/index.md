@@ -1,6 +1,9 @@
 ---
 title: "Glimpse of Hope for South Korean National Team"
 date: "2017-12-04"
+author: "Byunsung Park"
+category: "Sports"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 South Korea achieved a resounding victory against Colombia with Son Heung-Min’s multi-goal (2:1). Against Serbia, we could  put up a good fight to bring the game to a tie (1:1). It is surprising how much our national team has changed after experiencing humiliating defeats during the international matches in October. What caused our team to improve so substantially? What could have potentially changed the attitudes of our players?

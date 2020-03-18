@@ -1,6 +1,9 @@
 ---
 title: "What Does Being \"International\" Mean?"
 date: "2017-12-22"
+author: "Sara Rousalova"
+category: "Interviews"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 After living in England, the USA and many other places, I have realized how I don’t fit into any of them. Growing up in countries I never really could consider my home made my constant departures an amusing cycle. I would gloriously wave goodbye, a moment I have always been waiting for, and leave another borrowed home behind, and as I arrive yet in another place, a similar situation repeats.
