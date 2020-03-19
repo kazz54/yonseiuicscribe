@@ -1,6 +1,9 @@
 ---
 title: "The CODA Exhibition: A Grand Send-off for UIC’s Bright Designers"
 date: "2017-11-06"
+author: "Hyeong Jin Lee"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.png"
 ---
 
 In the afternoon of October 14th, artists and their friends and family were gathered at Cheongdam-dong’s Gallery ‘Won’ for the 2017 IID Graduation Exhibition titled “CODA The New Prologue”. Here, the graduating class of the IID (Information & Interactive Design) major showcased their works which were the culmination of all the skills that they have cultivated in their university careers. As expected of an IID event, all the guests were well dressed for the occasion and many even prepared flowers for the young artists who seemed anxious and eager to share their works.

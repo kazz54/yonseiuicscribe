@@ -1,6 +1,9 @@
 ---
 title: "The Dark Age of South Korea's National Football Team"
 date: "2017-11-06"
+author: "Byunsung Park"
+category: "Sports"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 On October 7, 2017, Korea lost against Russia (2:4). On October 10th, Korea lost against Morocco (1:3). Both games ended in depressing defeats that elicited much disappointments from Korean fans. But what is more disheartening with such results was not the loss itself but the fact that  the Korean national team was unable to put up a good fight. On the one hand, the defense ended up giving too much space to the opponents along with the conceding of goals. On the other hand, the offense did not manage to create enough pass plays that could penetrate the opposing team’s defense..

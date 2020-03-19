@@ -1,6 +1,9 @@
 ---
 title: "UIC’s New Admissions Policy for Suneung-Takers"
 date: "2017-11-25"
+author: "Hyunjae Lee"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 The cold winter brisk of November signals the nearing end of the year. It also marks the beginning of university admissions. As it does annually, the season of university admissions has returned at Yonsei University, with a slight change in its college admissions policy for the Underwood International College. The 2018 UIC admissions policy is now admitting 15 UIC applicants through a newly created admissions system with qualification standards for Suneung (CSAT).

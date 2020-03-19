@@ -1,6 +1,9 @@
 ---
 title: "Comfort Women Statues Ride Buses in Seoul"
 date: "2017-11-06"
+author: "Phuong Nguyen"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 From mid-August to the end of September this year, travelers who rode the five buses of Dong A bus company got some new companions: Comfort women’s statues. The image of young Korean girls wearing simple black and white traditional Hanbok not only raises contrast with today’s modern fashion but also symbolizes the Korean women who were forced to provide sexual service to Japanese soldiers during World War II. These statues belong to the project titled "Dream Lost by Girls," to memorize the sexual slavery victims during the fifth anniversary of World Comfort Women’s Day: August 14. The statues were also brought to the Japanese embassy, Suwon, Daejeon and Jeonju before they arrived at a permanent monument at the end of September.

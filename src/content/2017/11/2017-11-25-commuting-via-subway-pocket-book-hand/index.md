@@ -1,6 +1,9 @@
 ---
 title: "Commuting via Subway with Pocket Book on My Hand"
 date: "2017-11-25"
+author: "Jiyoon Lee"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 I would define the ‘classical’ as something that I return to after a long wandering. My example of ‘classical’ things would be the film ‘Wall-E,’ which is what I watch after going to the movies a couple of times per month to watch a series of brand new box-office films. Another ‘classical’ thing is the 1980s Korean rock music that I listen to after listening to trendy popular songs with similar melodies for a while.
