@@ -1,6 +1,9 @@
 ---
 title: "The Third Annual Meiji Yonsei Student Seminar"
 date: "2017-10-25"
+author: "Phuong Nguyen"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 On Sep. 15, 2017, the annual Meiji Yonsei Student Seminar was held in New Millennium Hall, Sinchon campus. With the participation of ten students from Meiji University and around twenty from the UIC Asian Studies department, the seminar was a cooperative success between the schools and of the friendship between Japan and Korea.

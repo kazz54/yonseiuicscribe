@@ -1,6 +1,9 @@
 ---
 title: "Aristotle Event - Crazy Arcade"
 date: "2017-10-10"
+author: "Sohyang Yun"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Aristotle House is the international house at the Songdo international campus. The value of our house follows the philosopher, Aristotle. Aristotle is a philosopher who promoted the “good life”, the golden medium. Aristotle explains in his Nicomachean Ethics, that humans must live a life of virtue and be educated to pursue that virtue. Virtue can be found right in the middle of deficiency and excess and thus, the good life for Aristotle is a balanced life. This balanced life for us in Aristotle house is managing to find the time to have fun.

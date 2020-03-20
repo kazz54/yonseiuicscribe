@@ -1,6 +1,9 @@
 ---
 title: "A Foreigner's Guide to a Fun Chuseok"
 date: "2017-10-02"
+author: "Elaine Natalie"
+category: "Culture"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Chuseok is almost upon us, and with it comes a nice and relaxing, week-long holiday. Chuseok itself falls on October 4th, but because it coincides with National Foundation Day (October 3rd) and Hangul Day (October 9th), the government has decided to also make October 2nd a national holiday. Thus, this year’s “Chuseok” holiday will last from September 30th until October 9th.

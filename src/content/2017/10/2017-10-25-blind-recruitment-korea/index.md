@@ -1,6 +1,9 @@
 ---
 title: "Blind Recruitment in Korea"
 date: "2017-10-25"
+author: "Juwon Shin"
+category: "Business"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 ‘Blind Recruitment’ is a compound word consisting of ‘blind’ and ‘recruitment’, which means when recruiting an employee, what the corporation requires are one’s character, aptitude, and function, meaning how well one can contribute to the company. . This means that different from the past, the name value of the university doesn’t matter as much as it did in the past. The applicants are no longer allowed to put their school name on the resume, and therefore no merit can be earned from it. The blind recruitment system has become an issue in especially prominent universities because until now, the title of the university may have been a strong factor in getting into a company . However, by allowing the companies this admission, the recruitment system has dramatically changed. Opportunities may  become open to more diverse people, even for those whose universities carry lower social  status. This ‘Blind Recruitment’ is to benefit those who have worked hard in self-development  more than anyone else, regardless of their university or their grades. What is meant to be most important now is one’s suitability with the job and the company.

@@ -1,6 +1,9 @@
 ---
 title: "Ice Hockey to Seal the First Yonko Games Victory in Seven Years"
 date: "2017-10-02"
+author: "Jiyoon Lee"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 **The decisive game ended with a 5-1 win over Korea University, marking Yonsei University’s first Yonko Games victory in seven years.**

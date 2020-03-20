@@ -1,6 +1,9 @@
 ---
 title: "Walkabout: Attempted Homogenisation of Aboriginal Culture on Screen"
 date: "2017-10-25"
+author: "Mijin Kim"
+category: "Culture"
+featuredImage: "./images/thumbnail.png"
 ---
 
 Nicolas Roeg’s famous 1971 film _Walkabout_ narrates the story of two English siblings, a boy and a teenage girl, who struggle to survive at the mercy of the Australian Outback. The children accompany their father into the desert with the promise of having a picnic. In an inexplicable frenzy, their father sets their car on fire and begins shooting at them. Without success in hurting the children, he takes the last bullet and kills himself. The abruptness of their father’s death marks their sudden estrangement from civilization and the beginning of a journey unforeseen. Along the way, they encounter a teenage Aborigine who joins them and becomes their guide.

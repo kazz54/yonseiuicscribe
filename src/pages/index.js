@@ -1,6 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
+import Img from "gatsby-image"
 
 export default ({ data }) => {
   return (
@@ -19,6 +20,7 @@ export default ({ data }) => {
                   — {node.frontmatter.date}
                 </span>
               </h3>
+              <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
               <p>{node.excerpt}</p>
             </Link>
           </div>
@@ -28,11 +30,9 @@ export default ({ data }) => {
   )
 }
 
-//, limit: 6
-
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: 6) {
       totalCount
       edges {
         node {
@@ -41,6 +41,13 @@ export const query = graphql`
             title
             author
             date(formatString: "DD MMMM, YYYY")
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
           fields {
             slug

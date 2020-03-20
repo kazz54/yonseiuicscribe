@@ -1,6 +1,9 @@
 ---
 title: "YonKo Games, Where We Made History"
 date: "2017-10-02"
+author: "Byungsung Park"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 Soccer was the last game that left a final mark on a new history of Yonsei University. The score was 1 to 1 when the clock was indicating 90th minute with the ball still in the play. As every second ticked, everyone was anxiously gazing at the ball, wondering when it would hit the net. Suddenly, Yonsei’s Ha Seung Un (#11) drove the ball into the net right before the game came to an end. The long-awaited triumph was there within a second. It was truly the fruit of hard work that could not, and should not, be taken for granted.

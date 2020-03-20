@@ -1,6 +1,9 @@
 ---
 title: "Yonsei’s Step Towards a Sustainable Future"
 date: "2017-10-10"
+author: "Jiyoon Oh"
+category: "School Affairs"
+featuredImage: "./images/thumbnail.jpg"
 ---
 
 \[Opening of the Institute for Global Engagement and Empowerment & Inauguration of Dr. Ban Ki Moon as Honorary Chair\]
