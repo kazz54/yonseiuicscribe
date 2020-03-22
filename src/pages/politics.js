@@ -8,7 +8,7 @@ export default ({ data }) => {
     <Layout>
       <div>
         <h1>
-          Science Page
+          Politics Page
         </h1>
         <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -34,7 +34,7 @@ export const query = graphql`
   query {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: {frontmatter: {category: {eq: "Science"}}}
+      filter: {frontmatter: {category: {eq: "Politics"}}}
     ) {
       totalCount
       edges {

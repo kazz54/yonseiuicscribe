@@ -21,28 +21,31 @@ export default ({ children }) => {
         {data.site.siteMetadata.title}
       </Link>
       <nav>
+        <Link to={`/interviews/`}>
+          Interviews
+        </Link>
+        <Link to={`/school-affairs/`}>
+          School Affairs
+        </Link>
+        <Link to={`/opinion/`}>
+          Opinion
+        </Link>
+        <Link to={`/culture/`}>
+          Culture
+        </Link>
+        <Link to={`/politics/`}>
+          Politics
+        </Link>
         <Link to={`/science/`}>
           Science
         </Link>
-        <Link to={`#`}>
-          Culture
-        </Link>
-        <Link to={`#`}>
-          Politics
-        </Link>
-        <Link to={`#`}>
-          Opinion
-        </Link>
-        <Link to={`#`}>
-          Interviews
-        </Link>
-        <Link to={`#`}>
+        <Link to={`/business/`}>
           Business
         </Link>
-        <Link to={`#`}>
-          School Affairs
+        <Link to={`/technology/`}>
+          Technology
         </Link>
-        <Link to={`#`}>
+        <Link to={`/sports/`}>
           Sports
         </Link>
         <Link to={`#`}>
