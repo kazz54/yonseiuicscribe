@@ -20,9 +20,35 @@ export default ({ children }) => {
       <Link to={`/`}>
         {data.site.siteMetadata.title}
       </Link>
-      <Link to={`/about/`}>
-        About
-      </Link>
+      <nav>
+        <Link to={`/science/`}>
+          Science
+        </Link>
+        <Link to={`#`}>
+          Culture
+        </Link>
+        <Link to={`#`}>
+          Politics
+        </Link>
+        <Link to={`#`}>
+          Opinion
+        </Link>
+        <Link to={`#`}>
+          Interviews
+        </Link>
+        <Link to={`#`}>
+          Business
+        </Link>
+        <Link to={`#`}>
+          School Affairs
+        </Link>
+        <Link to={`#`}>
+          Sports
+        </Link>
+        <Link to={`#`}>
+          Magazines
+        </Link>
+      </nav>
       {children}
     </div>
   )
