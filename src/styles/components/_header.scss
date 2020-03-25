@@ -1,0 +1,32 @@
+// Nav
+
+header {
+	background: #004A9F;
+	img {
+		width: 7em;
+		margin-left: 1em;
+		padding: 1em;
+	}
+}
+
+nav {
+	background: #1976D2;
+	width: 100%;
+	padding: 1em;
+	display: flex;
+	justify-content: space-evenly;
+	overflow-x: scroll;
+	white-space: nowrap;
+	> a {
+		text-decoration: none;
+		&:link, 
+		&:visited {
+				color: #fff;
+		}
+		&:hover,
+		&:focus,
+		&:active {
+			text-decoration: underline;
+		}
+	} 
+}

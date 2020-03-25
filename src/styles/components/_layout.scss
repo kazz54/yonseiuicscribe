@@ -1,0 +1,16 @@
+figure {
+	> a {
+		display: flex;
+		> figcaption {
+			width: 50%;
+		}
+	}
+}
+
+.gatsby-image-wrapper {
+	width: 50%;
+}
+
+img {
+	width: 500px;
+}

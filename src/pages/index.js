@@ -6,26 +6,24 @@ import Img from "gatsby-image"
 export default ({ data }) => {
   return (
     <Layout>
-      <div>
-        <h1>
-          Amazing Pandas Eating Things
-        </h1>
-        <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
+      <article>
         {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id}>
+          <figure className="post" key={node.id}>
             <Link to={node.fields.slug}>
+            <figcaption>
               <h3>
                 {node.frontmatter.title}{" "}by{" "}{node.frontmatter.author}{" "}
                 <span>
                   — {node.frontmatter.date}
                 </span>
               </h3>
-              <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
               <p>{node.excerpt}</p>
+            </figcaption>
+            <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
             </Link>
-          </div>
+          </figure>
         ))}
-      </div>
+      </article>
     </Layout>
   )
 }
