@@ -6,24 +6,23 @@ import Img from "gatsby-image"
 export default ({ data }) => {
   return (
     <Layout>
-      <article>
+      <div className="container">
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <figure className="post" key={node.id}>
             <Link to={node.fields.slug}>
+            <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
             <figcaption>
+              <h2>{node.frontmatter.category}</h2>
               <h3>
-                {node.frontmatter.title}{" "}by{" "}{node.frontmatter.author}{" "}
-                <span>
-                  — {node.frontmatter.date}
-                </span>
+                {node.frontmatter.title}
               </h3>
+              <h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
               <p>{node.excerpt}</p>
             </figcaption>
-            <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
             </Link>
           </figure>
         ))}
-      </article>
+      </div>
     </Layout>
   )
 }
@@ -38,7 +37,8 @@ export const query = graphql`
           frontmatter {
             title
             author
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "MMMM DD, YYYY")
+            category
             featuredImage {
               childImageSharp {
                 fluid(maxWidth: 800) {

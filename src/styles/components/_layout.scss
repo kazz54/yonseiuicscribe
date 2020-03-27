@@ -1,16 +1,53 @@
+.container {
+	padding-left: calc(5% + 20px);
+  padding-right: calc(5% + 20px);
+	@include md {
+		padding-left: calc(12.5% + 20px);
+  	padding-right: calc(12.5% + 20px);
+	}
+}
+
 figure {
+	margin: 2em 0 0 0;
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.15), 0 3px 3px rgba(0, 0, 0, 0.15);
 	> a {
 		display: flex;
+		flex-flow: column;
+		text-decoration: none;
+		&:link, 
+		&:visited,
+		&:hover,
+		&:focus,
+		&:active {
+			color: #000;
+		}
 		> figcaption {
-			width: 50%;
+			padding: 1em;
+			> h2 {
+				color: #1976D2;
+			}
+			> h3 {
+				font-size: 1.5rem;
+				font-weight: 500;
+			}
+			> h4 {
+				font-weight: 500;
+				color: #6C757D;
+				> span {
+					color: #1976D2;
+				}
+			}
 		}
 	}
 }
 
 .gatsby-image-wrapper {
-	width: 50%;
+	height: 20em;
+	object-fit: cover;
 }
 
 img {
-	width: 500px;
+	background: #c2c2c2;
 }
