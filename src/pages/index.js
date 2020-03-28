@@ -6,7 +6,7 @@ import Img from "gatsby-image"
 export default ({ data }) => {
   return (
     <Layout>
-      <div className="container">
+      <div className="grid-container">
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <figure className="post" key={node.id}>
             <Link to={node.fields.slug}>

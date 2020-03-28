@@ -1,9 +1,18 @@
-.container {
+.layout-container {
 	padding-left: calc(5% + 20px);
   padding-right: calc(5% + 20px);
 	@include md {
-		padding-left: calc(12.5% + 20px);
-  	padding-right: calc(12.5% + 20px);
+		//padding-left: calc(12.5% + 20px);
+  	//padding-right: calc(12.5% + 20px);
+	}
+}
+
+.grid-container {
+	@include md {
+		display: grid;
+    grid-template-columns: 1fr 1fr;
+		grid-column-gap: 1em;
+		justify-content: center;
 	}
 }
 
@@ -15,7 +24,11 @@ figure {
 	> a {
 		display: flex;
 		flex-flow: column;
+		height: 100%;
 		text-decoration: none;
+		@include md {
+			flex-flow: row-reverse;
+		}
 		&:link, 
 		&:visited,
 		&:hover,
@@ -24,12 +37,14 @@ figure {
 			color: #000;
 		}
 		> figcaption {
+			flex: 0 0 50%;
 			padding: 1em;
 			> h2 {
-				color: #1976D2;
+				color: #004A9F;
 			}
 			> h3 {
-				font-size: 1.5rem;
+				margin: 0;
+				font-size: 1.75rem;
 				font-weight: 500;
 			}
 			> h4 {
@@ -44,8 +59,12 @@ figure {
 }
 
 .gatsby-image-wrapper {
-	height: 20em;
+	height: 15em;
 	object-fit: cover;
+	@include md {
+		height: auto;
+		width: 20em;
+	}
 }
 
 img {
