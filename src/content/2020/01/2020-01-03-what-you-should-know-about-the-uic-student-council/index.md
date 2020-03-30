@@ -4,6 +4,7 @@ date: "2020-01-03"
 author: "Sukran Choi"
 category: "School Affairs"
 featuredImage: "./images/thumbnail.jpg"
+featured: "true"
 ---
 
 Ever wondered what type of students contribute to determining your level of satisfaction at Yonsei University’s Underwood International College? Who represents the core of UIC, the one and only international institution with diverse student bodies at Yonsei? How effective is the student council at delivering students’ needs and concerns and swaying decisions of the UIC administration?

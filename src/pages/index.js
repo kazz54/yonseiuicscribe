@@ -1,27 +1,33 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
+import Featured from "../components/featured"
 import Img from "gatsby-image"
 
 export default ({ data }) => {
   return (
     <Layout>
-      <div className="grid-container">
-        {data.allMarkdownRemark.edges.map(({ node }) => (
-          <figure className="post" key={node.id}>
-            <Link to={node.fields.slug}>
-            <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
-            <figcaption>
-              <h2>{node.frontmatter.category}</h2>
-              <h3>
-                {node.frontmatter.title}
-              </h3>
-              <h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
-              <p>{node.excerpt}</p>
-            </figcaption>
-            </Link>
-          </figure>
-        ))}
+      <article>
+        <Featured></Featured>
+      </article>
+      <div className="layout-container">
+        <div className="grid-container">
+          {data.allMarkdownRemark.edges.map(({ node }) => (
+            <figure className="post" key={node.id}>
+              <Link to={node.fields.slug}>
+              <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
+              <figcaption>
+                <h2>{node.frontmatter.category}</h2>
+                <h3>
+                  {node.frontmatter.title}
+                </h3>
+                <h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
+                <p>{node.excerpt}</p>
+              </figcaption>
+              </Link>
+            </figure>
+          ))}
+        </div>
       </div>
     </Layout>
   )
