@@ -7,27 +7,23 @@ import Img from "gatsby-image"
 export default ({ data }) => {
   return (
     <Layout>
-      <article>
-        <Featured></Featured>
-      </article>
-      <div className="layout-container">
-        <div className="grid-container">
-          {data.allMarkdownRemark.edges.map(({ node }) => (
-            <figure className="post" key={node.id}>
-              <Link to={node.fields.slug}>
-              <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
-              <figcaption>
-                <h2>{node.frontmatter.category}</h2>
-                <h3>
-                  {node.frontmatter.title}
-                </h3>
-                <h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
-                <p>{node.excerpt}</p>
-              </figcaption>
-              </Link>
-            </figure>
-          ))}
-        </div>
+      <Featured />
+      <div className="indexPostContainer">
+        {data.allMarkdownRemark.edges.map(({ node }) => (
+          <figure className="indexPost" key={node.id}>
+            <Link to={node.fields.slug}>
+            <Img className="indexPostImg" fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
+            <figcaption>
+              <h2>{node.frontmatter.category}</h2>
+              <h3>
+                {node.frontmatter.title}
+              </h3>
+              <h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
+              <p>{node.excerpt}</p>
+            </figcaption>
+            </Link>
+          </figure>
+        ))}
       </div>
     </Layout>
   )

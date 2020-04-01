@@ -10,7 +10,7 @@ export default ({ data }) => {
     <Layout>
       <div>
         <h1>{post.frontmatter.title}</h1>
-        <h2>{post.frontmatter.author}</h2>
+        <h2>{post.frontmatter.date}{" "}by{" "}<span>{post.frontmatter.author}</span>{" "}</h2>
         <Img fluid={featuredImgFluid} />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
@@ -25,6 +25,7 @@ export const query = graphql`
       frontmatter {
         title
         author
+        date(formatString: "DD MMMM, YYYY")
         featuredImage {
           childImageSharp {
             fluid(maxWidth: 600) {

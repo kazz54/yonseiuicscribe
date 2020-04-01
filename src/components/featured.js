@@ -36,23 +36,22 @@ export default () => (
     }
     `}
     render={data => (
-      <header>
+      <div className="featuredContainer">
         {data.allMarkdownRemark.edges.map(({ node }) => (
-            <figure className="post" key={node.id}>
+            <figure className="featured" key={node.id}>
               <Link to={node.fields.slug}>
-              <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
+              <Img className="featuredImg" fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
               <figcaption>
-                <h2>{node.frontmatter.featured}</h2>
                 <h3>
                   {node.frontmatter.title}
                 </h3>
-                <h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
                 <p>{node.excerpt}</p>
+                <p><span>Continue reading...</span></p>
               </figcaption>
               </Link>
             </figure>
           ))}
-      </header>
+      </div>
     )}
   />
 )

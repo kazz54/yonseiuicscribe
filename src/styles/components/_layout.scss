@@ -1,27 +1,79 @@
-article {
+img {
+	background: #c2c2c2;
+}
+
+// container for featured article
+.featuredContainer {
+	height: 100%;
 	background: #343A40;
 	height: 25em;
 }
 
-.layout-container {
-	padding-left: calc(5% + 20px);
-  padding-right: calc(5% + 20px);
-	@include md {
-		//padding-left: calc(12.5% + 20px);
-  	//padding-right: calc(12.5% + 20px);
+// featured article
+.featured {
+	margin: 0;
+	height: 100%;
+	> a {
+		display: flex;
+		flex-flow: column;
+		justify-content: space-evenly;
+		height: 100%;
+		line-height: 1.5;
+		text-decoration: none;
+		@include md {
+			flex-flow: row-reverse;
+		}
+		&:link, 
+		&:visited,
+		&:hover,
+		&:focus,
+		&:active {
+			color: #000;
+		}
+		> figcaption {
+			flex: 0 0 50%;
+			padding: 1em;
+			color: #fff;
+			> h3 {
+				font-size: 2rem;
+				font-weight: 500;
+			}
+			> p {
+				font-size: 1.5rem;
+				> span {
+					font-weight: 700;
+				}
+			}
+		}
 	}
 }
 
-.grid-container {
+// featured article img
+.featuredImg {
+	display: none;
+	@include md {
+		display: block;
+		width: 50%;
+	}
+}
+
+// container for homepage posts and category posts
+.indexPostContainer,
+.categoryPostContainer {
+	margin-bottom: 2em;
+	padding-left: calc(5% + 20px);
+  padding-right: calc(5% + 20px);
 	@include md {
 		display: grid;
     grid-template-columns: 1fr 1fr;
 		grid-column-gap: 2em;
-		justify-content: center;
 	}
 }
 
-figure {
+// homepage posts and category posts
+.indexPost,
+.categoryPost {
+	min-width: 0; // prevents grid items from expanding container 
 	margin: 2em 0 0 0;
 	background: #fff;
 	border-radius: 5px;
@@ -63,15 +115,15 @@ figure {
 	}
 }
 
-.gatsby-image-wrapper {
+// homepage post imgs and category post imgs
+.indexPostImg,
+.categoryPostImg {
 	height: 15em;
 	object-fit: cover;
+	border-radius: 5px 5px 0 0;
 	@include md {
 		height: auto;
 		width: 20em;
+		border-radius: 0 5px 5px 0;
 	}
-}
-
-img {
-	background: #c2c2c2;
 }

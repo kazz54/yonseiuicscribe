@@ -6,24 +6,22 @@ import Img from "gatsby-image"
 export default ({ data }) => {
   return (
     <Layout>
-      <div>
-        <h1>
-          Interviews Page
-        </h1>
-        <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
+      <h1>Interviews Page</h1>
+      <div className="categoryPostContainer">
         {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id}>
+          <figure className="categoryPost" key={node.id}>
             <Link to={node.fields.slug}>
+            <Img className="categoryPostImg" fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
+            <figcaption>
+              <h2>{node.frontmatter.category}</h2>
               <h3>
-                {node.frontmatter.title}{" "}by{" "}{node.frontmatter.author}{" "}
-                <span>
-                  — {node.frontmatter.date}
-                </span>
+                {node.frontmatter.title}
               </h3>
-              <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
+              <h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
               <p>{node.excerpt}</p>
+            </figcaption>
             </Link>
-          </div>
+          </figure>
         ))}
       </div>
     </Layout>
@@ -36,7 +34,6 @@ export const query = graphql`
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {frontmatter: {category: {eq: "Interviews"}}}
     ) {
-      totalCount
       edges {
         node {
           id
