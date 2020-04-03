@@ -1,12 +1,13 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
+import Breadcrumb from "../components/breadcrumbs"
 import Img from "gatsby-image"
 
 export default ({ data }) => {
   return (
     <Layout>
-      <h1>Interviews Page</h1>
+      <Breadcrumb crumbs={ [ '/', 'Interviews' ] } />
       <div className="categoryPostContainer">
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <figure className="categoryPost" key={node.id}>
@@ -30,6 +31,13 @@ export default ({ data }) => {
 
 export const query = graphql`
   query {
+    allSitePage {
+  	  edges {
+  	    node {
+          path
+  	    }
+  	  }
+  	}
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {frontmatter: {category: {eq: "Interviews"}}}
