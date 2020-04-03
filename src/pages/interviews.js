@@ -7,7 +7,7 @@ import Img from "gatsby-image"
 export default ({ data }) => {
   return (
     <Layout>
-      <Breadcrumb crumbs={ [ '/', 'Interviews' ] } />
+      <Breadcrumb crumbs={ [ 'Home', 'Interviews' ] } />
       <div className="categoryPostContainer">
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <figure className="categoryPost" key={node.id}>
