@@ -2,7 +2,7 @@
 title: "UIC’s Foreigner Friendliness Evolution"
 date: "2019-12-19"
 author: "Emma Nijssen"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

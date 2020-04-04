@@ -2,7 +2,7 @@
 title: "Yonsei's Hong Kong Alumni Network"
 date: "2017-10-10"
 author: "Hyeong Jin Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

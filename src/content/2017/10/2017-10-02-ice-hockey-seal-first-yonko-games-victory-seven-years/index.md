@@ -2,7 +2,7 @@
 title: "Ice Hockey to Seal the First Yonko Games Victory in Seven Years"
 date: "2017-10-02"
 author: "Jiyoon Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

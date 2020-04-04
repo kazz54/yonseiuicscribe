@@ -2,7 +2,7 @@
 title: "New Town, New Life: Adjusting to Life at Sinchon"
 date: "2018-12-03"
 author: "Dongwoo (Sam) Kang"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

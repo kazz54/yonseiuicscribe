@@ -2,7 +2,7 @@
 title: "Advance Your Writing at the UIC Writing Center"
 date: "2018-11-05"
 author: "Jiyoung Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

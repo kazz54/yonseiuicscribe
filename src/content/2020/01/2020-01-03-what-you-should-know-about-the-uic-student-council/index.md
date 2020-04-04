@@ -2,7 +2,7 @@
 title: "What You Should Know About the UIC Student Council"
 date: "2020-01-03"
 author: "Sukran Choi"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 featured: "true"
 ---

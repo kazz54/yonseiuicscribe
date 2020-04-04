@@ -2,7 +2,7 @@
 title: "Two-Week Summer Program at Kyoto University"
 date: "2019-11-14"
 author: "Hyein An"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

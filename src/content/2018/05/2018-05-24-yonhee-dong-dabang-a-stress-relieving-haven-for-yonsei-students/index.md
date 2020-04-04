@@ -2,7 +2,7 @@
 title: "Yonhee Dong Dabang: A Stress-Relieving Haven for Yonsei Students"
 date: "2018-05-24"
 author: "Yu Jin Jo"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

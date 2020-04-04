@@ -2,7 +2,7 @@
 title: "How is Yonsei University’s residential college experience different from one in the US?"
 date: "2019-12-27"
 author: "Soonwoo Kwon"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

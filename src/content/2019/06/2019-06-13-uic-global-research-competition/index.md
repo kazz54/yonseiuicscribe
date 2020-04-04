@@ -2,7 +2,7 @@
 title: "UIC Global Research Competition"
 date: "2019-06-13"
 author: "Yeon Seo Koh"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

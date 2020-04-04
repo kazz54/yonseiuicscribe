@@ -2,7 +2,7 @@
 title: "Yonsei vs. Korea From a Foreigner's Eyes"
 date: "2017-10-01"
 author: "Sara Rousalova"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

@@ -2,7 +2,7 @@
 title: "The Third Annual Meiji Yonsei Student Seminar"
 date: "2017-10-25"
 author: "Phuong Nguyen"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

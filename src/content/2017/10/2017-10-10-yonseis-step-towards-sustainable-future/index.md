@@ -2,7 +2,7 @@
 title: "Yonsei’s Step Towards a Sustainable Future"
 date: "2017-10-10"
 author: "Jiyoon Oh"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

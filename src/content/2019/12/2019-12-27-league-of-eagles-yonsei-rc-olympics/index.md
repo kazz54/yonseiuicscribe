@@ -2,7 +2,7 @@
 title: "League of Eagles: Yonsei RC Olympics"
 date: "2019-12-27"
 author: "Jungwon Choi"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

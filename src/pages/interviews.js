@@ -1,13 +1,13 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
-import Breadcrumb from "../components/breadcrumbs"
+import PageBreadcrumb from "../components/pageBreadcrumbs"
 import Img from "gatsby-image"
 
 export default ({ data }) => {
   return (
     <Layout>
-      <Breadcrumb crumbs={ [ 'Home', 'Interviews' ] } />
+      <PageBreadcrumb crumbs={ [ 'Home', 'Interviews' ] } />
       <div className="categoryPostContainer">
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <figure className="categoryPost" key={node.id}>

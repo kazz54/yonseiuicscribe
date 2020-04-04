@@ -2,7 +2,7 @@
 title: "The CODA Exhibition: A Grand Send-off for UIC’s Bright Designers"
 date: "2017-11-06"
 author: "Hyeong Jin Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.png"
 ---
 

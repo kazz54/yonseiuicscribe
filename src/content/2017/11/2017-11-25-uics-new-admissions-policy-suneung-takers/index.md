@@ -2,7 +2,7 @@
 title: "UIC’s New Admissions Policy for Suneung-Takers"
 date: "2017-11-25"
 author: "Hyunjae Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

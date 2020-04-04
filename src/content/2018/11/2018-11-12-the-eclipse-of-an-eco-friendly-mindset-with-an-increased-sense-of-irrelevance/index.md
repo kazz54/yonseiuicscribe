@@ -2,7 +2,7 @@
 title: "The Eclipse of an Eco-Friendly Mindset With an Increased Sense of Irrelevance"
 date: "2018-11-12"
 author: "Jee-Seung Hong"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 image: "./images/scribe_econfriendly-200x300.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "Stack Up Your Reading List with Books Written by UIC Professors"
 date: "2018-06-16"
 author: "Jiyoon Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

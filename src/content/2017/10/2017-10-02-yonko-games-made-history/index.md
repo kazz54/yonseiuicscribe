@@ -2,7 +2,7 @@
 title: "YonKo Games, Where We Made History"
 date: "2017-10-02"
 author: "Byungsung Park"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

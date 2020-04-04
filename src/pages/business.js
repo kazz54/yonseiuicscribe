@@ -1,11 +1,13 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
+import PageBreadcrumb from "../components/pageBreadcrumbs"
 import Img from "gatsby-image"
 
 export default ({ data }) => {
   return (
     <Layout>
+      <PageBreadcrumb crumbs={ [ 'Home', 'Business' ] } />
       <div>
         <h1>
           Business Page
@@ -34,7 +36,7 @@ export const query = graphql`
   query {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: {frontmatter: {category: {eq: "Science"}}}
+      filter: {frontmatter: {category: {eq: "Business"}}}
     ) {
       totalCount
       edges {

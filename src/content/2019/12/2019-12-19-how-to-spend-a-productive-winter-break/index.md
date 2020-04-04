@@ -2,7 +2,7 @@
 title: "How to Spend a Productive Winter Break"
 date: "2019-12-19"
 author: "Yurie Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg" 
 image: "./images/Article-2-Image-2-1.jpg"
 ---

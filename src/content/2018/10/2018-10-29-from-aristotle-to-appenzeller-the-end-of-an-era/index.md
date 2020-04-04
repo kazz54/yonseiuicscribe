@@ -2,7 +2,7 @@
 title: "From Aristotle to Appenzeller- The end of an era?"
 date: "2018-10-29"
 author: "Moses Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.png"
 ---
 

@@ -2,7 +2,7 @@
 title: "The Foreign Freshman Experience"
 date: "2018-05-31"
 author: "Maureen Porter"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.png"
 ---
 

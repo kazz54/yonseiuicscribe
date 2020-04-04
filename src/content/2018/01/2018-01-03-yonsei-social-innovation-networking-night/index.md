@@ -2,7 +2,7 @@
 title: "Yonsei Social Innovation Networking Night"
 date: "2018-01-03"
 author: "Jihyun Bang"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

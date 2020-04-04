@@ -2,7 +2,7 @@
 title: "Deciding What's Next for the IDFW Social Innovation Workshop"
 date: "2017-12-28"
 author: "Hyunjae Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

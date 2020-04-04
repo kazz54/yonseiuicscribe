@@ -2,7 +2,7 @@
 title: "Contemplation on University from an Undergraduate"
 date: "2018-06-21"
 author: "Hayun Lee"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

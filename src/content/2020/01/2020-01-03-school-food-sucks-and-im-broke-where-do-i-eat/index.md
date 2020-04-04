@@ -2,7 +2,7 @@
 title: "School food sucks and I’m broke. Where do I eat?"
 date: "2020-01-03"
 author: "Ariunzaya Munkhuua"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

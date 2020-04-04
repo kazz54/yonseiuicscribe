@@ -2,7 +2,7 @@
 title: "Farewell, New Millenium Hall"
 date: "2018-01-03"
 author: "Elijah Lee, Jihyun Bang"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

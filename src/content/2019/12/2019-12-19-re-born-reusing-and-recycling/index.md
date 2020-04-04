@@ -2,7 +2,7 @@
 title: "Re-Born: Reusing and Recycling"
 date: "2019-12-19"
 author: "Se Jeen Park"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

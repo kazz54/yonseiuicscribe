@@ -2,7 +2,7 @@
 title: "Aristotle Event - Crazy Arcade"
 date: "2017-10-10"
 author: "Sohyang Yun"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

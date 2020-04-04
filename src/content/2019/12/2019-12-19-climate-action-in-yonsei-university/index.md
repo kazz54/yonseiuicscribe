@@ -2,7 +2,7 @@
 title: "Climate Action in Yonsei University"
 date: "2019-12-19"
 author: "Eunje Kim"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpeg" 
 ---
 

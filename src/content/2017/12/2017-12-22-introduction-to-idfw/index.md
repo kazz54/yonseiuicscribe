@@ -2,7 +2,7 @@
 title: "Introduction to IDFW"
 date: "2017-12-22"
 author: "Sohyang Yun"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

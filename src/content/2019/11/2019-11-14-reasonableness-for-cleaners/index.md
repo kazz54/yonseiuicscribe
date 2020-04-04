@@ -2,7 +2,7 @@
 title: "Reasonableness for Cleaners"
 date: "2019-11-14"
 author: "Taewon Min"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

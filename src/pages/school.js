@@ -1,14 +1,16 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
+import PageBreadcrumb from "../components/pageBreadcrumbs"
 import Img from "gatsby-image"
 
 export default ({ data }) => {
   return (
     <Layout>
+      <PageBreadcrumb crumbs={ [ 'Home', 'School' ] } />
       <div>
         <h1>
-          School Affairs Page
+          School Page
         </h1>
         <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -34,7 +36,7 @@ export const query = graphql`
   query {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: {frontmatter: {category: {eq: "School Affairs"}}}
+      filter: {frontmatter: {category: {eq: "School"}}}
     ) {
       totalCount
       edges {

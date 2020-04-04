@@ -1,11 +1,13 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
+import PageBreadcrumb from "../components/pageBreadcrumbs"
 import Img from "gatsby-image"
 
 export default ({ data }) => {
   return (
     <Layout>
+      <PageBreadcrumb crumbs={ [ 'Home', 'Opinion' ] } />
       <div>
         <h1>
           Opinion Page

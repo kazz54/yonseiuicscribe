@@ -2,7 +2,7 @@
 title: "Personal Advice on How to Survive UIC Curriculum as a Korean Student"
 date: "2018-06-16"
 author: "Hyunsung Kim"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

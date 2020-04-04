@@ -13,8 +13,8 @@ export default () => {
           <Link to={`/interviews/`}>
             Interviews
           </Link>
-          <Link to={`/school-affairs/`}>
-            School Affairs
+          <Link to={`/school/`}>
+            School
           </Link>
           <Link to={`/opinion/`}>
             Opinion

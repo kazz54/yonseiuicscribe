@@ -2,7 +2,7 @@
 title: "UIC Exclusive Exchange Student Programs in the US"
 date: "2019-05-30"
 author: "Soonwoo Kwon"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

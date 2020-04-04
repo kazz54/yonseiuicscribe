@@ -2,7 +2,7 @@
 title: "Career Development Center"
 date: "2019-06-20"
 author: "Tamy Vu"
-category: "School Affairs"
+category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
