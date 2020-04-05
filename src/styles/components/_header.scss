@@ -29,13 +29,41 @@ nav {
 			margin-right: 1em;
 		}
 		&:link, 
-		&:visited {
-				color: #fff;
-		}
+		&:visited,
 		&:hover,
 		&:focus,
 		&:active {
-			text-decoration: underline;
+			color: #fff;
 		}
 	} 
+}
+
+// breadcrumbs container
+.breadcrumbs {
+	display: flex;
+	margin: 1.75em 0;
+	padding-left: calc(5% + 20px);
+  padding-right: calc(5% + 20px);
+	list-style-type: none;
+	> li {
+		margin: 0 .5em 0 0;
+		> a {
+			text-decoration: none;
+			&:link, 
+			&:visited,
+			&:hover,
+			&:focus,
+			&:active {
+				color: #3277ae;
+			}
+		}
+		> span {
+			color: #a79d96;
+		}
+	}
+	> img {
+		width: .45em;
+		margin: 0 .5em 0 0;
+		background: none;
+	}
 }

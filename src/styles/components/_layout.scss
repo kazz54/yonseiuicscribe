@@ -62,15 +62,22 @@ img {
 .categoryPostContainer {
 	margin-bottom: 2em;
 	padding-left: calc(5% + 20px);
-  padding-right: calc(5% + 20px);
+	padding-right: calc(5% + 20px);
 	@include md {
 		display: grid;
-    grid-template-columns: 1fr 1fr;
+		grid-template-columns: 1fr 1fr;
 		grid-column-gap: 2em;
 	}
 }
 
 // homepage posts and category posts
+.categoryPost:first-child,
+.categoryPost:first-child + figure {
+	@include md {
+		margin: 0; // prevents odd spacing from breadcrumbs margin
+	}
+}
+
 .indexPost,
 .categoryPost {
 	min-width: 0; // prevents grid items from expanding container 
