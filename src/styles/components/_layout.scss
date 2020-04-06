@@ -134,3 +134,28 @@ img {
 		border-radius: 0 5px 5px 0;
 	}
 }
+
+// container for blog posts
+.blogPostContainer {
+	padding-left: calc(5% + 20px);
+	padding-right: calc(5% + 20px);
+	line-height: 1.5;
+	font-size: 1.25rem;
+	@include md {
+		padding-left: calc(15% + 20px);
+		padding-right: calc(15% + 20px);	
+	}
+	img {
+		width: 100%;
+	}
+	a {
+	text-decoration: none;
+		&:link, 
+		&:visited,
+		&:hover,
+		&:focus,
+		&:active {
+			color: #1976D2;
+		}
+	}
+}

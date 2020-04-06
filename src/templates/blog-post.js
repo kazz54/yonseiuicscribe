@@ -12,7 +12,7 @@ export default ({ data }) => {
   return (
     <Layout>
       <PostBreadcrumb crumbs={ [ 'Home', postCategory, postTitle ] } />
-      <div>
+      <div className="blogPostContainer">
         <h1>{post.frontmatter.title}</h1>
         <h2>{post.frontmatter.date}{" "}by{" "}<span>{post.frontmatter.author}</span>{" "}</h2>
         <Img fluid={featuredImgFluid} />
@@ -29,7 +29,7 @@ export const query = graphql`
       frontmatter {
         title
         author
-        date(formatString: "DD MMMM, YYYY")
+        date(formatString: "MMMM DD, YYYY")
         category
         featuredImage {
           childImageSharp {

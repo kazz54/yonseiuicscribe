@@ -28,6 +28,4 @@ We have yet to “translate” the SDGs into real life. It is crucial that we fr
 
 YSCAN currently meets every Thursday at 6 pm alternating between Sinchon and Songdo campuses. YSCAN welcomes anyone who is dedicated and passionate about climate action, recruiting members twice a year. To find more about YSCAN you can visit their social media accounts on facebook, instagram, and their website.
 
-![](https://lh3.googleusercontent.com/l1uuMk1BR28JDQwb9RSj3RUxrR1IMU-5koMdwCOLY-OCj7Ujdvd0Hk3ZDvLzZ6Ly26tCezF4jHPG9U5arSI4UqOEw_WaPahEJyQTBaWdRlZ3eRcoJbdRT7VXhONB3oiBxflja3l6)
-
 ![](https://lh3.googleusercontent.com/-yNRDOus5JgJee-bRmMinI9faaBpDhfg3Du1Hk0b25sLdver8I4Hp3hRbabDMjcZqvS6l8LUS2LUKG4ujROHhlVLbA3MwBIXrC7XFo55nadJNoo9BLqZ8N7kOH_m7_BsHDyzvGAv)
