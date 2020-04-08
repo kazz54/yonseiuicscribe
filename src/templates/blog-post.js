@@ -6,9 +6,9 @@ import Img from "gatsby-image"
 
 export default ({ data }) => {
   const post = data.markdownRemark
-  let featuredImgFluid = post.frontmatter.featuredImage.childImageSharp.fluid
-  let postCategory = post.frontmatter.category
-  let postTitle = post.frontmatter.title
+  const featuredImgFluid = post.frontmatter.featuredImage.childImageSharp.fluid
+  const postCategory = post.frontmatter.category
+  const postTitle = post.frontmatter.title
   return (
     <Layout>
       <PostBreadcrumb crumbs={ [ 'Home', postCategory, postTitle ] } />
@@ -33,7 +33,7 @@ export const query = graphql`
         category
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 600) {
+            fluid(maxWidth: 800) {
               ...GatsbyImageSharpFluid
             }
           }

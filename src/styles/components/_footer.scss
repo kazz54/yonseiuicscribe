@@ -1,6 +1,9 @@
 footer {
-	padding: 1.5em;
-	font-size: 1.5rem;
+	padding: 1.5em 0;
+	padding-left: calc(5% + 20px);
+	padding-right: calc(5% + 20px);
+	font-size: 1.25rem;
+	line-height: 1.5;
 	background: #eee;
 	> a {
 		display: block;
