@@ -31,17 +31,11 @@ export default ({ data }) => {
 
 export const query = graphql`
   query {
-    allSitePage {
-  	  edges {
-  	    node {
-          path
-  	    }
-  	  }
-  	}
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___date], order: DESC }, limit: 12
       filter: {frontmatter: {category: {eq: "Interviews"}}}
     ) {
+      totalCount
       edges {
         node {
           id

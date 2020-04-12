@@ -40,6 +40,9 @@ export default () => {
           <Link to={`#`}>
             Magazines
           </Link>
+          <Link to={`/archives/`}>
+            Archives
+          </Link>
         </nav>
       </header>
     </div>
