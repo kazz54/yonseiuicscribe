@@ -32,7 +32,7 @@ export default ({ data }) => {
 export const query = graphql`
   query {
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }, limit: 12
+      sort: { fields: [frontmatter___date], order: DESC }
       filter: {frontmatter: {category: {eq: "Interviews"}}}
     ) {
       totalCount
