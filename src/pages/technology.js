@@ -4,29 +4,52 @@ import Layout from "../components/layout"
 import PageBreadcrumb from "../components/pageBreadcrumbs"
 import Img from "gatsby-image"
 
-export default ({ data }) => {
-  return (
-    <Layout>
-      <PageBreadcrumb crumbs={ [ 'Home', 'Technolology' ] } />
-      <div className="categoryPostContainer">
-        {data.allMarkdownRemark.edges.map(({ node }) => (
-          <figure className="categoryPost" key={node.id}>
-            <Link to={node.fields.slug}>
-            <Img className="categoryPostImg" fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
-            <figcaption>
-              <h2>{node.frontmatter.category}</h2>
-              <h3>
-                {node.frontmatter.title}
-              </h3>
-              <h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
-              <p>{node.excerpt}</p>
-            </figcaption>
-            </Link>
-          </figure>
-        ))}
-      </div>
-    </Layout>
-  )
+export default class extends React.Component {
+	constructor(props) {
+    super(props)
+		let postsToShow = 12		
+    this.state = {
+      showingMore: postsToShow > 12,
+      postsToShow,
+    }
+	}
+	
+	render() {
+		const posts = this.props.data.allMarkdownRemark.edges
+		const index = this.state.postsToShow;
+		console.log(this.props.data.allMarkdownRemark.edges.length)
+		return (
+			<Layout>
+				<PageBreadcrumb crumbs={ [ 'Home', 'Technology' ] } />
+				<div className="categoryPostContainer">
+					{posts.slice(0, index).map(({ node }) => (
+						<figure className="categoryPost" key={node.id}>
+							<Link to={node.fields.slug}>
+							<Img className="categoryPostImg" fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
+							<figcaption>
+								<h2>{node.frontmatter.category}</h2>
+								<h3>
+									{node.frontmatter.title}
+								</h3>
+								<h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
+								<p>{node.excerpt}</p>
+							</figcaption>
+							</Link>
+						</figure>
+					))}
+				</div>
+				{this.state.postsToShow < this.props.data.allMarkdownRemark.edges.length &&
+						<div className="loadMoreButtonContainer">
+							<button onClick={() => {
+								this.setState({
+									postsToShow: this.state.postsToShow + 12,
+								})
+							}}>Load More</button>
+						</div>
+					}
+			</Layout>
+		)
+	}
 }
 
 export const query = graphql`

@@ -165,3 +165,18 @@ img {
 		}
 	}
 }
+
+// container for Load More button
+.loadMoreButtonContainer {
+	margin-bottom: 1.5em;
+	text-align: center;
+	button {
+		padding: 1em 2em;
+		background: #1976D2;
+		border: 0;
+		border-radius: 2px;
+		box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.12);
+		color: #fff;
+		cursor: pointer;
+	}
+}
