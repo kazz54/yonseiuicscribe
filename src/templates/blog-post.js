@@ -11,7 +11,7 @@ export default ({ data }) => {
   const postCategory = post.frontmatter.category
   const postTitle = post.frontmatter.title
   let disqusConfig = {
-    url: `https://yonseiuicscribe.netlify.app/`,
+    url: `https://yonseiuicscribe.netlify.app/${post.fields.slug}`,
     identifier: post.id,
     title: post.frontmatter.title,
   }
@@ -36,6 +36,9 @@ export const query = graphql`
     markdownRemark(
       fields: { slug: { eq: $slug } }   
     ) {
+      fields {
+        slug
+      }
       html
       id
       frontmatter {
