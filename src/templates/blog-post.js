@@ -24,7 +24,7 @@ export default ({ data }) => {
         <Img fluid={featuredImgFluid} />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
-      <CommentCount config={disqusConfig} placeholder={'...'} />
+      <CommentCount config={disqusConfig} />
       <Disqus config={disqusConfig} />
     </Layout>
   )
