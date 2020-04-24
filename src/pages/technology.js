@@ -39,14 +39,14 @@ export default class extends React.Component {
 					))}
 				</div>
 				{this.state.postsToShow < this.props.data.allMarkdownRemark.edges.length &&
-						<div className="loadMoreButtonContainer">
-							<button onClick={() => {
-								this.setState({
-									postsToShow: this.state.postsToShow + 12,
-								})
-							}}>Load More</button>
-						</div>
-					}
+          <div className="loadMoreButtonContainer">
+            <button onClick={() => {
+              this.setState({
+                postsToShow: this.state.postsToShow + 12,
+              })
+            }}>Load More</button>
+          </div>
+        }
 			</Layout>
 		)
 	}
