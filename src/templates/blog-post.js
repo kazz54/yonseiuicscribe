@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
+import { Disqus } from 'gatsby-plugin-disqus'
 import Layout from "../components/layout"
 import PostBreadcrumb from "../components/postBreadcrumbs"
 import Img from "gatsby-image"
@@ -24,8 +24,9 @@ export default ({ data }) => {
         <Img fluid={featuredImgFluid} />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
-      <CommentCount config={disqusConfig} />
-      <Disqus config={disqusConfig} />
+      <div className="disqusContainer">
+        <Disqus config={disqusConfig} />
+      </div>
     </Layout>
   )
 }
