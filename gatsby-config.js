@@ -30,5 +30,11 @@ module.exports = {
         path: `${__dirname}/src/content`,
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `yonseiuicscribe`
+      }
+    },
   ],
 }
