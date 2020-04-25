@@ -17,7 +17,6 @@ export default class extends React.Component {
 	render() {
 		const posts = this.props.data.allMarkdownRemark.edges
 		const index = this.state.postsToShow;
-		console.log(this.props.data.allMarkdownRemark.edges.length)
 		return (
 			<Layout>
 				<PageBreadcrumb crumbs={ [ 'Home', 'Technology' ] } />

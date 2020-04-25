@@ -31,15 +31,23 @@ img {
 			color: #000;
 		}
 		> figcaption {
+			display: flex;
+			flex-flow: column;
+			justify-content: space-evenly;
 			flex: 0 0 50%;
 			padding: 1em;
 			color: #fff;
 			> h3 {
+				margin: .5em 0;
 				font-size: 2rem;
 				font-weight: 500;
 			}
 			> p {
-				font-size: 1.5rem;
+				margin: .5em 0;
+				font-size: 1.25rem;
+				@include md {
+					font-size: 1.5rem;
+				}
 				> span {
 					font-weight: 700;
 				}
@@ -103,19 +111,30 @@ img {
 		> figcaption {
 			flex: 0 0 50%;
 			padding: 1em;
+			line-height: 1.5;
 			> h2 {
 				color: #004A9F;
 			}
 			> h3 {
 				margin: 0;
-				font-size: 1.75rem;
+				font-size: 1.5rem;
 				font-weight: 500;
 			}
 			> h4 {
+				font-size: 1.25rem;
 				font-weight: 500;
 				color: #6C757D;
+				@include md {
+					font-size: 1rem;
+				}
 				> span {
 					color: #1976D2;
+				}
+			}
+			> p {
+				font-size: 1.25rem;
+				@include md {
+					font-size: 1rem;
 				}
 			}
 		}
@@ -187,4 +206,7 @@ img {
 // disqus container
 .disqusContainer {
 	padding: 0 2em;
+	@include md {
+		padding: 0 4em;
+	}
 }

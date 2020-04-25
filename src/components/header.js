@@ -37,7 +37,7 @@ export default () => {
           <Link to={`/sports/`}>
             Sports
           </Link>
-          <Link to={`#`}>
+          <Link to={`/magazines/`}>
             Magazines
           </Link>
         </nav>
