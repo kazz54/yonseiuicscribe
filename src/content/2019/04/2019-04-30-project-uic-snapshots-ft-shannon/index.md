@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Shannon)"
 date: "2019-04-30"
 author: "Sara Rousalova"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

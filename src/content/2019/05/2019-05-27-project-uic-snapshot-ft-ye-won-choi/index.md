@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Ye Won Choi)"
 date: "2019-05-27"
 author: "Ye Eun Lee"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

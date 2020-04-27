@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Ariunzaya Munkhuu)"
 date: "2019-04-23"
 author: "Maureen Porter"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

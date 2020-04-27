@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Heesoo Jang)"
 date: "2019-11-11"
 author: "Yerim Kim"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Jaeho Jung)"
 date: "2019-04-15"
 author: "Min Jun Kim"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

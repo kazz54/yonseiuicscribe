@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Chaeyun Byun)"
 date: "2019-03-25"
 author: "Hayun Lee"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

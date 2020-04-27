@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Danny Lee)"
 date: "2019-10-21"
 author: "Eunje Kim"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

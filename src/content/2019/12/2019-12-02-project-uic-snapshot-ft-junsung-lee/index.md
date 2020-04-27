@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Junsung Lee)"
 date: "2019-12-02"
 author: "Jungwon Choi"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

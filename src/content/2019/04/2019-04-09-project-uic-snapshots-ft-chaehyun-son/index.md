@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Chaehyun Son)"
 date: "2019-04-09"
 author: "Jungwon Choi"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

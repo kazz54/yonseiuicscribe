@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. SaeHyun Lee)"
 date: "2019-12-30"
 author: "Yeon Seo Koh"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

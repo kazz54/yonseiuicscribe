@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Soobin Han)"
 date: "2019-06-17"
 author: "Jung Youn Lee"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

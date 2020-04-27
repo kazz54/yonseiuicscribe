@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Klaudia)"
 date: "2018-10-19"
 author: "Elaine Natalie"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.jpg"
 image: "./images/SCRIBE-LOGO-300x300.png"
 ---

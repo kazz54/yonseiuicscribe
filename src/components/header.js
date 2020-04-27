@@ -10,6 +10,9 @@ export default () => {
           <img src={Logo} alt="UIC Scribe logo" />
         </Link>
         <nav>
+          <Link to={`/shorts/`}>
+            Shorts
+          </Link>
           <Link to={`/interviews/`}>
             Interviews
           </Link>

@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Suzie Park)"
 date: "2019-10-07"
 author: "Sara Rousalova"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Mingue Jung)"
 date: "2019-06-04"
 author: "Hyein Ahn"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

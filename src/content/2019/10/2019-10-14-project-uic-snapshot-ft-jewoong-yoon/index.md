@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Jewoong Yoon)"
 date: "2019-10-14"
 author: "Taewon Min"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

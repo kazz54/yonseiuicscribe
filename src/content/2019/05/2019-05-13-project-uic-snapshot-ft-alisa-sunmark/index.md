@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Alisa Sunmark)"
 date: "2019-05-13"
 author: "Scribe"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

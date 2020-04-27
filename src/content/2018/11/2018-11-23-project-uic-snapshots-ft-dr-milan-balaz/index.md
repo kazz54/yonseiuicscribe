@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Dr. Milan Balaz)"
 date: "2018-11-23"
 author: "Hyungsung (Steven) King"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 image: "./images/scribe_milanbalaz-238x300.jpg"
 ---

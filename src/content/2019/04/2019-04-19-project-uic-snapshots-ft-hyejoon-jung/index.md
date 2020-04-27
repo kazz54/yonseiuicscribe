@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Hyejoon Jung)"
 date: "2019-04-19"
 author: "Yurie Lee"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

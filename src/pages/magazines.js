@@ -15,16 +15,17 @@ export default class extends React.Component {
 	
 	render() {
 		const posts = this.props.data.allFile.edges
-		const index = this.state.postsToShow;
+		const index = this.state.postsToShow
 		return (
 			<Layout>
 				<PageBreadcrumb crumbs={ [ 'Home', 'Magazines' ] } />
-				<div className="categoryPostContainer">
+				<div className="magazinePostContainer">
 					{posts.slice(0, index).map(({ node }) => (
-						<figure className="categoryPost" key={node.id}>
+						<figure className="magazinePost" key={node.id}>
 							<a href={node.publicURL}>
 							<figcaption>
-								<p>{node.name}</p>
+								<p>Download{" "}{node.name}</p>
+								<p>{(parseInt(node.size)/1000000).toPrecision(3)}{" "}MB</p>
 							</figcaption>
 							</a>
 						</figure>
@@ -52,7 +53,8 @@ query {
       node {
 				name
 				id
-        publicURL
+				publicURL
+				size
       }
     }
   }

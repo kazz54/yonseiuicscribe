@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. KT)"
 date: "2018-10-06"
 author: "Hyeong Jin Lee"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.jpg"
 image: "./images/SCRIBE-LOGO-300x300.png"
 ---

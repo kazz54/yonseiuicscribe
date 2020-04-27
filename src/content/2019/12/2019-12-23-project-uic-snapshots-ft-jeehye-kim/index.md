@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Jeehye Kim)"
 date: "2019-12-23"
 author: "Yurie Lee"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

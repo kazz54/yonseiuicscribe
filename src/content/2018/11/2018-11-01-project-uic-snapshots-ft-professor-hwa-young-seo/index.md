@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Professor Hwa Young Seo)"
 date: "2018-11-01"
 author: "Dongwoo (Sam) Kang"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 image: "./images/uic-scribe-prof-seo-225x300.jpg"
 ---

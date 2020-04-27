@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Alisha Dhanani)"
 date: "2019-11-04"
 author: "Sukran Choi"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

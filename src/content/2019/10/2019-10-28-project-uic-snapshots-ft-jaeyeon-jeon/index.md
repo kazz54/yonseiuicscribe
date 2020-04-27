@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Jaeyeon Jeon)"
 date: "2019-10-28"
 author: "Hyein Ahn"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

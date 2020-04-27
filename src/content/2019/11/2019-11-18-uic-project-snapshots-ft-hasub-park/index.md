@@ -2,7 +2,7 @@
 title: "UIC Project: Snapshots (ft. Hasub Park)"
 date: "2019-11-18"
 author: "Emma Nijssen"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

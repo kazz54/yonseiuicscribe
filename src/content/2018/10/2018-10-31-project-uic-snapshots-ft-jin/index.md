@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Jin)"
 date: "2018-10-31"
 author: "Scribe"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 image: "./images/UIC-Snapshot-Halloween-ed.-207x300.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Hajin Bae)"
 date: "2019-12-17"
 author: "Sejeen Park"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png" 
 ---
 

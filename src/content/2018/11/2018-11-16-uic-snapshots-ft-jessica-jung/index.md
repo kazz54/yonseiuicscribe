@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Jessica Jung)"
 date: "2018-11-16"
 author: "Maureen Porter"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 image: "./images/scribejessica1-300x169.jpg"
 ---

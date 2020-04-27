@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Jin Won Park)"
 date: "2019-05-20"
 author: "Soonwoo Kwon"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 

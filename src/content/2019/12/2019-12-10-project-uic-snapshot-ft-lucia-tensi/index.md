@@ -2,7 +2,7 @@
 title: "Project: UIC Snapshots (ft. Lucia Tensi)"
 date: "2019-12-10"
 author: "Hyein Ahn"
-category: "Interviews"
+category: "Shorts"
 featuredImage: "./images/thumbnail.png" 
 image: "./images/UIC-Snapshot-Lucia-meme.jpg"
 ---
