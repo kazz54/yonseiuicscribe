@@ -2,7 +2,7 @@
 title: "“Manse”, Long Live Korean Independence"
 date: "2019-04-18"
 author: "Soonwoo Kwon"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 image: "./images/IMG_7814-1024x683.jpg"
 ---

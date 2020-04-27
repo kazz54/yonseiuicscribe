@@ -17,10 +17,9 @@ export default class extends React.Component {
 	render() {
 		const posts = this.props.data.allMarkdownRemark.edges
 		const index = this.state.postsToShow;
-		console.log(this.props.data.allMarkdownRemark.edges.length)
 		return (
 			<Layout>
-				<PageBreadcrumb crumbs={ [ 'Home', 'Culture' ] } />
+				<PageBreadcrumb crumbs={ [ 'Home', 'Society' ] } />
 				<div className="categoryPostContainer">
 					{posts.slice(0, index).map(({ node }) => (
 						<figure className="categoryPost" key={node.id}>
@@ -56,7 +55,7 @@ export const query = graphql`
   query {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: {frontmatter: {category: {eq: "Culture"}}}
+      filter: {frontmatter: {category: {eq: "Society"}}}
     ) {
       totalCount
       edges {

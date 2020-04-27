@@ -2,7 +2,7 @@
 title: "Discovering Seoul"
 date: "2018-12-09"
 author: "Tamy Vu"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpeg"
 ---
 

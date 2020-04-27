@@ -2,7 +2,7 @@
 title: "The Land of Lakes and Volcanoes, Nicaragua"
 date: "2019-11-21"
 author: "Eunje Kim"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 image: "./images/21433242912_4a9e4ba6ac_z.jpg"
 ---

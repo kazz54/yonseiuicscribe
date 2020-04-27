@@ -2,7 +2,7 @@
 title: "Reviewing Joker: Life & death and good & evil? Why so serious?"
 date: "2019-10-31"
 author: "Jungwon Choi"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

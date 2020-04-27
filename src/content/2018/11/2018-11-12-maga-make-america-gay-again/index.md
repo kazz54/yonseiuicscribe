@@ -2,7 +2,7 @@
 title: "MAGA: Make America Gay Again"
 date: "2018-11-12"
 author: "Min Jun Kim"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

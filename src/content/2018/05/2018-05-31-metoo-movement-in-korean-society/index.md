@@ -2,7 +2,7 @@
 title: "#MeToo Movement in Korean Society"
 date: "2018-05-31"
 author: "Jaewon Lee"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpeg"
 ---
 

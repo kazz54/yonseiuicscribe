@@ -2,7 +2,7 @@
 title: "Tour of Ikseon-deong"
 date: "2019-05-16"
 author: "Sara Rousalova"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpeg"
 ---
 

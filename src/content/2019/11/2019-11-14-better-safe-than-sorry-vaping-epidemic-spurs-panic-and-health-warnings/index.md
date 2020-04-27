@@ -2,7 +2,7 @@
 title: "Better Safe than Sorry: Vaping Epidemic Spurs Panic and Health Warnings"
 date: "2019-11-14"
 author: "Hyunjae Lee"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

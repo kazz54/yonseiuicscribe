@@ -2,7 +2,7 @@
 title: "The Earth is Flat"
 date: "2019-11-07"
 author: "Se Jeen Park"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

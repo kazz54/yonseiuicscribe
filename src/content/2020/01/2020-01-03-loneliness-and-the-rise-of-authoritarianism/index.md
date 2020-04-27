@@ -2,7 +2,7 @@
 title: "Loneliness and the Rise of Authoritarianism"
 date: "2020-01-03"
 author: "Taewon Min"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 image: "./images/Article-2-Pic-2-Unherd.com_-1.jpg"
 ---

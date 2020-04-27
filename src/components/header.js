@@ -19,8 +19,8 @@ export default () => {
           <Link to={`/opinion/`}>
             Opinion
           </Link>
-          <Link to={`/culture/`}>
-            Culture
+          <Link to={`/society/`}>
+            Society
           </Link>
           <Link to={`/politics/`}>
             Politics

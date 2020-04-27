@@ -2,7 +2,7 @@
 title: "A Foreigner's Guide to a Fun Chuseok"
 date: "2017-10-02"
 author: "Elaine Natalie"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

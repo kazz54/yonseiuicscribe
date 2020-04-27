@@ -2,7 +2,7 @@
 title: "Walkabout: Attempted Homogenisation of Aboriginal Culture on Screen"
 date: "2017-10-25"
 author: "Mijin Kim"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.png"
 ---
 

@@ -2,7 +2,7 @@
 title: "Shared Vision in Television: Achieving Gender Equality in the Television Industry"
 date: "2019-11-07"
 author: "Yurie Lee"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

@@ -2,7 +2,7 @@
 title: "Comfort Women Statues Ride Buses in Seoul"
 date: "2017-11-06"
 author: "Phuong Nguyen"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

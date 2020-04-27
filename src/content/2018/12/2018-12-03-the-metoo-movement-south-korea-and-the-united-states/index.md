@@ -2,7 +2,7 @@
 title: "The #MeToo Movement: South Korea and the United States"
 date: "2018-12-03"
 author: "Maureen Porter"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpeg"
 ---
 

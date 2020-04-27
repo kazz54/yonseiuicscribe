@@ -2,7 +2,7 @@
 title: "Let's Talk About Memes"
 date: "2019-11-28"
 author: "Ariunzaya Munkhuu"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 

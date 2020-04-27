@@ -2,7 +2,7 @@
 title: "So What is Seoul Style?"
 date: "2019-04-26"
 author: "Maureen Porter"
-category: "Culture"
+category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
