@@ -212,3 +212,54 @@ img {
 		padding: 0 4em;
 	}
 }
+
+// container for magazine posts
+.magazinePostContainer {
+	margin-bottom: 2em;
+	padding-left: calc(5% + 20px);
+	padding-right: calc(5% + 20px);
+	@include md {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-column-gap: 2em;
+	}
+}
+
+// magazine post
+.magazinePost {
+	margin: 2em 0 0 0;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.15), 0 3px 3px rgba(0, 0, 0, 0.15);
+	> a {
+		text-decoration: none;
+		&:link, 
+		&:visited,
+		&:hover,
+		&:focus,
+		&:active {
+			color: #000;
+		}
+		> div {
+			display: flex;
+			background: #fff;
+			> p {
+				margin: 0;
+				padding: 1em;
+				text-align: center;
+			}
+			> p:first-child {
+				width: 25%;
+				background: #E5E5E5;
+			}
+			> p:nth-child(2) {
+				width: 75%;
+			}
+		}
+	}
+}
+
+.magazinePost:first-child,
+.magazinePost:first-child + div {
+	@include md {
+		margin: 0; // prevents odd spacing from breadcrumbs margin
+	}
+}

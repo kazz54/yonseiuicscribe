@@ -18,12 +18,12 @@ export default ({ data }) => {
   return (
     <Layout>
       <PostBreadcrumb crumbs={ [ 'Home', postCategory, postTitle ] } />
-      <div className="blogPostContainer">
+      <article className="blogPostContainer">
         <h1>{post.frontmatter.title}</h1>
         <h2>{post.frontmatter.date}{" "}by{" "}<span>{post.frontmatter.author}</span>{" "}</h2>
         <Img fluid={featuredImgFluid} />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      </div>
+      </article>
       <div className="disqusContainer">
         <Disqus config={disqusConfig} />
       </div>
