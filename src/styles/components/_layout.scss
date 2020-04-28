@@ -154,8 +154,9 @@ img {
 	}
 }
 
-// container for blog posts
-.blogPostContainer {
+// container for blog posts and Recruitment Page
+.blogPostContainer,
+.recruitmentContainer {
 	padding-left: calc(5% + 20px);
 	padding-right: calc(5% + 20px);
 	line-height: 1.5;
@@ -247,6 +248,9 @@ img {
 				text-align: center;
 			}
 			> p:first-child {
+				display: flex;
+				justify-content: center;
+				align-items: center;
 				width: 25%;
 				background: #E5E5E5;
 			}
