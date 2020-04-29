@@ -1,48 +1,67 @@
 import React from "react"
-import {Link} from "gatsby"
+import { Link } from "gatsby"
 import Logo from "../images/scribe-logo.svg"
 
 export default () => {
+  // Open/closes navigation
+  const toggleNav = () => {
+    document.getElementById("jsNav").classList.toggle("jsNav-active");
+    document.getElementById("animatedButton").classList.toggle("open");
+  };
   return (
     <div>
       <header>
-        <Link to={`/`}>
-          <img src={Logo} alt="UIC Scribe logo" />
-        </Link>
-        <nav>
-          <Link to={`/shorts/`}>
-            Shorts
+        <nav className="nav">
+          <div className="navBar">
+          <Link to={`/`}>
+            <img src={Logo} alt="UIC Scribe logo" />
           </Link>
-          <Link to={`/interviews/`}>
-            Interviews
-          </Link>
-          <Link to={`/school/`}>
-            School
-          </Link>
-          <Link to={`/opinion/`}>
-            Opinion
-          </Link>
-          <Link to={`/society/`}>
-            Society
-          </Link>
-          <Link to={`/politics/`}>
-            Politics
-          </Link>
-          <Link to={`/science/`}>
-            Science
-          </Link>
-          <Link to={`/business/`}>
-            Business
-          </Link>
-          <Link to={`/technology/`}>
-            Technology
-          </Link>
-          <Link to={`/sports/`}>
-            Sports
-          </Link>
-          <Link to={`/magazines/`}>
-            Magazines
-          </Link>
+            <button 
+              id="animatedButton" 
+              type="button"
+              aria-label="Toggle navigation"
+              className="animatedButton"
+              onClick={toggleNav}>
+              <span></span>
+              <span></span>
+              <span></span>
+            </button>
+          </div>
+          <div id="jsNav" className="navCabinet">
+            <Link to={`/shorts/`}>
+              Shorts
+            </Link>
+            <Link to={`/interviews/`}>
+              Interviews
+            </Link>
+            <Link to={`/school/`}>
+              School
+            </Link>
+            <Link to={`/opinion/`}>
+              Opinion
+            </Link>
+            <Link to={`/society/`}>
+              Society
+            </Link>
+            <Link to={`/politics/`}>
+              Politics
+            </Link>
+            <Link to={`/science/`}>
+              Science
+            </Link>
+            <Link to={`/business/`}>
+              Business
+            </Link>
+            <Link to={`/technology/`}>
+              Technology
+            </Link>
+            <Link to={`/sports/`}>
+              Sports
+            </Link>
+            <Link to={`/magazines/`}>
+              Magazines
+            </Link>
+          </div>
         </nav>
       </header>
     </div>

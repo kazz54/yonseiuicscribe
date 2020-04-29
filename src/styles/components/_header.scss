@@ -1,6 +1,16 @@
-// logo and searchbar container
 header {
 	background: #004A9F;
+}
+
+.nav {
+	position: relative;
+}
+
+// logo, searchbar, and mobile menu button container
+.navBar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 	> a {
 		display: inline-block;
 		> img {
@@ -14,27 +24,83 @@ header {
 	}
 }
 
-// article categories container
-nav {
-	background: #1976D2;
-	padding: 1em;
-	overflow-x: scroll;
-	white-space: nowrap;
+// mobile menu button
+.animatedButton {
+	margin-right: 1em;
+	background: none;
+	border: none;
+  cursor: pointer;
+  transition: .25s;
+  &:hover { border-color: #555; }
+  span {
+    position: relative;
+    top: 0;
+    display: block;
+    width: 2em; height: 4px;
+    margin-bottom: 8px;
+    background: #fff;
+    transition: .25s ease-in-out;
+    &:last-child {
+      margin-bottom: 0;
+    }
+	}
 	@include md {
-		display: flex;
+		display: none;
+	}
+}
+
+.animatedButton.open {
+  span {
+    background: #fff;
+    &:nth-child(2) {
+      opacity: 0;
+    }
+    &:first-child {
+      transform: rotate(45deg);
+      top: 12px;
+    }
+    &:last-child {
+      transform: rotate(-45deg);
+      top: -12px;
+    }
+  }
+}
+
+// article categories container
+.navCabinet {
+	position: absolute;
+	width: 100%;
+	background: #1976D2;
+	display: flex;
+	flex-flow: column;
+	max-height: 0;
+	transition: max-height .25s ease-in-out;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
+	z-index: 10;
+	overflow: hidden;
+	@include md {
+		position: initial;
+		flex-flow: row;
 		justify-content: space-evenly;
-		overflow-x: hidden;
+		padding: 1em;
+		max-height: initial;
+		box-shadow: none;
 	}
 	> a {
 		display: inline-block;
+		padding: .75em;
 		font-size: 1.25rem;
 		text-align: center;
 		text-decoration: none;
 		@include md {
+			padding: 0;
 			width: auto;
 		}
 		&:not(:last-child) {
-			margin-right: 1em;
+			border-bottom: 1px solid #004A9F;
+			@include md {
+				border-bottom: none;
+			}
 		}
 		&:link, 
 		&:visited,
@@ -44,6 +110,10 @@ nav {
 			color: #fff;
 		}
 	} 
+}
+
+.jsNav-active {
+  max-height: 37em;
 }
 
 // breadcrumbs container

@@ -20,7 +20,7 @@ export default () => (
 			<p>During these Workshop sessions, reporters discuss with fellow club members and editors about their articles and receive feedback on improving the quality of their drafts.</p>
 			<p>Outside of meetings, reporters work on their individual articles. Assigned editors work closely to assist reporters along the way.</p>
 			<p>Designers work with the editorial board to produce the final magazine publications. Designers are exempt from meetings.</p>
-			<h2>How Can I apply?</h2>
+			<h2>How can I apply?</h2>
 			<p>Visit our <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/theuicscribe/">Facebook</a> page for announcements.</p>
 			<p>Please email <a href="mailto:scribe.uic@gmail.com">scribe.uic@gmail.com</a> for any questions.</p>
 		</div>
