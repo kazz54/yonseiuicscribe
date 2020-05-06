@@ -2,7 +2,7 @@ header {
 	background: #004A9F;
 }
 
-// logo, searchbar, and mobile menu button container
+// logo, search link, and mobile menu button container
 .navBar {
 	display: flex;
 	justify-content: space-between;
@@ -17,6 +17,39 @@ header {
 				width: 10em;
 			}
 		}
+	}
+}
+
+.navPortion {
+	display: flex;
+	justify-content: center;
+}
+
+// link to search page
+.searchLink {
+	margin-right: 1em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 1em;
+	background: #003a7d;
+	text-decoration: none;
+	> p {
+		margin: 0 .5em 0 0;
+	}
+	> img {
+		width: 1em;
+		background: none;
+	}
+	&:link, 
+	&:visited,
+	&:hover,
+	&:focus,
+	&:active {
+		color: #fff;
+	}
+	@include md {
+		margin-right: 2.5em;
 	}
 }
 

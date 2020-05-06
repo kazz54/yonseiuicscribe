@@ -5,9 +5,13 @@
       edges {
         node {
           objectID: id
+          fields {
+            slug
+          }
           frontmatter {
             title
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "MMMM DD, YYYY")
+            author
           }
           excerpt(pruneLength: 5000)
         }
