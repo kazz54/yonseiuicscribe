@@ -6,6 +6,7 @@ import PageBreadcrumb from "../components/pageBreadcrumbs"
 import algoliasearch from 'algoliasearch/lite';
 import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom';
 const searchClient = algoliasearch('ZTQU3APG88', 'b40b0d67a2b34f5688bec969def790ab');
+//make this pretty
 const Hit = ({ hit }) => 
 <Link to={`/${hit.fields.slug}`}>
 	<p>{hit.title}</p>
