@@ -13,7 +13,7 @@
             date(formatString: "MMMM DD, YYYY")
             author
           }
-          excerpt(pruneLength: 5000)
+          excerpt(pruneLength: 300)
         }
       }
     }
