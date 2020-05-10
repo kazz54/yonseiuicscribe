@@ -12,6 +12,13 @@
             title
             date(formatString: "MMMM DD, YYYY")
             author
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
           excerpt(pruneLength: 300)
         }

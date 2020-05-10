@@ -267,3 +267,70 @@ img {
 		margin: 0; // prevents odd spacing from breadcrumbs margin
 	}
 }
+
+// searchbar container
+.searchbarContainer {
+	padding-left: calc(5% + 20px);
+	padding-right: calc(5% + 20px);
+	@include md {
+		padding-left: calc(15% + 20px);
+		padding-right: calc(15% + 20px);
+	}
+}
+
+// searchbar
+.ais-SearchBox {
+	text-align: center;
+	input {
+		padding: .5em;
+		border-width: 1px;
+		border-color: #a79d96;
+		border-style: solid;
+		width: 100%;
+	}
+	button {
+		display: none;
+	}
+}
+
+// searchbar results
+.ais-Hits-list {
+	margin-top: 2em;
+	padding: 0;
+	list-style: none;
+	> li {
+		margin-bottom: 2em;
+	}
+	article {
+		padding: 1em;
+		background: #fff;
+		border-radius: 5px;
+		box-shadow: 0 0 10px rgba(0, 0, 0, 0.15), 0 3px 3px rgba(0, 0, 0, 0.15);
+		line-height: 1.5;
+		> a {
+			text-decoration: none;
+			&:link, 
+			&:visited,
+			&:hover,
+			&:focus,
+			&:active {
+				color: #000;
+			}
+			> h1 {
+				font-size: 1.5em;
+				font-weight: 500;
+			}
+			> h2 {
+				color: #6C757D;
+				font-size: 1.25em;
+				font-weight: 500;
+				> span {
+					color: #1976D2;
+				}
+			} 
+			> p {
+				font-size: 1.25em
+			}
+		}
+	}
+}

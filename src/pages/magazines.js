@@ -5,12 +5,12 @@ import PageBreadcrumb from "../components/pageBreadcrumbs"
 
 export default class extends React.Component {
 	constructor(props) {
-    super(props)
+		super(props)
 		let postsToShow = 12
-    this.state = {
-      showingMore: postsToShow > 12,
+		this.state = {
+			showingMore: postsToShow > 12,
 			postsToShow,
-    }
+		}
 	}
 	
 	render() {
