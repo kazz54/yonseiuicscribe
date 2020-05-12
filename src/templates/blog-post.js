@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import { Disqus } from 'gatsby-plugin-disqus'
 import Layout from "../components/layout"
 import PostBreadcrumb from "../components/postBreadcrumbs"
-import Img from "gatsby-image"
+//import Img from "gatsby-image"
 
 export default ({ data }) => {
   const post = data.markdownRemark
