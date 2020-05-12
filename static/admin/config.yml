@@ -2,8 +2,8 @@ backend:
   name: github
   repo: develijahlee/yonseiuicscribe
 
-media_folder: src/content/assets
-public_folder: ./assets
+media_folder: src/content/images
+public_folder: ./images
 
 collections:
   - name: blog
@@ -15,5 +15,5 @@ collections:
       - { name: author, label: author, widget: string }
       - { name: date, label: Date (YYYY-MM-DD), widget: string }
       - { name: category, label: Category (Capitalize first letter), widget: string }
-      - { name: featuredImage, label: Featured Image File Name (change spaces into dashes), widget: string, default: ./assets/ }
+      - { name: featuredImage, label: Featured Image File Name (change spaces into dashes), widget: string, default: ./images/ }
       - { name: body, label: Body, widget: markdown }
