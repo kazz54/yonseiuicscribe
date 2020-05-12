@@ -1,4 +1,4 @@
 import "./src/styles/main.scss"
 
-// or:
+// or: pls work
 // require('./src/styles/global.css')
