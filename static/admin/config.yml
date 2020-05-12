@@ -2,7 +2,7 @@ backend:
   name: github
   repo: develijahlee/yonseiuicscribe
 
-media_folder: src/content/assets
+media_folder: static/assets
 public_folder: /assets
 
 collections:
@@ -15,5 +15,5 @@ collections:
       - { name: author, label: author, widget: string }
       - { name: date, label: Date, widget: string }
       - { name: category, label: Category, widget: string }
-      - { name: featuredImage, label: Featured Image, widget: string, default: ./assets/ }
+      - { name: featuredImage, label: Featured Image, widget: string, default: ../static/assets/ }
       - { name: body, label: Body, widget: markdown }
