@@ -3,7 +3,7 @@ backend:
   repo: develijahlee/yonseiuicscribe
 
 media_folder: src/content/assets
-public_folder: /assets
+public_folder: ./assets
 
 collections:
   - name: blog
