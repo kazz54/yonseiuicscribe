@@ -7,7 +7,8 @@ import Img from "gatsby-image"
 
 export default ({ data }) => {
   const post = data.markdownRemark
-  const featuredImgFluid = post.frontmatter.featuredImage.childImageSharp.fluid
+  //const featuredImgFluid = post.frontmatter.featuredImage.childImageSharp.fluid
+  //<Img fluid={featuredImgFluid} />
   const postCategory = post.frontmatter.category
   const postTitle = post.frontmatter.title
   let disqusConfig = {
@@ -21,7 +22,6 @@ export default ({ data }) => {
       <article className="blogPostContainer">
         <h1>{post.frontmatter.title}</h1>
         <h2>{post.frontmatter.date}{" "}by{" "}<span>{post.frontmatter.author}</span>{" "}</h2>
-        <Img fluid={featuredImgFluid} />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </article>
       <div className="disqusContainer">
