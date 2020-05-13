@@ -335,3 +335,10 @@ img {
 		}
 	}
 }
+
+// Image Thumbnails width for tablets and desktops
+.gatsby-resp-image-wrapper {
+	@include md {
+		min-width: 500px;
+	}
+}
