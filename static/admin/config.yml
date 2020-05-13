@@ -13,8 +13,8 @@ collections:
     fields:
       - { name: title, label: Title, widget: string }
       - { name: author, label: author, widget: string }
-      - { name: date, label: Date (YYYY-MM-DD), widget: string }
+      - { name: date, label: Date (YYYY-MM-DD), dateFormat: "YYYY-MM-DD", timeFormat: false, widget: "datetime" }
       - { name: category, label: Category (Capitalize first letter), widget: string }
       - { name: featuredImage, label: Featured Image File Name (change spaces into dashes), widget: string, default: ./images/ }
-      - { name: featured, label: Featured (Enter true without capitalization for article to be featured. Leave blank if not.), widget: string }
+      - { name: featured, label: Featured (Enter true without capitalization for article to be featured. Leave false if not.), widget: string, default: "false" }
       - { name: body, label: Body (Insert image first. Change from Rick text to Markdown. Add text under image code.), widget: markdown }
