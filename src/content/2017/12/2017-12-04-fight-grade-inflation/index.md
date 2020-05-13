@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Grade inflation, which is defined as an increase in the average grade of college students, has become a major discussion topic in the last couple of years. Many believe that this rapid increase is not necessarily the result of more studious and diligent students, but of more lenient grading policies by academic institutions.
 
 In South Korea, grade inflation had been addressed before it was recognized as a problem. Most higher education institutions in Korea have a “grading on a curve” policy that allocates strict percentages for each letter grade. This is also commonly referred to as a grade _de_flation practice. The intention behind it is to not only maintain consistent standards across all departments, but also promote a sense of competition so that students can be motivated to perform better.

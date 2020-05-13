@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 \[Opening of the Institute for Global Engagement and Empowerment & Inauguration of Dr. Ban Ki Moon as Honorary Chair\]
 
 On September 25th, 2017, the opening ceremony of Yonsei University’s new Institute for Global Engagement and Empowerment (IGEE) and the inauguration ceremony of Dr. Ban Ki Moon as its Honorary Chairman was held in the Kumho Art Hall. The Institute for Global Engagement and Empowerment was established by uniting under one roof the numerous missionary and voluntary activities scattered around in different colleges and the Yonsei University Health System. Comprised of the Ban Ki Moon Center for Sustainable Development, the Center for Social Engagement, and the Yonsei Institute for Global Health, the Institute is a declaration of Yonsei University’s commitment to engaging in and responding to the challenges the global society faces today.

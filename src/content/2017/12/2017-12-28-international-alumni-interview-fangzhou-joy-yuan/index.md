@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 1\. Please introduce yourself (student year, major, the location of your current work, etc.)
 
 I was in UIC from 2009 to the spring of 2014 and I majored in economics (class of 9.5). I’m currently working in Shenzhen, China, but I had moved around a little bit. When I first graduated from UIC, I did an internship in Seoul. After working in Beijing, I began to work in Shenzhen starting from mid-2017. Currently, I am working in Tencent as the Global Business Manager of Tencent WeStart, which belongs to Tencent Open Platform. The work is hard to explain because it combines a lot of different things. We have departments that conduct different businesses as we have 32 innovation spaces across China. We have some MBA programs with Shinhwa University and another MBA program in China. Indeed, it is more like an MBA program for the tech-related funders.

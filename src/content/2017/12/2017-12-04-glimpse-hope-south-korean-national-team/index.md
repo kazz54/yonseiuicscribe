@@ -6,6 +6,8 @@ category: "Sports"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 South Korea achieved a resounding victory against Colombia with Son Heung-Min’s multi-goal (2:1). Against Serbia, we could  put up a good fight to bring the game to a tie (1:1). It is surprising how much our national team has changed after experiencing humiliating defeats during the international matches in October. What caused our team to improve so substantially? What could have potentially changed the attitudes of our players?
 
 One of the contributing factors that has improved the performance of the South Korean national team seems to have lied in a change in its strategy and formations. In October, Shin Tae-Yong stubbornly used 3-4-3 formation and emphasized on keeping the possession. The result was a lack of creativity on offense and stretched defense that gave too much space to opponents. Against Colombia and Serbia, however, Shin Tae-Yong abandoned his original formation completely and used 4-4-2 formation. Such formation revived South Korea’s unique style of football play, not to mention fast counter-attacks. Furthermore, by placing Son Heung-Min as astriker instead of a winger, he managed to get behind the defenders with his fast speed and scored with his accurate strikes.

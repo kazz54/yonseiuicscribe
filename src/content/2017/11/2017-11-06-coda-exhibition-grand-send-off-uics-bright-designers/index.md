@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 In the afternoon of October 14th, artists and their friends and family were gathered at Cheongdam-dong’s Gallery ‘Won’ for the 2017 IID Graduation Exhibition titled “CODA The New Prologue”. Here, the graduating class of the IID (Information & Interactive Design) major showcased their works which were the culmination of all the skills that they have cultivated in their university careers. As expected of an IID event, all the guests were well dressed for the occasion and many even prepared flowers for the young artists who seemed anxious and eager to share their works.
 
 The opening ceremony began at 4pm at which professors of the IID major spoke a few words commemorating the hard work that the graduating class of the IID major put into the exhibition. They also spoke some words of encouragement towards the students’ careers post-graduation. After the opening speeches, the guests were taken on a tour of the exhibition during which the young artists introduced and explained their pieces. There was a wide variety of pieces displayed at the exhibition such as photo collages, phone applications, metal chains, video presentations, and even a video game.

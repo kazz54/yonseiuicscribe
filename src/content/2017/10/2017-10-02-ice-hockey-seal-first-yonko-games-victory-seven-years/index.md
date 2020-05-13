@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 **The decisive game ended with a 5-1 win over Korea University, marking Yonsei University’s first Yonko Games victory in seven years.**
 
 The first period started off with a powerful shot from Yonsei by Sang-Won Kim at about 00:20 but was deflected by Korea's goaltender Yeon-Seung Lee.

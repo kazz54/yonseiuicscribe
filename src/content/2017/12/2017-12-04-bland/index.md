@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 “This is a circular lamp.”
 
 “These are a newly painted arrow and line.”

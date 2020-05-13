@@ -6,6 +6,8 @@ category: "Politics"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 On November 4th, President Trump left the United States to go on a tour of a few Asia-Pacific countries such as Japan, South Korea, China, Vietnam, and the Philippines. His goal appeared to consist of strengthening US-led efforts to deal with North Korea and its nuclear threats, spreading his administration’s idea of a “free and open Indo-Pacific region”, establishing more favorable bilateral trade relations to reduce US trade deficits, and lastly, to temporarily evade his domestic issues such as low approval ratings and the ongoing Russia probe. President Trump’s Asia tour took place as follows: on November 5th, President Trump arrived in Japan and departed from Japan for Korea on November 7th. After a short 24 hour stay in South Korea, President Trump then proceeded to China on November 8th where he stayed until he departed for Vietnam on the 10th.
 
 Unlike how President Trump’s visit to the other Asian countries during his Asia tour were considered to be “official visits”, President Trump’s visit to South Korea was a state visit, the first since George H.W. Bush’s state visit in 1992. Nevertheless, not only was South Korea President Trump’s shortest trip during the Asia tour, but President Trump was also unable to visit the Demilitarized Zone which is an essential part of any official visit to South Korea by a US representative.  The US President was unable to visit the DMZ due to poor weather conditions which may have been a relief for President Moon who had advised President Trump not to go near the DMZ while tensions were still high.

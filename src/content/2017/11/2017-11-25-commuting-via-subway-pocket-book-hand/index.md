@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 I would define the ‘classical’ as something that I return to after a long wandering. My example of ‘classical’ things would be the film ‘Wall-E,’ which is what I watch after going to the movies a couple of times per month to watch a series of brand new box-office films. Another ‘classical’ thing is the 1980s Korean rock music that I listen to after listening to trendy popular songs with similar melodies for a while.
 
 The story goes back to my freshman year when I first used a smartphone. My commuting time took more than an hour. All the way from my home to school, I endured the tiring process by using a smartphone. I even missed a stop that I should get off because I was watching a video or playing a mobile game. But all of a sudden, fidgeting with smartphone became a mundane thing. Mobile contents were fun, but I became tired of them because of their shallow and flashy characteristics.

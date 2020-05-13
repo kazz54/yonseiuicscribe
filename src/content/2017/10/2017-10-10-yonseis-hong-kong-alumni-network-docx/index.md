@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 There are many reasons why aspiring university students wish to enroll into Yonsei University; such reasons include the chance to be taught by esteemed faculty members, the prestige of the Yonsei brand, and perhaps most importantly, the networking opportunities.  Nevertheless, some find it doubtful that Yonsei University would aid in building connections if they left South Korea given its limited renown abroad. The events of this past summer will challenge that belief.
 
 Thanks to the internship opportunity provided by the UIC exclusive 3 Campus East Asia exchange program, I had interned at a firm in Hong Kong for two months. Within the first week of the internship, an important-looking figure came to the area where the interns were working and asked for me. I stood up and the man immediately wrapped his arm around in a brotherly way and told me in Korean that he is a Yonsei alumnus.

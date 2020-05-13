@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 1\. Please introduce yourself (student year, major, the location of your current work, etc.)
 
 My name is Daniel Woehler. I graduated from UIC in 2012 (class of 8.5) with a major in Economics and a minor in Business. Straight after graduating I started my career at CBRE in London, and have been there ever since. CBRE is the world’s largest real estate consulting, investment and development company. I am an Associate Director within the Investment Properties team, advising institutions such as pension funds, insurance companies and investment banks on investing in commercial real estate. I do that for London, the UK, and continental Europe.

@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Nicolas Roeg’s famous 1971 film _Walkabout_ narrates the story of two English siblings, a boy and a teenage girl, who struggle to survive at the mercy of the Australian Outback. The children accompany their father into the desert with the promise of having a picnic. In an inexplicable frenzy, their father sets their car on fire and begins shooting at them. Without success in hurting the children, he takes the last bullet and kills himself. The abruptness of their father’s death marks their sudden estrangement from civilization and the beginning of a journey unforeseen. Along the way, they encounter a teenage Aborigine who joins them and becomes their guide.
 
 The title of the film, “walkabout,” refers to an Aborigine ritual in which young males make the transition from boyhood to manhood by going on a solitary journey where they must fend for themselves. _Walkabout_, however, does not tell the story of the young Aborigine’s trek, but that of the first experience the English protagonists have in the land of the Aborigines. This narrative, however, is violent and irresponsible. The film doubly subjugates the Aborigines to the voice and eyes of their colonizer; first, by granting authorial expression to an English director, and then, by positioning English characters as the protagonists in an Aboriginal narrative. The story of the Australian indigenous people is delineated by the colonizer, which does not serve as a magnifying medium, but rather a silencing tool.

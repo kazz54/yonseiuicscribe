@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 The cold winter brisk of November signals the nearing end of the year. It also marks the beginning of university admissions. As it does annually, the season of university admissions has returned at Yonsei University, with a slight change in its college admissions policy for the Underwood International College. The 2018 UIC admissions policy is now admitting 15 UIC applicants through a newly created admissions system with qualification standards for Suneung (CSAT).
 
 Initially, all UIC applications had a _susi_ admission system, in which no Suneung (CSAT) requirements were needed for applications. Students go through two rounds of examinations. Students are required to submit certain documents for the first round, which are then evaluated and given a score. The necessary documents include the applicants’ permanent high school records, which display their grades, rankings, and in-school activities, and a cover letter, which consists of a 600-word essay in English. The selected students from the first round then go through a second round, in which the aggregate scores of document evaluation and student interviews are measured. 70% of the total score accounts for scores marked from the first round, whereas the remaining 30% reflects students’ performance during interviews.

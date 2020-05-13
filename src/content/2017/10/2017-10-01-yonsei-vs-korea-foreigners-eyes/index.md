@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Everyone seems to be well aware of the battle between Yonsei and Korea University as old as the schools themselves. Although for most foreign students it is a kind of a mystery. Both being prestigious institutions with great students on their side (Yonsei is still better, obviously), the battle is intense and never-ending, culminating each year with the September YonKo games. As an international freshman, I could never truly appreciate the clash between the two universities, described to me often as the Oxbridge fight, nor did I have the chance to watch the YonKo Games myself. I was quite interested in witnessing the competition for the first time and was happy to get a chance to meet the actual Korea University students to see how great or not they are. I was also a bit scared.
 
 I would like to firstly give a round of applause to every student who attended the Games. Arriving at the big Jamsil stadium for the Friday Baseball game, I was taken aback by the sea of blue t-shirts, caps, temporary tattoos and even hair. How could I have thought I would be the only one sacrificing my hair color for my school? On both sides, I saw excited students from all over the world representing their university color. I would be lying if I said I was not happy seeing so many international students singing the Yonsei anthem and noticing less foreigners on the Korea side. Particularly entertaining to me was the lack of attention paid to the actual players (sorry guys) as everyone was too emerged in singing with the incredible Akaraka group. I would have never imagined anyone to have such stamina in the heat.

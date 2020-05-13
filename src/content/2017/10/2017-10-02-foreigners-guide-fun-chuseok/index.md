@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Chuseok is almost upon us, and with it comes a nice and relaxing, week-long holiday. Chuseok itself falls on October 4th, but because it coincides with National Foundation Day (October 3rd) and Hangul Day (October 9th), the government has decided to also make October 2nd a national holiday. Thus, this year’s “Chuseok” holiday will last from September 30th until October 9th.
 
 Chuseok, also known as Korean Thanksgiving Day, is one of the most important holidays in Korea. Families gather together in their hometowns to make special food and give thanks to their ancestors. Due to Korea’s past as an agrarian society, people traditionally celebrated Chuseok during a full harvest moon, to give thanks to their ancestors for a bountiful harvest. These days, families still honor their ancestors by holding memorial services on Chuseok morning, but the customs of Chuseok have shifted over time to visiting hometowns, vacationing, and spending quality time with relatives.

@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 International Design Factory Week 2017 was held in Veritas Hall B and welcoming many UIC students and professors and representatives from Design Factories all over the world. October 30th was the opening ceremony of the IDFK and at 2 o’clock, Professor Jin-bae Chung, the dean of UIC, opened the ceremony with his welcoming remarks.
 
 DFK is anchored by the Techno-Art Division (TAD), an interdisciplinary design, technology, and management program offered at Yonsei University Underwood International College. Through collaboration with the Design Factory Global Network, DFK extends the local projects globally by involving students with various cultural backgrounds and expertise in their field.

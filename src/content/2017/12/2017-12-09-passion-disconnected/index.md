@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Here we are, in the year of 2017, when the whole world seems to have broken down into minuscule particles of dust, laboriously trying to blow each other away. Just five months ahead of the quadrennial Winter Olympics, a hallmark of peace and connectivity, the host country seems to have failed to live up to its heartening slogan. Starting with the pandemonium caused by political parties and their groupies, to the dispute between victims of either the mandatory military subscription or the glass ceiling, to anonymous online roasts by angry nerds directed at each other’s universities, it seems we have entered an age of disconnection...and much localized passion. Of course, these clashing personalities share a common feature--they share a heated passion to debate over differing perspectives. Sadly, we have all witnessed a number of cases where debates have degenerated into brawls and common etiquette into inflammatory behavior. Problems begin to arise when debaters shut all eyes and ears to possibilities outside their caves of shadows.
 
 In an age of interweaving networks and the widespread use of social platforms, where we are taught and raised to become open-minded to new and different opinions, why is it that the people of today have become more estranged from others, and less eager to listen?

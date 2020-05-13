@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 After living in England, the USA and many other places, I have realized how I don’t fit into any of them. Growing up in countries I never really could consider my home made my constant departures an amusing cycle. I would gloriously wave goodbye, a moment I have always been waiting for, and leave another borrowed home behind, and as I arrive yet in another place, a similar situation repeats.
 
 What is my main language? And then what is my accent? It’s not British, it definitely is not Czech and yet it is not really American as I always thought. I guess this confusion contributed to the reasons why people label me “the different one”,  but I would be lying if I said that I don’t like the way no one really seems to know how to describe it. However, many times, it is a painful reminder of the fact that I am isolated from belonging to a certain culture - from having a home. Once again, I am a foreigner. And each time I return back to where I used to live, I have to cope with the pressure of fitting in what I _should_ consider my home country.

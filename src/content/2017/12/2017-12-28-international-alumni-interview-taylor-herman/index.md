@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 1\. Please introduce yourself (student year, major, the location of your current work, etc.)
 
 My name is Taylor Herman. I am part of the class of 11.5. I graduated in 2015 as an International Studies major and I currently work for CBRE in the Microsoft Account at Seattle Washington. My official title is Business Operation Specialist for Global Account Operations.

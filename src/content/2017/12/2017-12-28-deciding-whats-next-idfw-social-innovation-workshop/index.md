@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 During the 2017 International Design Factory Week (IDFW) at Yonsei University’s Songdo campus, the Design Factory Global Network (DFGN) held one of its sessions on November 2nd. Anita Kocsis, one of the Design Factory directors representing Melbourne, Australia, said that the goal of Design Factory, which consists of students, faculty, and industry partners who share a passion for creative learning and efficient problem-solving, was to “come together all ways, to re-energize, share practices, and together decide what’s next.” During an hour session from 11:30 to 12:30, the directors worked on a creative exercise to discuss what the DFGN would look like in the distant future.
 
 Out of eight tables, each table had a different scenario. Four to five members assigned to a table discussed and initially made notes of the topics. Then, the directors rotated from table to table, contributing new ideas to each different setting. The topics were fun and creative: What if Design Factory was a university; what if you were learning for 55 years? What if 90% of all education was digital—supported by AI? What would DFGN’s network look like then? If life-long learning is a norm, what would education look like? The directors were told to not feel limited by present conditions. The objective of this exercise? To have fun, gather as many ideas as possible (with a little future forecasting), and produce a fruitful workshop.

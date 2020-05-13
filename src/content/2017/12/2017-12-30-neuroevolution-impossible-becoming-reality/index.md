@@ -6,6 +6,8 @@ category: "Science"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 In modern times, the environment portrayed in science fiction from the 20th century no longer holds extreme deviation from reality. Technology is advancing at an alarming rate, and the world is becoming increasingly obsessed with the idea of intellectual technology, better known as artificial intelligence (AI).
 
 Just as its name suggests, artificial intelligence refers to machines that demonstrate a certain level of wit, such as cell phones that can respond to human voices. AI is a theory that is already being injected into mass-produced products and is thus embraced by the general population with some degree of familiarity. What most people do not realize, however, is that there is another similar technological advancement that is currently in the development process: neuroevolution.

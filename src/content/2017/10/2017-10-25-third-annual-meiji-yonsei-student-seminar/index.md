@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 On Sep. 15, 2017, the annual Meiji Yonsei Student Seminar was held in New Millennium Hall, Sinchon campus. With the participation of ten students from Meiji University and around twenty from the UIC Asian Studies department, the seminar was a cooperative success between the schools and of the friendship between Japan and Korea.
 
 Meiji University is a prestigious private university located in Tokyo, Japan. Yonsei University has various exchange relationships with Japanese universities such as Keio and Waseda University. Starting from 2013, each year, a group of Meiji University students travels to Korea for academic exchange with Yonsei University. First, they spend two weeks at Wonju campus attending lectures, exchanging thoughts and making presentations. Then, they come to Seoul to do sightseeing and attend this annual seminar.
