@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Few undergraduate students can say that they’ve started their own businesses. It’s not enough to just have a good idea; you have to find people who are willing to invest, find teammates with complementary skill sets, and drag your grand idea back to earth with a realistic business model. Re-Born, an organization founded and run by a group of Underwood International College (UIC) students, shows that all of these can be accomplished if you take advantage of the resources and opportunities that are available.
 
 The first step to starting a business is finding an idea. You can’t have an organization without a sense of what you want that organization to accomplish. Re-Born cofounder Daye Song, a sophomore currently majoring in Sustainable Development and Cooperation (SDC), found inspiration for the Youth Diary Book when she was in high school. She saw that people would print out an excess of one-sided newsletters and exam papers at her school’s printing station, with most of them being thrown out, despite how perfectly good the unused side was. “I thought this was a huge waste,” says Daye. “I wanted to do something about it.”

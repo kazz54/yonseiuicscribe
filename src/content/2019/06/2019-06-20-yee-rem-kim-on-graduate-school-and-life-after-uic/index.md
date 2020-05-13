@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 A recent graduate from UIC with a B.A. in International Studies, Yee Rem Kim has a great passion for history and theory. At the beginning of this year, Yee Rem took her passions to the professional field through an internship at the Wilson Center, a highly renowned think tank located in Washington D.C. After her internship, she plans on pursuing a master’s degree in History at the University of British Columbia (UBC) this coming fall. The UIC Scribe had the wonderful opportunity to interview Yee Rem about her aspirations and the process of preparing for graduate school.
 
 **Have you always been interested in History? Why did you decide to apply to graduate school?**

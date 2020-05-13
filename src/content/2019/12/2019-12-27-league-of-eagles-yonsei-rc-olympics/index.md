@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 The sprints that carry life-or-death desperation; the dynamic tackles that inspire the fierce sense of competition; the aggressive heckling and slogan-chanting from the audience; the detonative roars that silence the opposition. At this moment, nothing else matters: the midterms you failed, the increasing unemployment rate, the evasive true meaning of life—let them be forgotten for now. You are here for victory. 
 
 The mesmerizing spectacle of sports is enough to ignite the passionate hearts of any college freshmen. That dream of racing the field with teammates, laid aside for the excuse of college preparation, beckons. You find yourself reflected in the determined athlete showering with sweat: the hero whom you once aspired to be. If you are seeking a place to rediscover that buried passion, RC Olympics will be your stage.

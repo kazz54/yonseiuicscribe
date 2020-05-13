@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 For this week’s snapshot, we feature Ye Won Choi, UD class of 17, currently majoring in Economics.
 
 **What is your all-time favorite memory in school since you’ve started college?**

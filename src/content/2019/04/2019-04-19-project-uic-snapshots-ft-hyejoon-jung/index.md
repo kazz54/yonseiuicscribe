@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 This time we are introducing last year's captain of homeroom 9, Hyejoon Jung.
 
 **What is the happiest memory you have from being homeroom captain?**

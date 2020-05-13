@@ -6,6 +6,8 @@ category: "Science"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Professor YoungSoo Kim of Underwood International College’s Bio-Convergence Major has been doing revolutionary research in the Alzheimer’s disease field. Professor Kim uses animal models to simulate the Alzheimer’s disease to find drug candidates and biomarkers that can indicate the presence of Alzheimer’s disease early on in the development of the disease. The research that Professor Kim does is interdisciplinary, as it combines various disciplines of natural sciences including organic chemistry, chemical neurobiology and biochemistry. Professor Kim’s laboratory uses solid-phase peptide synthesis, protein-based in vitro assays, HTS drug screening, and in vitro animal studies. 
 
 Alzheimer’s disease is characterized by memory loss and cognitive deficits. The pathophysiology of Alzheimer’s disease is the formation of two types of brain lesions. These brain lesions are senile plaques and neurofibrillary fibers. The formation of the brain lesions occurs years prior to the presence of clinical symptoms. Thus, it is imperative to find early detection tools. In terms of Alzheimer’s disease therapeutics, Professor Kim’s laboratory is working on finding drug targets to alleviate the symptoms of the neurodegenerative disease.

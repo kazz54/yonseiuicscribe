@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 This week’s piece features Chaehyun Son from the class of 19, majoring in Asian Studies. She is currently an active member of the Korean YouTube channel “YonKo TV”- best known for its video contents offering a sneak peek at the life in Korean universities, mainly Yonsei and Korea. She is participating under the nickname “Hana”.  
 
 **How and when did you discover about YonKo TV and what was the motivation behind pursuing a place at the channel?**

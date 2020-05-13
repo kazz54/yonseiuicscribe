@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.jpg"
 featured: "true"
 ---
 
+![](/images/thumbnail.jpg)
+
 Ever wondered what type of students contribute to determining your level of satisfaction at Yonsei University’s Underwood International College? Who represents the core of UIC, the one and only international institution with diverse student bodies at Yonsei? How effective is the student council at delivering students’ needs and concerns and swaying decisions of the UIC administration?
 
 Around this time of year — on November 12th, 2019 to be specific — UIC released a list of candidates for the 15th student council election. A total of twenty five students participated in representing their majors from UIC this semester, all under unique team names and slogans they selected to express a sense of their character. Each major representative provided a pledge where they listed duties and obligations they plan to fulfill once they are elected. Only eleven majors are available for election, including Comparative Literature and Culture, Economics, Life Science and Biotechnology, Asian Studies, Culture and Design Management, Information and Interaction Design, Creative Technology and Management, Justice and Civil Leadership, Sustainable Development and Cooperation, and Energy and Environmental Science and Engineering. This leaves out majors like International Studies, Political Science and International Relations, Bio-Convergence, which leads to the question of how StuCo is managed and how their election is carried out.

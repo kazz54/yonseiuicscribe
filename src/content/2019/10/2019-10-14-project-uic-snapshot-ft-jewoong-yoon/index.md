@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Interview with Jewoong Yoon, Energy and Environmental Science and Engineering, Class of 2014
 
 **What do you appreciate most in a friend?**

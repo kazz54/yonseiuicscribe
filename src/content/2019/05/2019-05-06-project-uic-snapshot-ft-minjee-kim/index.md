@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 This week's interviewee is Minjee Kim from the LSBT class of 18.
 
 **How are you enjoying sinchon campus life? Do you have a favorite class?**

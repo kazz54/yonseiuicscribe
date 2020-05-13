@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 #### **What is the UIC Global Research Competition?**
 
 Every year since 2013, Underwood International College has granted its undergraduates a precious opportunity to carry out their self-directed research projects with topics of their interest and passion. In other words, UIC holds an annual global research competition in which accomplished UIC faculty judges select one to two (possibly three) research proposals submitted by its students. The evaluation process usually takes around 2 weeks. After notification, the winning teams are awarded with research funding up to KRW3,500,000 per individual and mentorship from UIC professors for them to systematically prepare and effectively conduct their research over the summer break. After successfully completing the research, the students will receive one credit under ‘UIC Research Project’, a pass/non-pass elective summer course.

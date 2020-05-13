@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 ### Seoul Fashion Week: March 2019
 
 Seoul is a city where image matters. A place where for better or worse, how you look is highly connected to who you are. However, this emphasis on one’s outer appearance has allowed for Seoul to be one of the most fashion forward and trendy cities in the world.  Seoul style is easily on view during Seoul Fashion Week, with the autumn/winter 2019 designs being easily on display. Seoul fashion week, which began on March 19th and ended on March 24th, brought Dongdaemun Design Plaza(DDP) to life with numerous designers, models, celebrities and average citizens displaying their own unique aesthetics and personalities to onlookers. According to Vogue, the common theme throughout many of the fashion shows was a combination of Eastern and Western styles as Seoul further exemplifies itself as another fashion capital of the world.

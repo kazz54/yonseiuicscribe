@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Urban overcrowding is becoming an increasingly serious problem across the world. Major cities such as Seoul, Hong Kong and London suffer from problems ranging from housing price inflation, road congestion, and rural depopulation of surrounding areas. Although there have been many attempts during the past decade to solve the issue of urban overcrowding, these have rarely been successful. For instance, the relocation of the South Korean government’s central administrative agencies has not solved the housing price inflation of Seoul.
 
 Urban revitalization of nearby cities presents itself as a potential panacea to the problem of urban overcrowding. Urban revitalization is defined as a set of schemes put in place in order to revamp a city’s structure and economy. These schemes may be performed in both a private and public capacity but are usually spearheaded by the government (on both national and local levels). Aspects of urban revitalization may include a clearing out of the entire city to start from scratch, real estate redevelopment and investment in the instalment of infrastructure like schools or highways.

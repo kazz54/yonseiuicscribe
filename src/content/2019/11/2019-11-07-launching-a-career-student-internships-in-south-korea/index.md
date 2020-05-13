@@ -6,6 +6,8 @@ category: "Business"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 The overall youth unemployment rate of South Korea has been continuously rising since 2001 and has reached 10.4% as of June 2019, a rate significantly higher than 3.7% of Japan and 8.6% of the United States. More and more young adults are becoming discouraged as they face the harsh reality after graduating from college. A decent educational background no longer guarantees a job. The standards of companies have become higher than ever and competition is intense with a large pool of individuals applying for limited job positions. Job market competition, however, does not necessarily begin after one graduates from college. It begins even before that with internships. 
 
 Although human resource managers claim that it is not necessary for individuals to have completed at least one internship before they apply for full-time job positions, it has somewhat become a norm for South Korean college students to search and apply for internships as a strategic tool to build their future career. Work experience has become one of the most crucial aspects employers consider when they hire people. As selfish as it may sound, firms strive to minimize investment (e.g. cost and time for skill development training programs) and maximize profit by hiring individuals who are already familiar with the work environment and thus more likely to adjust quickly. As a result, a great number of undergraduate students constantly feel the pressure to work as interns at private or public enterprises, educational institutions, or international organizations.

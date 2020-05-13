@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 This time we are introducing Mingue Jung who has been working as an RA of Allen House at Songdo International Campus for two semesters.
 
 **What is the most fulfilling memory you have as an RA?**

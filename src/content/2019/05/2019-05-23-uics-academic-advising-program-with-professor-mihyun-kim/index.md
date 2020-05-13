@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Professor Mihyun Kim is the Underwood Division’s academic advisor in charge of International Studies, Political Science and International Relations, Economics, and Comparative Literature and Culture majors. Professor Kim is currently co-writing a book on academic advising. The UIC Academic Advising System started in the summer of 2012. As UIC grew larger, the academic advising program, formerly headed by devoted professors of the Common Curriculum, transformed into one led by professional academic advisors.
 
 **Could you tell the readers about yourself?**

@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 If you’ve finished grade school, then you’ve likely learned about how the Earth is round. The idea that the Earth is spherical has been around since ancient Greece, and it’s been proven several times over with the development of science, particularly space travel. Most of us take this as common knowledge, but there’s a growing subculture on the Internet dedicated to unveiling the so-called “Flat Earth Theory.”
 
 The general gist of the theory is in the name: the Earth is flat. There are minor disputes regarding the exact shape of the Earth, but the most popular theory within the community stipulates that the Earth is a flat disc, with the Arctic Circle in the middle and a wall of ice encompassing the rim. People believe that NASA is responsible for guarding this wall of ice to make sure that people do not wander too close and accidentally fall off the edge. In 1959, the Antarctic Treaty established international codes of conduct regarding the only major body of land without a native human population. This treaty was signed by all major powers, including the United States and the Soviet Union, and, according to flat-earthers, the clause included to limit travel to Antarctica was drafted to prevent people from discovering the truth. Even now, travelling to Antarctica is very difficult and costly, and people who are fortunate enough to go are banned from exploring the area without the accompaniment of a supervisor.

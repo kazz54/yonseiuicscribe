@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Interview with Jaeyeon Jeon, Comparative Literature and Culture major, Class of 15’
 
 **How does it feel to interact with freshmen at Songdo? **

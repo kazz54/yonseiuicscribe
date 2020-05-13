@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 I have lived in a dorm both at Yonsei University and at the University of Notre Dame. I went to Notre Dame as an exchange student last fall. After experiencing dorm life at both universities, I was able to observe some similarities and differences between them.
 
 First, regarding Yonsei’s dormitories, it is mandatory for first year students to live on campus. As first year students, we have to move to Yonsei International Campus located in Songdo, Incheon. In the Songdo campus, there are buildings labeled from A to G with 12 different houses. Each house has a different theme and goals. For example, Underwood House has the motif of pioneering spirit and sharing. On the other hand, University of Notre Dame requires first, second, and third year students to live on campus. It has 31 residence halls on campus and each dorm has a different atmosphere and traditions. For example, Pangborn hall is a small sized girls’ dorm with valkyrie as a mascot.

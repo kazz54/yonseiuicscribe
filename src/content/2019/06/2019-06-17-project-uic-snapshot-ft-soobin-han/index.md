@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 This week we will meet Soobin Han, who just came back from an Exchange program at Waseda University in Japan!
 
 **Waseda University is one of the most prestigious universities in Japan. What did you most enjoyed about it?**

@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Interview with Alisha Dhanani, Political Science and International Relations major, Class of 2018
 
 **What’s one thing you learned from attending Yonsei?**

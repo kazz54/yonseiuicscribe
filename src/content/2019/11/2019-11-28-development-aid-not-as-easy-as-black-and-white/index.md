@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 According to the World Bank’s poverty and equity data, in 2015, 735 million people were living below the international poverty line of $1.90 a day, and according to UNICEF, in 2014, 22,000 children died each day due to poverty and 805 million people worldwide did not have enough food to eat. To alleviate these problems, numerous developed countries provide official development assistance to developing countries. Many international organizations such as World Bank, IMF, World Vision, and Oxfam International are also involved in trying to achieve international development. However, is development assistance actually helpful to developing countries?
 
 In fact, there are many problematic and adverse sides of international development. One of the drawbacks is that corruption can lead to mismanagement of aid funds. Many public officials use development funds as opportunities to accumulate personal wealth. This leads to a vicious cycle where leaders use funds for their own benefit at the expense of others. For example, in Nigeria, a former governor was guilty of £50m fraud and a former dictator had $1.3 billion in London banks. Also, corruption leads to fewer spending on investments which increases poverty. In Nigeria, one million children are out of school, health services debilitated, and 400,000 children are malnourished and starving. Since the aid funds are not getting to people who are actually in need, underdevelopment and economic failure continue in developing countries.

@@ -6,6 +6,8 @@ category: "Business"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Chaebol, large industrial conglomerates run and controlled by families, has become a keyword describing the South Korean social and economic landscape today.
 
 Since the emergence of chaebols during South Korea’s guided capitalism growth era, they have dominated South Korean economics. According to Korea’s Fair Trade Commission (FTC), South Korea’s regulatory authority promoting economic competition, there are now 45 conglomerates that fit the chaebol stereotype, and the top 10 chaebols own more than 27% of all business assets in the country. The top 5 chaebols-Samsung, Hyundai, SK, LG, and Lotte-represent half of the country’s stock market’s value.

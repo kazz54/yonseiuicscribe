@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 This week’s piece features Jaeho Jung, from the Class of 15, majoring in Economics.  
 
 **What has been your favourite course so far this semester?**

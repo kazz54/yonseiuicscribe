@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Every Wednesday night from 9 to 11pm, Allenians gather to share a cup of coffee. Allen Café located on the 3rd floor of Dormitory G at Yonsei University International Campus has been spreading warmth to the outside community ever since its initial opening in 2017. Allen Café sells various kinds of beverages – fruit smoothies, green tea latte, coffee, and all kinds of tea – and fosters a place where RC students can come together to share a conversation or to play board games with each other. The profit raised from its sales is donated to Children’s Cancer Foundation. Allen Café is one of the programs provided by Allen House for the purpose of Residential College education.
 
 Residential College is a prestigious education model that maximizes learning effects through creative community education that integrates academics and living. The world’s oldest RC education systems were introduced in the 1920s at Oxford and Cambridge universities in United Kingdom and at Harvard and Yale universities in the United States.

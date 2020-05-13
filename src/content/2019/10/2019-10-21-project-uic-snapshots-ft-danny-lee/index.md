@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Interview with Danny Lee, Economics major, Class of 2017 Fall
 
 **Have you lived or studied abroad? If so, what was your most memorable experience there?**

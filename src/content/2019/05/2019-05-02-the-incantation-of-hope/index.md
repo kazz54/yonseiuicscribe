@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 “And out of the end of his wand burst, not a shapeless cloud of mist, but a blinding, dazzling, silver animal.”
 
 This is the physical description of the Patronus charm, a defensive magic of extraordinary nature, being casted by one of the most renowned protagonists in the modern fantasy genre, Harry Potter.

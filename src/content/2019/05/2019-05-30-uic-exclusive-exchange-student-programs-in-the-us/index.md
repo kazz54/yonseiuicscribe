@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 According to Office of International Affairs, 1,600 Yonsei students go on an exchange program every year and Yonsei University currently has exchange agreements with 665 universities in 70 countries. Any Yonsei student can apply for exchange student programs for a semester or an academic year. Some of the requirements for application process are GPA above 3.0/4.3 and completion of at least 2 semesters in Yonsei. The latest students can go on an exchange program is the 1st semester of their senior year.
 
 In addition to Yonsei exchange programs, Underwood International College offers its own UIC-exclusive exchange program. UIC students have more options to choose from than students in other colleges of Yonsei University. Another advantage of UIC exclusive program is that UIC ESP participants receive 1/2 of the UIC tuition as a scholarship while Yonsei wide ESP participants get 1/3 of the tuition. UIC currently has 16 partner institutions in Asia, Europe, Australia and America. Among them, there are 5 partner institutions in America which are Amherest College, Darmouth College, Claremont McKenna College, Wellesley College and University of California, Irvine.

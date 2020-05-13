@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 The Yonsei campus scenery remains the same no matter what day it is - friendly faces chatting together, relaxing on benches or turning red while running late to class.
 
 Foreign students mostly remain with foreign students.

@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Underwood International College began its very first semester in March of 2006, making it almost 14 years since the birth of our school. As the very first international, English-based college in South Korea, the school’s mission to integrate Korean students with the global sphere was quite unprecedented. Based in an extremely homogenous country not necessarily known for high English literacy, the school would face many challenges in realizing its mission. 
 
 ### **Issues that international students face at UIC**

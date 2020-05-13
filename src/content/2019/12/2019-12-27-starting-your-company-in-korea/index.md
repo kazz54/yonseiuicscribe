@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.png"
 image: "./images/Picture-1.png"
 ---
 
+![](/images/thumbnail.png)
+
 Interview with the CEO of the start-up Color Project
 
 In the 21st century, searching for a job is a struggle present in the majority’s daily reality. What is a “good job”? For many millennials and — in a few years, for generations Zr’s — this question might as well be their biggest nightmare. The competition for employment is increasingly brutal for college graduates, even for those coming from prestigious universities like Yonsei. Many young individuals would rather turn to other options, like starting their own company.

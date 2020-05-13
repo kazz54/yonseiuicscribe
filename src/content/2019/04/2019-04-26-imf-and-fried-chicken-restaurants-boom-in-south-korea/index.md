@@ -6,6 +6,8 @@ category: "Business"
 featuredImage: "./images/thumbnail.jpeg"
 ---
 
+![](/images/thumbnail.jpeg)
+
 The movie called ‘Extreme Job’ was big hit by reflecting the self-employment reality in South Korea with comic elements. The middle-aged main character of the movie who opens a fried chicken restaurant is a symbol of most middle-aged people in South Korea today.
 
 Recently, the number of self-employed people is soaring in Korea, and most of them are retired employees from companies. Since fried chicken is the most popular menu in Korea, opening fried chicken restaurants became the easiest choice to make for self-employed workers.

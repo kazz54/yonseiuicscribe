@@ -6,6 +6,8 @@ category: "Science"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 On October 7, 2019, three scientists – Dr. William G. Kaelin Jr., Dr. Gregg L. Semenza and Dr. Peter J. Ratcliffe – shared a Nobel Prize in physiology and medicine for unlocking a critical mechanism of oxygen sensing. This research is groundbreaking, especially in cancer, because this will lead us to understand how cells use oxygen and how cancer cells develop. The scientists shared a SEK 9 million prize, rewarded by the Nobel Institute in Stockholm.
 
 Cells experience different levels of oxygen depending on their environment. For instance, if the body is exposed to oxygen deficient environments, then the oxygen level in the body cells would decrease. In addition, wounds can also affect oxygen levels in the cells, since the immune system is adapted to fight infections. There are different oxygen levels depending on the types of cells. When cells progress into cancer or tumor cells, the cell’s characteristics and functions change to benefit the cancer cells. For example, cancer cells will disrupt the blood supply to neighboring cells and instead redivert it to the cancer cells. 

@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Enjoying some of the great opportunities our university offers, many UIC students decide to escape Seoul for a semester or two and go on a study abroad program. The list of choices features universities from all around the world with many interesting cultural experiences. How can one make the right choice?
 
 Trying to answer this question, I caught Michaela, who spent a semester in the beautiful Copenhagen, and asked her to share her experience studying abroad.

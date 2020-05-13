@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.png"
 image: "./images/UIC-Snapshot-Lucia-meme.jpg"
 ---
 
+![](/images/thumbnail.png)
+
 An interview with my Ride-or-Die friend, Lucia Tensi, 17.5, PSIR/SDC student.
 
 **What makes you happy?**

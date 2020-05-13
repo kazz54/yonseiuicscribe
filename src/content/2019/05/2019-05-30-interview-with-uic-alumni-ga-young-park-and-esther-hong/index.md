@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Former UIC students Ga Young and Esther both had majored in Economics. After graduation Ga Young went on to the Graduate School majoring Economics in Yonsei, and Esther got a job at a law firm. However, despite their accomplishments, neither stopped there. They dreamed of even further achievements and made the decision to go to Duke University in the United States in order to continue their studies.
 
 **What made you decide to go to Duke?**

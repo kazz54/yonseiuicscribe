@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 一期一会 (_ichigoichie_). This Japanese saying by Sōji roughly translates into “one life, one encounter.” It describes every meeting as a once-in-a-lifetime encounter and encourages us to give each moment of our lives our all. 一期一会 also happened to encapsulate the two weeks that the four of UIC students spent in Kyoto. This summer, four UIC students were given an opportunity to participate in a program offered by Kyoto University. They were able to make the most of those new intellectual experiences and friendships in a beautiful city where centuries of history intersect with the hustle and bustle of the present. 
 
 Kyoto University (also known as Kyodai) is a national university in Kyoto, with its heritage has been matching by its fame for producing world-class researchers, including 18 Nobel Prize laureates, two Fields medalists, and one Gauss Prize recipient. It is currently one of Asia’s highest ranked universities and a top-tier university in Japan. Three to four UIC students are invited to this institution every year for the “Kyoto Summer Program (KSP) for East Asia and Germany Students with KU Students.” This year, the selected UIC students took part in the program from July 29th to August 9th. The four students from different majors and different stages of their college years engaged with those from even more diverse backgrounds. The participants—whose majors spanned everything from electronic engineering to French literature—were from Peking University in China, the University of Hong Kong in Hong Kong, National Taiwan University in Taiwan, and several universities in Germany along with students at Kyoto University.

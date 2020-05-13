@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpeg" 
 ---
 
+![](/images/thumbnail.jpeg)
+
 The first time I heard about the 17 Sustainable Development Goals (SDGs), the United Nations’ 2030 global agenda, was last semester when I took the course Introduction to Sustainable Development and Cooperation by Professor Yoon Semee. Out of the three basic pillars—economic growth, social inclusion, and environmental sustainability—I was especially intrigued by the last one. Although I had previously heard about the dire consequences of climate change, such as extreme weather events and disappearing islands due to rising sea levels, when I watched apocalyptic disaster films like _San Andreas (2015)_ and _Geostorm_ _(2017)_ I frankly felt that it was a slow-moving crisis too “fictitious sounding” to be related to my day to day life. 
 
 However, as I learned about the alarming projections of temperature rise due to human-induced greenhouse gas emissions and their direct threat to our survival, I realized how pressing the issue of climate change really was and the need to raise awareness. At the same time, I wondered what we could possibly do that would make a difference in the face of geopolitical obstacles. Certainly, the young Swedish activist Greta Thunberg has proven that one person’s actions can move millions to participate in the cause of climate action. 

@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 This week’s piece features Chaeyun Byun, from the class of 18, majoring in CLC.
 
 What are the advantages and disadvantages of being a Sinchon newbie?

@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.jpg"
 image: "./images/IMG_7814-1024x683.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 On March 1st, 2019, “Manse”, which means long live Korean independence, was shouted out by ten thousand people who gathered in Gwanghwamun Square, Seoul. It was a ceremony organized by the Korean government to simulate the March 1st (3·1) movement that took place 100 years ago. This year, the 100th anniversary of March 1st movement and the establishment of Korean provisional government was remarkably and widely commemorated throughout the country. We should take a moment to reflect back on this imperative part of Korean history.
 
 #### History of March 1st Independence Movement

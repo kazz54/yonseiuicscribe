@@ -6,6 +6,8 @@ category: "Science"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 The world was shaken up when the news broke out that a Chinese scientist, He Jiankui, successfully genetically modified three babies. Two genetically engineered twins were born recently, and a third baby is on its way. According to the BBC, Professor He deleted key genes associated with HIV (Human Immunodeficiency Virus) receptors in the body. Professor He claimed that his actions were ethical, because the genetically modified baby’s father has AIDS (Acquired Immunodeficiency Syndrome) and there was thus a risk that the child could also be infected by HIV. Chinese officials, on the other hand, are currently saying that Professor He violated state laws for fame. According to UNESCO, Germline gene editing is banned in all countries. Currently, we do not know the baby’s status and researchers do not fully understand  the real-life consequences of silencing the HIV receptor genes. This event has generated ethical concerns for some, regarding genetically modified embryos.
 
 Professor He used CRISPR-Cas9 technology to genetically engineer the embryos. This technology, which is short for “Clustered Regularly Interspaced Short Palindromic Repeats CRISPR-associated protein 9,” is capable of modifying the genome of an individual. According to the National Institute of Health, scientists can manipulate the genome by deleting, adding or modifying specific genes within the genome.

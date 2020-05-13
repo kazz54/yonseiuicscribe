@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.png" 
 ---
 
+![](/images/thumbnail.png)
+
 ### **International Studies (IS) Major **
 
 The international studies major offered at UIC combines three main fields of study: international relations, international economics, and international law. The interdisciplinary nature of the curriculum allows its students to acquire a well-rounded understanding of the numerous issues occuring in the globalized world at both regional and international levels. Topics range from orientalism, realism, and constructivism to human rights violations, sustainable development, and trilateral cooperation between Northeast Asian countries. Through intensive research, presentations, and discussions, IS majors learn how to express their critical opinions in a cohesive manner not only through writing but also speech. They have opportunities to exercise strategic thinking skills by integrating information and developing solutions for socio-economic issues. Students also learn how to identify and interpret new social paradigms, use comparative analysis to draw connections, and apply traditional international relations theories to the real world. 

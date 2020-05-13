@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 This time we are introducing the current Life Science and Biotechnology Student Council Representative - Shannon, finishing her fourth semester at UIC.
 
  **What is your favorite place in Korea?**

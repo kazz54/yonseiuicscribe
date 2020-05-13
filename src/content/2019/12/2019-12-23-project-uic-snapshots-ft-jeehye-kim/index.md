@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Interview with Jeehye Kim, Economics major Class of 2018
 
 **What is your favorite book?**

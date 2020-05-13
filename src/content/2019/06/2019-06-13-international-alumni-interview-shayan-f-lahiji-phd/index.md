@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.png"
 image: "./images/KakaoTalk_Photo_2019-06-14-10-07-05-am.jpeg"
 ---
 
+![](/images/thumbnail.png)
+
 _I met Dr. Lahiji at an LSBT alumni talk that was held earlier this year. I had the wonderful opportunity to interview him, and got to know more about his journey from UIC to graduate school as well as his research on painless drug delivery systems._
 
 A photo from the 2019 graduation ceremony with Dr. Samuel Carroll Brooks III (right), Dr. Janie Sue Brooks (left) and Dr. Shayan F. Lahiji (middle)

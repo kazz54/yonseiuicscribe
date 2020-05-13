@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Finding food, let alone a meal, to eat during the narrow break students have in between classes is a challenge on its own. Especially in Yonsei University’s Sinchon Campus where the faculties and the affordable restaurants are located far away from each other. Students will need to calculate the distance, the taste of the meal, the cost of the meal, whom to eat with, and most importantly, how long it will take to travel andeat. It's a lot of thinking, but fret no more. The following are a list of restaurants and cafeterias where students can enjoy a big, tasty, healthy meal at a reasonable price within a short amount of time.
 
 ### 1\. Gyujigwon Cafeteria (한경관, 교직원 식당) 1st floor

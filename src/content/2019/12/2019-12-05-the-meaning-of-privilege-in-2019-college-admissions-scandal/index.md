@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Ever since the controversial story surrounding the children of affluent parents scamming their way into college admissions came out, it has been a non-stop conversational topic for students rightfully enrolled in universities. Celebrities like Felicity Huffman and Lori Laughlin emerged in the headlines of every news outlet, as the faces of reprehensible parents who had been caught in massive legal issues.
 
 Although it is no surprise that there has been a history of bribery or ‘generous’ donation towards higher-tier, Ivy League universities, it is a first for the public to be exposed to a complete list of 50 parents who have rigged the system to sneak their children into reputable schools. This meant that those who are not granted the same resources received an insight into how these wealthy parents managed to bend the rules for themselves. Their tactics include elaborate schemes, varying from falsifying students’ SAT or ACT scores to bribing coaches to recruit non-athlete students.

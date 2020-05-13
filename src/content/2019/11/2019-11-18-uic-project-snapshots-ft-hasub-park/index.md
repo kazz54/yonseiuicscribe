@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Interview with Hasub Park, Political Science and International Relations student, entering class of fall 2017. 
 
 **What made you take a break from UIC?**

@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Interview with Alisa Sunmark – Econ Class of 16
 
 **What do you like best about UIC?**

@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 There’s not a single university student who wouldn’t know what memes are if I said ‘meme’. Memes have been part of our daily life and youth culture for a long time that it’s hard to imagine that this new internet category was invented only around 10 years ago. But have you ever paused your endless scrolling on Instagram - where you sniff air out of your nose while you press heart on some memes about university students cramming the night before exam with a shake made of red bull and coffee and tears - to think why exactly memes are so relatable?
 
 Perhaps the answer to this question is very straightforward – because people want to find a common ground of belonging. There are various types of memes on the internet varied by languages such as in English or in Russian and other memes relatable to people from certain communities only. For instance, the “Polemical Polish memes” page and the “justMongolianthings” page on Facebook are found highly funny by people from the said countries or the “yon\_sei\_shinanigans” and the “yonsei\_memes\_for\_songdo\_teens” pages on Instagram concentrate on sharing memes related to student experiences in Yonsei University. These pages are all processed, accepted, and shared by people who fall into the category of certain age group, certain job, certain nationality, or certain community. In short, they all have a common background. And who can blame them for laughing hours and hours at memes on a social media? It feels good to belong.

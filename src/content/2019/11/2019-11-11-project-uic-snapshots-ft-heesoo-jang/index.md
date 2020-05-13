@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 **How is Sinchon life so far? Is there a big difference between Sinchon and Songdo? **
 
 > Sinchon life is treating me well so far. Because I completed a lot of my Common Curriculum courses in Songdo, the big difference between Sinchon and Songdo life for me is that I have the liberty to take more courses from other colleges in Yonsei. For example, last semester I took a Korean-taught lectures on Latin American society and culture and Interpersonal Psychology. I also think that Sinchon has more fun and more places to visit than Songdo. 

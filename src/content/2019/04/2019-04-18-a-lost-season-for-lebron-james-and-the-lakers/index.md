@@ -6,6 +6,8 @@ category: "Sports"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 With the Los Angeles Lakers eliminated from the playoffs, now might be a good time to think about whether this season has been a lost one for Lebron James and the Lakers.  
 
 The offseason leading up to the 2018-2019 NBA season began with a lot of promise for the Lakers when James signed a contract worth 4 years and $154 million with the Lakers franchise. This was a significant boost to the Lakers coming off a 35-47 season and missing postseason action for the 5th straight year.  

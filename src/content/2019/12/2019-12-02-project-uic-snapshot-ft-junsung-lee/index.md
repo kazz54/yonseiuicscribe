@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Junsung Lee, Entering Class of 18, Nano Science and Engineering
 
 **What is the most memorable house event you have hosted as a RA?**

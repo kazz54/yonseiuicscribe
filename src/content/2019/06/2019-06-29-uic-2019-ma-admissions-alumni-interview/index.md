@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 The UIC Dean met with UIC alumni on a peaceful Saturday morning to discuss their current and future plans as graduate students. During their introduction, it was interesting to note their diverse backgrounds, having come from different universities, countries and fields of study. We took a closer look at our sun-baes’ evolving goals as they progress on with their different steps of life.
 
 _This interview asked six alumni about their life as a UIC student, why they decided to enroll in their graduate school of choice, future goals, and tips on undergraduate life and studying abroad._

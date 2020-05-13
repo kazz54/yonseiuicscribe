@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.jpg"
 image: "./images/Article-2-Image-2-1.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Are you a UIC student about to go on winter break? Check out this article for suggestions about the best things to do during your vacation and how to be well-prepared for the spring semester.
 
 ### Internship

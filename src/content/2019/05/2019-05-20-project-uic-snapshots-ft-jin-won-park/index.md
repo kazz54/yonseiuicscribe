@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Interview with Jin Won Park, Econ, Class of 2018
 
 **Where are you going for an exchange student program? How long are you studying abroad?**

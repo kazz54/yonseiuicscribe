@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Following the recent celebratory practice of loving yourself as who you are along with a number of progressive social movements, major award ceremonies have developed as the perfect platform to not only reflect positive changes in society, but also to actively call for action against a number of controversies.
 
 Previously, politically or socially active celebrities had spoken about discrimination against women in terms of sexual harassment, limited educational opportunities for women and so on. However, more recently, these ceremonies are not only raising awareness about such deeply rooted issues of women's rights, but also workplace inequality and the pay gap that women of color and transgenders face in the television industry.

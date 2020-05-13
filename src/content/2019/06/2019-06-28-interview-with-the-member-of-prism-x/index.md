@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Student club is definitely one of the most enjoyable parts of campus lives that students look forward to. Underwood International College – UIC – also has numbers of student clubs. It is true that UIC students can enroll other clubs other than UIC based ones. However, UIC based clubs have an advantage that they are mostly English based communities, which is convenient for students who are not yet used to using Korean fluently. Korean students who wish to be more exposed to foreign languages might also benefit from UIC clubs as it will increase your opportunities to interact with foreign students.
 
 There are 11 student clubs under UIC according to the official homepage. Various clubs covers diverse fields such as music performance, academic sessions, and basketball club. Among them, this journal will present the interview with Lee Yejin (STP, Class of 17), the current member of “Prism X”, to examine their activities and progress.

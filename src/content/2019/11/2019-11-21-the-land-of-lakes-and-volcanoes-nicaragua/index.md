@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.jpg"
 image: "./images/21433242912_4a9e4ba6ac_z.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 One of the most exciting parts about being a UIC student is getting to interact with people from diverse backgrounds and cultures from all over the world. Though I am ethnically Korean, I grew up in Nicaragua before coming to UIC. During my first year, I realized that for many students, Nicaragua is a place you sweepingly hear about in history textbooks, if not at all. Thus, I would like to share a bit about this place I consider home at heart.  
 
 Nicaragua, also known as “the Land of Lakes and Volcanoes,” is the largest country in Central America. It is composed of 15 departments and two autonomous regions, with Managua as its capital city. It has a population of around 6 million inhabitants of mostly mestizo or Spanish-indigenous people. Given the historical legacy of colonization by both Spain and Britain, the official language is Spanish, but you will hear English and some indigenous languages in the Caribbean coastside. Since Nicaragua is located close to the equator, it has a tropical climate, meaning it is summer year-round.  

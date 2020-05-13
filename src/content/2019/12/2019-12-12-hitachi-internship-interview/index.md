@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/test.jpg" 
 ---
 
+![](/images/test.jpg)
+
 The Hitachi Automotive Systems Winter Internship is a 2-4 week program that offers UIC students interested in IT an opportunity to experience the Japanese corporate world.
 
 **Please introduce yourself.**

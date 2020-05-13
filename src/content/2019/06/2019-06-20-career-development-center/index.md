@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Sooner or later, we as undergraduates will have to confront the decision of whether to continue with our studies or to establish a career path and find a job for ourselves. It is important to decide on your future path as soon as possible. Although some might propose that by making many mistakes you will find out what is right for you, those mistakes are still preferably made when you are in the self-development process of the college years. An early decision regarding your career orientation is more beneficial, as it can give you a clearer direction in planning your future. Of course, while it would be good to figure out all of these things on your own, the UIC Career Development Center  (known as the CDC) is too good a chance to pass up on.
 
 The CDC was founded when Professor Michael Kim gathered students’ resumes for a Global Career Fair and realized that UIC students did not know how to write even a proper, let alone outstanding, CV with which to brand themselves. So he founded the CDC, in order to provide the resources for undergraduates to map out their futures early on. With the help of the Global Career Society (a student-centered club that focuses on enhancing its members’ understanding of the global job market and gathering information for career planning), and the voluntary professors who help direct the Center, the CDC can be a great source for whoever is looking for career-related advice..

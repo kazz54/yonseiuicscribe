@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/test.png"
 ---
 
+![](/images/thumbnail.png)
+
 You just came back from an Exchange Program! 
 
 Please tell us about where you have studied.

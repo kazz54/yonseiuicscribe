@@ -6,6 +6,8 @@ category: "Technology"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 There is a country where 99 percent of the government administration happens online. Its citizens can handle almost all of their public service needs from the comfort of their own homes every hour of the week. Marriage, divorce, and real-estate transactions, for which one still has to venture out of the house, are the only exceptions. They have access to digital health data and pay hassle-free tax online. Over 85 percent of schools use an e-School system and purely digital study materials. It takes just a few hours and an Internet connection to set up a company. The country is Estonia, a pioneer in converting public services into flexible e-solutions which is often cited as the ultimate benchmark for how citizens should engage with government for their daily needs.
 
 Estonia is relatively new to its independence. When it declared itself a sovereign nation and stepped out of the shadow of Soviet occupation in 1991, there were a few resources available in the way of technology. Less than half of its citizens had a phone line and the general population did not have the Internet or even devices with which to take advantage of the Internet.

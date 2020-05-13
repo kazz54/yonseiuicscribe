@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Jane Austen’s _Pride and Prejudice_ is a classic story and classic stories are usually considered somewhat uncontemporary and rather difficult to approach for modern readers. However, such generalizations might be misleading since _Pride and Prejudice_ can be a delightful experience for any readers. Here are a few reasons why _Pride and Prejudice_ should be the unconventional classic that is enjoyable for everyone.
 
 Austen’s witty and intelligent writing is full of irony, wicked humor and mockery. The story is regarded as a love story while being so unromantic. There would be no Shakespeare’s _Romeo and Juliet_ kind-of-love in Austen’s page because the match between characters are so often emphasized on money. The economic capacity would make one either attractive or unattractive before the consideration of their characters, so before any incident of love at first sight, people carry around their own price tag while browsing around those of others. Love in her feminine view is a cynical matter rather than an emotional driven one. 

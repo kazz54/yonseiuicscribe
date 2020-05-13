@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.jpeg"
 ---
 
+![](/images/thumbnail.jpeg)
+
 ### The New Insadong
 
 For majority of the people visiting Seoul for the first time, famous Insadong streets are always on the to-do list. Located in the historical heart of Seoul, in between Gyeongbokgung and Changdeokgung palaces, Insadong lies right where all the tourist hot spots meet. However, this artsy traditional tea house district has a new rival aiming for its must-visit spot title. Not far away from Insadong lies an area called Ikseon-dong, a rising star amongst the hip areas of Korea's capital city.  

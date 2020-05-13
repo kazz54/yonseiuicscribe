@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 It was only after coming to Boston as an exchange student in February that I came to know about the pervasiveness of vaping. At my first party, I saw some fellow students smoking out of things that looked like pens and USB flash drives that people called “jewels.” Never once having smoked or set foot in an enclosed smoking area, I was stunned when my friends later informed me that they were e-cigarettes, or vaping products.
 
 Vaping is referred to the use of battery-powered e-cigarettes whose “e-juice,” a liquid solution containing nicotine and other additives, produces an inhalable aerosol or “vapor” when heated. I discovered that the “jewel” I had been hearing about from all corners of the room was actually spelled “Juul.” Juul is a vaping product widely popular among youth and young adults, constituting approximately [75% of the US e-cigarette market share](https://www.cnbc.com/2018/07/02/juul-e-cigarette-sales-have-surged-over-the-past-year.html) as of early October 2019. [_Bloomberg_](https://www.bloomberg.com/news/articles/2019-02-22/juul-expects-skyrocketing-sales-of-3-4-billion-despite-flavored-vape-ban) reported that Juul Labs Inc.’s sales skyrocketed from $200 million in 2017 to $1.3 billion in 2018, due to its marketing techniques: its sleek design, food-like packaging, and appealing flavors like mango or cool mint.

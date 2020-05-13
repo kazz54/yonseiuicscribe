@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 ### What is wishcycling?
 
 In an era of increased consumer awareness, we want to do what’s best for the planet. We recognize that it is our responsibility to take care of our waste products, and try our best to reduce, reuse, and recycle. “Wishcycling,” or wishful recycling, describes when consumers, not knowing what to do with a waste product, sort something that is not actually recyclable into a recycling bin—hoping that it will somehow be recycled. We often hope that with the mechanical and manual sorting trash goes through, anything non-recyclable will be filtered out—but in reality, this does not happen and instead wishcycling causes problems that waste time and money, and actually create more trash that will just end up in landfills.

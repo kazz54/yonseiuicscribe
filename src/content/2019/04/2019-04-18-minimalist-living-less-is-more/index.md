@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Let’s face it, most people believe money can buy happiness. I mean don’t we all love using money to reward ourselves with material items? Whenever we finish our duties or fulfill our goals, we tend to go search for new clothes, jewelry, expensive meals, or even plane tickets to vacation spots. We spend money on these material goods to taste the pleasure of accomplishment, for that moment of happiness when you feel like you spent your money on something you deserve.
 
 We live in a world driven by consumerism. Every day when we turn on the television or access social media platforms such as Facebook and Instagram on our smart phones, we are exposed to commercials and posts that trigger our desire to consume. Take the thriving home shopping market in Korea as an example. According to Euromonitor, a global market research company, the industry has shown a rapid growth of 53 percent since 2012. With an average of 100,000 transactions each day, these home shopping channels have over 30 million household views annually. In fact, consciously or unconsciously, we often purchase goods, whether it be food, clothing, cosmetics, or accessories, that we don’t necessarily need. The media tricks us into believing we can achieve happiness by acquiring more and that we would feel left out if we don’t follow the latest trends. We become trapped in an endless cycle: We can’t stop surrounding ourselves with all the _stuff_.  

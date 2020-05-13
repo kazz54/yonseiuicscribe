@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 **How was your exchange experience in University of California, Berkeley? What were your most memorable moments?**
 
 > My exchange in Berkeley was a topsy-turvy adventure. It was my first time living abroad, so I had such high expectations of myself. I wanted to make the most of it. With my intellectual curiosity and my goal to go to graduate school, I took a graduate course called “Space, Future, Futurity” in which I  

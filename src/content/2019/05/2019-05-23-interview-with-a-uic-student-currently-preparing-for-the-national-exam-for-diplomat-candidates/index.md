@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 National exam season has begun and several aspiring future diplomats are currently going through or planning to take the national exams. The following personal insight from one of our UIC students with such experience may help those undergoing the process!
 
 **Please introduce yourself (student year, major, where you lived, etc.)**

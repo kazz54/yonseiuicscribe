@@ -6,6 +6,8 @@ category: "Shorts"
 featuredImage: "./images/thumbnail.png" 
 ---
 
+![](/images/thumbnail.png)
+
 Interview with Hajin Bae, Creative Technology Management student, class of 2016
 
 **What has been your favorite CTM major course so far?**
