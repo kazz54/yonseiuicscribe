@@ -1,10 +1,10 @@
 ---
 title: Code
 author: Elijah Lee
-date: 2020-05-13
+date: 2020-05-13T00:00:00.000Z
 category: School
 featuredImage: ./images/code.jpeg
-featured: "true"
+featured: "false"
 ---
 ![code](images/code.jpeg "code")
 
