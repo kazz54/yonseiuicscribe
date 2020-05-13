@@ -6,7 +6,7 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
- 
+![](/images/thumbnail.jpg)
 
 There are some aspects of life that can't be seen on the media. For instance, until recently, it was hard to find a TV show dealing with the lives of the elderly. Thanks to the Netflix original show _Grace and Frankie_, and the Korean drama aired on TvN _Dear My Friends_, I can now name a few. Becoming a senior citizen is something everyone will eventually go through, but it is ironic that the media hardly pays attention to it, and that we do not know what it is like to be one.
 

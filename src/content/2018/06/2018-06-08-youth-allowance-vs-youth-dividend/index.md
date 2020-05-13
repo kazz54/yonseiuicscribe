@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Compared to the past, the Korean government has been paying more and more attention to the welfare of the youth. As a result, two main policies have been implemented - Youth Allowance and Youth Dividend. There is a need to know more about these two policies, since they may be the first step towards true welfare for the youth.
 
 ![](./images/Youth-Capitalize.jpg)

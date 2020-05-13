@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Akaraka. There are various interpretations of the meaning of Akaraka: The war cry used by a Roman general, the sound made by an eagle (the symbol of Yonsei), or ‘ak’ (악, 樂) ‘ha’ (하, 下) ‘rak’ (락, 樂) ‘ha’ (하, 下) meaning everyone becomes one under the collective joy felt through music when written in Chinese. But no matter which of the various interpretations is correct, what is undeniable is that Akaraka, along with the Yonko Games, is one of the two events most synonymous with Yonsei. For all the students who participate in Akaraka, there is no way they will ever forget their experience as the emotions felt during the day will be forever seared into their memories as one of their highlights during their time at Yonsei.
 
 The motto for this year’s Akaraka was YOLO (Yonsei Only Live Once). As always, the hype leading up to the day of the event was massive and expectations were sky high. Because the line-up of celebrities performing wasn’t revealed until they make their appearance onto the stage, there were many speculations and the Yonsei Akaraka Cheering Squad (being the main organisers for the event) fuelling the speculations themselves by leaking humorous fake line-ups including figures such as Donald Trump, Kim Jong-un, Choo Sa-rang and Son Heung-min.

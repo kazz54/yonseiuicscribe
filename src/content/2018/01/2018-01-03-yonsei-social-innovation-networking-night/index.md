@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 **What is the Yonsei Center for Social Innovation?**
 
 Funded by the Ministry of Education’s University for Creative Korea program, the Yonsei Center for Social Innovation (YCSI) aims to foster a new generation of social innovators by offering the Social Innovation Certificate Program and providing support for extra-curricular activities such as internships, research programs, field trips, scholarships and much more. The Yonsei Innovation Creators’ Academia (SICA) is an umbrella organization of the YCSI established within Underwood International College with the intention of fostering young social innovators.

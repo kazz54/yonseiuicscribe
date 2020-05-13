@@ -6,6 +6,8 @@ category: "Business"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 With an increase in the number of start-up companies, many students have become interested in starting their own businesses. They discuss their abstract and creative ideas with their peers and try to turn those ideas into reality. The Korean government slowly began to acknowledge the importance of start-ups and support innovative ideas and items in the 1990s. Following such trends, Yonsei University also began to encourage start-ups as they created the Yonsei Enterprise Support Foundation (YESF, located in the Engineering Research Park Building 공학원 211) in 1998.
 
 The purpose of YESF is to encourage students to implement their innovative ideas and items into reality. Since YESF is funded by Ministry of Small and Medium Enterprises (SMEs) and Startups (MSS), Seoul City, and Yonsei University itself, it has substantial means of supporting students. With such resources, YESF provides numerous materials and financial support for any group of students of more than three that is currently attending college within Seoul. It provides an average of 2,000,000 won for every team. In terms of infrastructure, it provides seminar rooms, projectors, cameras, and laptops for free. Clearly, it intends to provide the best environment possible for students to develop their ideas. In addition, a group that is recognized as an outstanding group gets linked with a start-up initiation program to actualize their item or idea into a business.

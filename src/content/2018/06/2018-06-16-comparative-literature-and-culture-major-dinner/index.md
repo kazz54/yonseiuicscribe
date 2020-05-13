@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 **About the Comparative Literature and Culture Major**
 
 The Comparative Literature and Culture Major (CLC) hosts some of UIC’s most creative and critical minds. Students are exposed to works of different literary traditions, critical theory, film, and popular culture. Some popular courses of the major include: Rock Music and American Identity, Readings in Medieval European Literature, and Postcolonial Literature in English. The flexible and interdisciplinary program allows students to cultivate a well-rounded and critical understanding of the world around them.

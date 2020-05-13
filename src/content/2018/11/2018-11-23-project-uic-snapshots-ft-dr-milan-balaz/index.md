@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.png"
 image: "./images/scribe_milanbalaz-238x300.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 This week’s piece features Dr. Milan Balaz, an associate professor currently teaching at Integrated Science and Engineering Division.
 
 ![](./images/scribe_milanbalaz-238x300.jpg)

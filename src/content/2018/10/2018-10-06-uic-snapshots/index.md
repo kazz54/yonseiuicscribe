@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.jpg"
 image: "./images/SCRIBE-LOGO-300x300.png"
 ---
 
+![](/images/thumbnail.jpg)
+
 _![](./images/SCRIBE-LOGO-300x300.png)“UIC Snapshots” is a series of short Q&A sessions with people connected to Underwood International College. The aim of this mini-series is to show snapshots of UIC itself and the lives of those who are a part of it._
 
 _This week’s piece features KT: a UIC student from the Class of 15.5 majoring in Asian Studies._

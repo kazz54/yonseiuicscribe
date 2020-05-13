@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Think of your favorite song, any genre. Chances are that the word “loud” or references to volume are included in the lyrics. Popular musicians have long asked listeners in their songs to “turn the music up” or rejoice in the loudness. Surprisingly, it appears that music producers have been doing just that; the music we listen to has actually been steadily increasing in volume throughout the years.
 
 Even before the advent of smart phones, the sight of people plugged into the world of music was ubiquitous. From the old school days of tuning onto radio stations,  carrying around CD players and MP3 devices, to the now commonplace use of online streaming services or video hosting applications, technology has made music readily accessible given that you have a pair of ears. Yet, just as there are a wide range of genres and artists out there, opinions on what constitutes as good music is very diverse and subjective. Yet one apparent trait of perceived “good” music has been how loud it sounds. This concept has fueled what has now been coined the ‘loudness war.’

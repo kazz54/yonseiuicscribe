@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Was university your own idea? If it was, good for you. A hearty shoulder pat and thumbs up for being in the right place at the right time for you. Was going to university the result of a natural escalation of your academics? A place of refuge because you were clueless after high school graduation and university seemed to be another exploratory route? Even more pragmatically, was it a choice made because it is beneficial to have a degree under your belt in terms of job prospects and future career? Whatever your reason for struggling through a degree laden with dissertation readings, presentations, endless essay writing, and assignments is, we have all met at this higher institution of learning. Nice to meet you.
 
 Personally, I came to university because of a combination of all the reasons above. I thought I was interested in political science, I was expected to pursue an undergraduate course, and I hope a graduation diploma will make me employee-desirable. I share the many worries, disillusions, and mental and physical lethargies infecting students. I’ve fallen into various lifestyles: being-busy-around-the-clock, juggling four student clubs, or total shutdown whereby sociability is muted and latent. I found a variety of societies I could join at university, as well as discovering various hobbies or interests that could be pursued. By joining clubs, I could meet many others and one thing came clear; the ubiquity of uniqueness in university is baffling. The spectrum of personalities, backgrounds and opinions within a university community is wide-ranging, and this diversity is in some ways refreshing and in others overwhelming.

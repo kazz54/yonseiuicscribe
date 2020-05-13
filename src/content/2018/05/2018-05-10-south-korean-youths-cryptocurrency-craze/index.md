@@ -6,6 +6,8 @@ category: "Technology"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 **What is Cryptocurrency?**
 
 A cryptocurrency is a medium of exchange that uses cryptography for security. The revolutionary block-chain technology that serves as its backbone  enables information to exists as a shared — and continually reconciled — database.  Despite its transparency and incorruptibility potential, being decentralized from central banks and government manipulation makes the cryptocurrency market fertile ground for money laundering and tax evasion.

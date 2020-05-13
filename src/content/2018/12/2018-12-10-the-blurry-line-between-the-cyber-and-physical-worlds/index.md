@@ -6,6 +6,8 @@ category: "Technology"
 featuredImage: "./images/thumbnail.jpeg"
 ---
 
+![](/images/thumbnail.jpeg)
+
 You poke your hands into your pockets in search of your oh-so-precious credit card, only to realize that it’s not where it’s supposed to be. Your heart drops, your brain stops, your hands start sweating and you frantically try to remember where you could have dropped it. Now, if you take a second to assess the situation, you would realise that what you actually lost was just a mere piece of plastic linked to a sum of money in a virtual realm. The money that you were in possession of was not actual money, but rather the concept of it.  
 
 It doesn’t take long for one to notice the pattern repeating across various nations nowadays, that of the increasing focus on the development of advanced technological systems. Take Korea, for example: public transportation is handled through the T-money card, Internet banking is widely embraced by the population and credit cards are generally preferred over cash throughout the country. Another example would be Estonia, which is the only country in the world so technologically advanced that every one of its citizens possesses an e-ID (electronic identification). The voting process there is also handled electronically, referred to as e-voting. Ever since the beginning of the 21st century, the world has witnessed the transformation of items used in daily-life – from their physical forms to intangible ones.  

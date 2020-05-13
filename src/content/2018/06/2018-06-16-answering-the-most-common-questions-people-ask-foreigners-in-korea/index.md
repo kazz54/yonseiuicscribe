@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 As an international student at UIC, I have had many first-time encounters with students from all over the world – especially Koreans. I realized that many foreigners face very similar questions during first encounters. This led me to request one of my fellow colleagues, Jaipriya, as well as one of UIC’s faculty members, Professor Hope, to share their response to commonly asked questions, in the hope of providing a wider perspective to those who ask them.
 
 **Where are you from?**

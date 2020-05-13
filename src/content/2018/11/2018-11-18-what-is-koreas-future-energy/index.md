@@ -6,6 +6,8 @@ category: "Science"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Even though South Korea is a top manufacturing country, South Korea cannot make electricity independently, and nuclear power plants are the only source for making energy inside the country without any importation. Thus, Korea’s high dependency on nuclear power plants is inevitable.
 
 However, as Moon’s new government took power in 2017, Korea set an ambitious goal of making eco-friendly and safe future energy and planned to turn into Liquified Natural Gas (LNG) and renewable energy instead of nuclear and coal power plants. Accordingly, the Korean government proclaimed that they would be decommissioning nuclear power plants and, moreover, even coal-power plants were included in the decommissioning list due to their increasing CO2 and fine dust in the air.

@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.jpg"
 image: "./images/E99.png"
 ---
 
+![](/images/thumbnail.jpg)
+
 Feeling hungry after a tiresome day of group projects, tests, and extracurricular activities? The three restaurants listed below are located approximately 15 minutes from the Songdo International Campus, making them easily reachable whenever you need something to fill your empty stomach. In addition, the restaurants are relatively small yet filled with colorful and intricate designs that will immediately satisfy your eyes. Most importantly, all three restaurants will immediately take your breath away, starting from their fun presentations to their unique flavors.
 
 ![](./images/E99.png)

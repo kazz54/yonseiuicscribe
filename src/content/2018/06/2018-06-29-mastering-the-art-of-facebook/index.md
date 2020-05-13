@@ -6,6 +6,8 @@ category: "Technology"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Facebook, by itself as a whole, is a controversy. Based on the statistics of Facebook accounts throughout its existence, its user population will continue to expand. Or will it? As long as Facebook operates, controversies will come along. However, none of the past controversies have done significant damage to this social media site to an extent of long term loss of its users.
 
 The reputation of Facebook was once again tainted with its privacy scandal. The CEO of Facebook, Mark Zuckerberg, was alleged to have exploited their users’ data. He was summoned by the U.S. Congress to testify the accusations on data breach and subsequently by the European Parliament to speak of similar matters in relation to data leak.

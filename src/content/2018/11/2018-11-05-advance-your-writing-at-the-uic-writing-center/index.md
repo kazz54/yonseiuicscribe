@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Writing and reading are indispensable skills for university students, especially for students at Underwood International College (UIC). The burdensome weekly assignments which require continuous writing in English is indeed an unavoidable part of UIC life that all students must grow accustomed to. Including but not limited to Common Curriculum courses such as _Freshman Writing Intensive Seminar_ that UIC freshmen are advised to take, UIC students are constantly exposed to various texts and writing assignments to hone their writing and reading skills. To help students out in creating analytic and intelligent pieces of writing while enhancing clarity and improving the effectiveness of their writing, the UIC Writing Center reaches out to students with open arms.
 
 #### **How does the program work?**

@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.jpg"
 image: "./images/scribe_econfriendly-200x300.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Would you keep the air conditioning on while you run errands outside or leave the faucet open to steam up your house? The answer is most likely “no.” However, such massive waste of resources is produced on campus, particularly in the dormitories. Since dorm rooms are shared space and individual consumption of electricity or water cannot be tracked, the students’ sense of irrelevance increases towards the overall energy being spent. Accordingly, there is a need to set a standard for a minimum level of an eco-friendly lifestyle for the students in dorms. You may compromise between your convenience and eco-friendly values, yet pause and question whether you would use your own room as you use your dorm room.
 
 #### Eco-friendly Mindset and Dorms

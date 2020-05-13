@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 During my freshman and sophomore year, I dedicated my summer to club activities. Going to campus almost every day to prepare for the big event planned in September, I remember these steamy and sweaty summer days to be filled with passion. But I always craved for more room, for flexibility, or for ‘my time’. I put a lot of effort into these club activities that whenever I was done with them, I was knocked out, running the a/c at full power and lying on my bed with blankets rolled up to my neck. As I am done with the club, this summer is all mine. I never expected planning for summer to be this exciting. Summer is approaching quickly and because I had so much on my wish list, a screening process was necessary. I jotted down all the things I wanted to do, and a few candidates survived. One of them is the summer reading. My summer reading list isn’t completed yet, but for some UIC students out there who are also excited to read over the summer, I would like to share some bits from my list: three books written by UIC professors!
 
 ![](./images/WealthPower-cover_large.jpg)

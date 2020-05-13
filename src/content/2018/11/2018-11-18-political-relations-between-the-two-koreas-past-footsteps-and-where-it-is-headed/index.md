@@ -6,6 +6,8 @@ category: "Politics"
 featuredImage: "./images/thumbnail.png"
 ---
 
+![](/images/thumbnail.png)
+
 Ensuing from the previous two rounds of the inter-Korea summits, South Korean president Moon Jae-In has visited North Korea this September for the third North-South Korea summit, which carried on the peaceful wave in the Korean peninsula and served as a cornerstone for establishing a peace regime in Korea. Accordingly, there has been increased anticipation towards the reunification of the Korean peninsula, as well as a sense of security and relief following the peaceful relationship between the two Koreas. Inspired by such movement, this article will go over the past footsteps that were taken in order to achieve the status quo and discuss the prospect of a renewed political relationship between North and South Korea.
 
 Since the establishment of two separate governments of North and South Korea in 1948, the Korean peninsula has been divided for 70 years. Thereafter, there has been a great deal of fluctuation in the relationship between the two neighboring, once united nations. Not long after the official partition of the Korean peninsula, the Korean War broke out in 1950, caused by the surprise attack of the North Korean army, which lasted for longer than three years until it called for a truce in 1953, introduced by the military armistice agreement between the two governments of Korea. The war brought about frostiness in the Korean peninsula and created political tension between the two nations.  

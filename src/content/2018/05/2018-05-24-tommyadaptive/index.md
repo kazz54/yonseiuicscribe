@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Tommy Hilfiger leads the way toward inclusivity for people with disabilities
 
 Whether we prefer style, comfort, or practicality, our wardrobe is a reflection of ourselves. We often take this for granted and overlook the fact that some people with disabilities do not always enjoy the same freedom over how they present themselves to the world. Despite the fact that more than one billion people around the world live with some form of disability, the fashion industry has failed to see them as potential consumers. Mainstream fashion has made significant efforts in trying to accommodate for different sizes, genders, and ages, but it is still not inclusive enough for people with disabilities.

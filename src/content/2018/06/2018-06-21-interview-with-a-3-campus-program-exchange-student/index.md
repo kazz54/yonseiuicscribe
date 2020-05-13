@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 **Please introduce yourself.**
 
 Hello, my name is Violette Marie Cambon, my friends call me Vio. I am a masters student of University of Geneva and I am in the three-campus program. I spent a semester in Keio University, and I am spending a semester here at Yonsei University and then I am going to Hong Kong where I am going to study for two weeks and then do my internship there.

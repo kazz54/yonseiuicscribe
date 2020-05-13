@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.jpeg"
 ---
 
+![](/images/thumbnail.jpeg)
+
 I spent my first year of college at Yonsei International Campus in Songdo. Even though it was compulsory to live there, I grew to love the city for its simplicity and peacefulness. I moved to Seoul for the very first time after my freshman year. I was unlucky enough to not get into Sinchon campus dorms due to their limited space, yet lucky enough to end up where I live now.
 
 During the short weekend trips I was able to sneak into my freshmen’s schedule, Seoul was always overflowing with bright lights, music, and colors. Shopping streets and skyscrapers covered the entire city, alongside people with modern mannerisms and style. I have always known Seoul to be a harmony of the past and the present, yet the old palaces and Hanok houses hardly seem like the past to me. People flood into these places to reminiscent about the past, yet unconsciously bring all the lights, noises, and colors of the present with them, making “the past” just another one of Seoul’s commercialized attractions. However, Seoulites I meet still carry lots of old values with them, which seem out of place in such an urban setting. If these old values exist within the people, they have to exist somewhere within the city too. I relentlessly searched for this hidden place during my brief trips to Seoul, but my efforts were fruitless. Has Seoul become too small that the fast-paced present is all that it can accommodate?

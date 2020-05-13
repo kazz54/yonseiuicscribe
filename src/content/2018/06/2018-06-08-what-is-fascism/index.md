@@ -6,6 +6,8 @@ category: "Politics"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 What is fascism? The term has leapt back into the public consciousness in recent years, as what appeared to be a long dead threat seemingly rears its head again across the world. To meet this threat, activists rose to adopt the mantle of anti-fascism, or “antifa” for short. Yet, their critics claim that these Left-leaning activists have taken advantage of a moment of attention on a relatively small group to openly attack any Right-leaning individuals who they all lump together with the relatively scarce fascists. The claim is that instead of attacking fascists, they attack their political opponents indiscriminately, only then claiming that they were “fascist”, reducing the term to mean little more than “opponents of the Left.”
 
 But this is a term with a deep history and a strong identity, with many forms to consider. While it is possible that the term is being overused, the more likely (and more dire) implication may simply be that we never defeated the fascists as thoroughly as we thought.

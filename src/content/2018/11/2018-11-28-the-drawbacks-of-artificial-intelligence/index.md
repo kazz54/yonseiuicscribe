@@ -6,6 +6,8 @@ category: "Technology"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 #### **What is Artificial Intelligence?**
 
 According to _ScienceDaily_, the modern definition of artificial intelligence is “_the study and design of intelligent agents_.” The term artificial intelligence was first coined in 1956 by John McCarthy, an American computer scientist and cognitive scientist. McCarthy gathered experts to a workshop, the Dartmouth Summer Research Project, in which different individuals cooperated with each other to discover the mechanism enabling machines to utilize language and concepts, engage in problem-solving, and ultimately improve themselves.

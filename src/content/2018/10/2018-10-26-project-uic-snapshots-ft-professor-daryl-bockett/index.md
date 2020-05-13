@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.png"
 image: "./images/uicsnapshot-prof-e1540513263101.png"
 ---
 
+![](/images/thumbnail.png)
+
 ![](./images/uicsnapshot-prof-e1540513263101.png)
 
 This week’s piece features Professor Daryl Bockett, a UIC Professor.

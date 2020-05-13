@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.png"
 image: "./images/scribejessica1-300x169.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 This week’s piece features Jessica Jung, from the class of 17.5, majoring in International Studies.
 
 ![](./images/scribejessica1-300x169.jpg)

@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.png"
 image: "./images/UIC-Snapshot-Halloween-ed.-207x300.jpg"
 ---
 
+![](/images/thumbnail.png)
+
 This special Halloween Edition features Jin, the Editor-in-Chief of UIC Scribe.
 
 ![](./images/UIC-Snapshot-Halloween-ed.-207x300.jpg)

@@ -6,6 +6,8 @@ category: "Opinion"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 It has been a while since social media became a staple in our everyday lives. Very rare is it nowadays to find a person without a social media account. In this day and age, we don’t ask someone for their number but ‘follow’ them or ‘request to be friends’ on some sort of social networking service.
 
 Myspace’s spectacular burst onto the social media scene back in 2004 and the subsequent market takeover by Facebook brought a dramatic change in our lifestyles. People do not bother to read printed news but access it digitally via content shared by other users on platforms like Twitter and Facebook. Checking up on old acquaintances involves taking a look at their Timelines on Facebook or photos uploaded onto Instagram. Comments, likes and shares are essential to building social capital.

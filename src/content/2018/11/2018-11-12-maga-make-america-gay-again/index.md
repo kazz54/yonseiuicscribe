@@ -6,6 +6,8 @@ category: "Society"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 Every now and then, boredom and idleness often lead to aimless browses through the troves of shows available on Netflix. The next time this happens, try out an episode of _Queer Eye_, which is probably the most 2018 show out there.
 
 _Queer Eye_ is the Emmy winning 2018 Netflix reboot of the 2003 Bravo series _Queer Eye for the Straight Guy_. It is a reality TV show where 5 gay men, called the Fab 5, perform lifestyle makeovers for people who both need and want a refresh button in life.

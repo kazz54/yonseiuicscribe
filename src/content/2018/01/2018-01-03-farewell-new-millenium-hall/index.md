@@ -6,6 +6,8 @@ category: "School"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 _This article highlights select portions from the following public emails the 12th UIC Student Council “Solidity” sent to all UIC students: “Public Hearing Session regarding UIC Relocation (documents)” \[sent September 11, 2017\] and “Update on Building Relocation” \[sent November 10, 2017\]. For more information, please refer to these emails._
 
 New Millenium Hall (NMH) has been the home of Underwood International College (UIC) ever since the college first opened classes in 2006. For over a decade, NMH faithfully housed UIC students, faculty, and administration. But starting from 2018, UIC bids farewell to NMH as the college relocates to Daewoo International Hall (DIH). “Daewoo” commemorates the Daewoo Group that funded the initial construction of DIH (then named Daewoo Annex Hall) decades before its recent renovation, while “International Hall” symbolizes the identity of UIC.

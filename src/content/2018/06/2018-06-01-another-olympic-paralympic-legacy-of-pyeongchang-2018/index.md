@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 The Gender Equality Support Centre in Gangneung Olympic Park is tucked around the corner of the Sports Complex Stadium. Situated beside the rock climbing wall, it is convenient for visitors to locate. It is a small office with minimum furniture. Most of the time, silence and muted atmosphere resides in the office. This quietude is pierced by the occasional ringing of the telephone. Most calls are for administrative work, but once in a while calls for help from victims of sexual harassment and assault are received. The victim on the other side of the telephone is tended to with instant assurance and eager ears.
 
 A significant stride in gender violence awareness, it is the first time in Olympic/Paralympic history that a temporary Gender Equality Support Centre has been set up on site. With 4 venues in total, Alpensia Biathlon Centre, Jeongsun Alpine Centre, Gangneung Olympic Park and Phoenix Snow Park, this service has aided 36 sexual harassment cases reported during the Olympic/Paralympic period. In each venue two professional counsellors and an English translator were at hand to provide counselling service regarding incidents of sexual harassment and assault for the Olympic/Paralympic workforce.

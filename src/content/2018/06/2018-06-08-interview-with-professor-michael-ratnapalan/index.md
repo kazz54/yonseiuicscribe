@@ -3,7 +3,7 @@ title: "Interview with Professor Michael Ratnapalan"
 date: "2018-06-08"
 author: "Julia Hong"
 category: "Interviews"
-featuredImage: "./images/thumbnail.png"
+featuredImage: "./images/Ratnapalan.jpg"
 ---
 
 ![Ratnapalan](./images/Ratnapalan.jpg)

@@ -6,6 +6,8 @@ category: "Interviews"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 It is now prevalently acknowledged that the world is getting hotter. From the late 19th century until today, the topic of rising atmospheric temperatures and levels of the so-called global warming on Planet Earth has posed a great threat to humanity. The causes of global warming are attributed to the increasing levels of greenhouse gases in the atmosphere, such as methane and carbon dioxide, largely produced by the burning of fossil fuels. This excess presence of greenhouse gases absorbs and re-emits heat radiation back into the atmosphere, ultimately leading to the rise of the globe’s overall temperature.
 
 Most people are aware of this phenomenon, as they can easily “feel” the increasing temperature and the changing environment surrounding them. Summer heat, in particular, is gradually becoming more difficult to endure, which persuades people that climate change is real and is bringing about a serious impact to all. Moreover, various geographical and natural disasters, which result from melting glaciers and the consequent increasing sea levels, remind us of the catastrophic tragedies that global warming constantly brings about, including flood, earthquake, forest fire, hurricanes, and so on. However, these are the commonly known negative impacts of global warming, which focus on the consequences caused by the warming of atmospheric temperatures. More recently, this very same phenomenon has created striking effect that contradicts the popular notion of global warming: freezing temperatures in the winter – most notably, a freezing December due to the cold wave.

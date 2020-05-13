@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.jpg"
 image: "./images/SCRIBE-LOGO-300x300.png"
 ---
 
+![](/images/thumbnail.jpg)
+
 ![](./images/SCRIBE-LOGO-300x300.png)
 
 This week’s piece features Klaudia: a UIC student from the Class of 16.5, majoring in PSIR.

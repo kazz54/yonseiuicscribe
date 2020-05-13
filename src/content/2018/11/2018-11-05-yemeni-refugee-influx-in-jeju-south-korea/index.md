@@ -6,6 +6,8 @@ category: "Politics"
 featuredImage: "./images/thumbnail.jpg"
 ---
 
+![](/images/thumbnail.jpg)
+
 South Korea, a “homogeneous country”, is experiencing an influx of refugees for the very first time in its modern history. Since July 2018, 500 or so Yemeni asylum-seekers fleeing the civil war entered Jeju Island, a tourist destination accessible visa-free from most countries. South Korea and its people are not fully prepared in dealing with the influx of refugees. As a result, there have been problems in the government policies and in the way South Korean citizens have reacted to the issue.
 
 The term “refugee” was foreign to South Korea until the enactment of the Refugee Act in 2013. Provisions regarding refugees were already established in the Immigration Control Act and its Enforcement Decree in December 1993. However, criticism from activists and lawyers in 2006 that the legal framework of the Immigration Act prioritizes the government’s national security interests more than human rights triggered the legislation of the Refugee Act. Since 1992, South Korea has been a signatory of the UNHCR 1951 Refugee Convention and the 1967 Protocol Relating to the Status of Refugees, agreeing to uphold and protect the rights of refugees. The Korean government also established the Refugee Division under the Ministry of Justice on June 2013 to pursue and implement refugee policies. South Korea became the first Asian country to establish a Refugee Act in a separate piece of legislation.

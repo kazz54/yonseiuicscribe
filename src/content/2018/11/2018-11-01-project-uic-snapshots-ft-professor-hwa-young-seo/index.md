@@ -7,6 +7,8 @@ featuredImage: "./images/thumbnail.png"
 image: "./images/uic-scribe-prof-seo-225x300.jpg"
 ---
 
+![](/images/thumbnail.png)
+
 This week’s piece features Professor Hwa Young Seo, a UIC Professor teaching courses on music.
 
 ![](./images/uic-scribe-prof-seo-225x300.jpg)
