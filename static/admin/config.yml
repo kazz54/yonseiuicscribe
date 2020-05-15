@@ -15,6 +15,6 @@ collections:
       - { name: author, label: author, widget: string }
       - { name: date, label: Date (YYYY-MM-DD), dateFormat: "YYYY-MM-DD", timeFormat: false, widget: "datetime" }
       - { name: category, label: Category (Capitalize first letter), widget: string }
-      - { name: featuredImage, label: Featured Image File Name (change spaces into dashes), widget: string, default: ./images/ }
+      - { name: featuredImage, label: Thumbnail Image File Name (change spaces into dashes), widget: string, default: ./images/ }
       - { name: featured, label: Featured (Enter true without capitalization for article to be featured. Leave false if not.), widget: string, default: "false" }
       - { name: body, label: Body (Insert image first. Close image tab. Add text under image.), widget: markdown }
