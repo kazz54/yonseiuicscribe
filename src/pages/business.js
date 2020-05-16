@@ -2,6 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import PageBreadcrumb from "../components/pageBreadcrumbs"
+import SEO from "../components/seo"
 import Img from "gatsby-image"
 
 export default class extends React.Component {
@@ -21,6 +22,7 @@ export default class extends React.Component {
 			<Layout>
 				<PageBreadcrumb crumbs={ [ 'Home', 'Business' ] } />
 				<div className="categoryPostContainer">
+          <SEO title="Business - Yonsei UIC Scribe | Underwood International College"></SEO>
 					{posts.slice(0, index).map(({ node }) => (
 						<figure className="categoryPost" key={node.id}>
 							<Link to={node.fields.slug}>

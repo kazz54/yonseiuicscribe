@@ -2,6 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import Featured from "../components/featured"
+import SEO from "../components/seo"
 import Img from "gatsby-image"
 
 export default ({ data }) => {
@@ -9,6 +10,7 @@ export default ({ data }) => {
     <Layout>
       <Featured />
       <div className="indexPostContainer">
+        <SEO title="Home - Yonsei UIC Scribe | Underwood International College"></SEO>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <figure className="indexPost" key={node.id}>
             <Link to={node.fields.slug}>

@@ -3,13 +3,16 @@ require("dotenv").config()
 
 module.exports = {
   siteMetadata: {
-    title: `UIC Scribe`,
+    title: `Home - Yonsei UIC Scribe | Underwood International College`,
+    description: `The UIC Scribe is the official student-run newsmagazine of Underwood International College.`,
+    baseUrl: `http://yonseiuicscribe.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {

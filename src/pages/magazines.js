@@ -2,13 +2,13 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import PageBreadcrumb from "../components/pageBreadcrumbs"
+import SEO from "../components/seo"
 
 export default class extends React.Component {
 	constructor(props) {
 		super(props)
 		let postsToShow = 12
 		this.state = {
-			showingMore: postsToShow > 12,
 			postsToShow,
 		}
 	}
@@ -20,6 +20,7 @@ export default class extends React.Component {
 			<Layout>
 				<PageBreadcrumb crumbs={ [ 'Home', 'Magazines' ] } />
 				<div className="magazinePostContainer">
+				<SEO title="Magazines - Yonsei UIC Scribe | Underwood International College"></SEO>
 					{posts.slice(0, index).map(({ node }) => (
 						<div className="magazinePost" key={node.id}>
 							<a href={node.publicURL}>

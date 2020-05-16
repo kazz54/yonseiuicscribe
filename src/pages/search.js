@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/layout"
 import PageBreadcrumb from "../components/pageBreadcrumbs"
+import SEO from "../components/seo"
 import algoliasearch from 'algoliasearch/lite';
 import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom';
 
@@ -22,6 +23,7 @@ export default class extends React.Component {
 			<Layout>
 				<PageBreadcrumb crumbs={ [ 'Home', 'Search' ] } />
 				<div className="searchbarContainer">
+				<SEO title="Search - Yonsei UIC Scribe | Underwood International College"></SEO>
 					<InstantSearch className="searchbar" searchClient={searchClient} indexName="Posts">
 						<SearchBox />
 						<Hits hitComponent={Hit} />

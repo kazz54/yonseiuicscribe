@@ -1,11 +1,13 @@
 import React from "react"
 import Layout from "../components/layout"
 import PageBreadcrumb from "../components/pageBreadcrumbs"
+import SEO from "../components/seo"
 
 export default () => (
   <Layout>
 		<PageBreadcrumb crumbs={ [ 'Home', 'Recruitment' ] } />
 		<div className="recruitmentContainer">
+		<SEO title="Recruitment - Yonsei UIC Scribe | Underwood International College"></SEO>
 			<h1>Joining Scribe</h1>
 			<p>The UIC Scribe is always looking for new creative and passionate writers and designers. Join us as a reporter or co-designer and surround yourself with a community of dedicated creatives committed to sharing compelling stories.</p>
 			<h2>Who can apply?</h2>
