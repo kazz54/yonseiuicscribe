@@ -52,5 +52,23 @@ module.exports = {
         chunkSize: 10000, // default: 1000
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `UIC Scribe`,
+        short_name: `UIC Scribe`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+        icons: [
+          {
+            src: `/src/images/favicon.png`,
+            sizes: `32x32`,
+            type: `image/png`,
+          },
+        ],
+      },
+    },
   ],
 }
