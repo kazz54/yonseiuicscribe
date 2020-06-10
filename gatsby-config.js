@@ -61,13 +61,7 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
-        icons: [
-          {
-            src: `/src/images/favicon.png`,
-            sizes: `32x32`,
-            type: `image/png`,
-          },
-        ],
+        icon: `src/images/favicon.png`,
       },
     },
   ],
