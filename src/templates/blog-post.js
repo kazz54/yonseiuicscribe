@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import { Disqus } from 'gatsby-plugin-disqus'
 import Layout from "../components/layout"
 import PostBreadcrumb from "../components/postBreadcrumbs"
+import SEO from "../components/seo"
 //import Img from "gatsby-image"
 
 export default ({ data }) => {
@@ -19,6 +20,7 @@ export default ({ data }) => {
   return (
     <Layout>
       <PostBreadcrumb crumbs={ [ 'Home', postCategory, postTitle ] } />
+      <SEO title={post.frontmatter.title}></SEO>
       <article className="blogPostContainer">
         <h1>{post.frontmatter.title}</h1>
         <h2>{post.frontmatter.date}{" "}by{" "}<span>{post.frontmatter.author}</span>{" "}</h2>
