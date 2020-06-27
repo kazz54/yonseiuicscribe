@@ -16,7 +16,7 @@ img {
 	> a {
 		display: flex;
 		flex-flow: column;
-		justify-content: space-evenly;
+		justify-content: space-around;
 		height: 100%;
 		line-height: 1.5;
 		text-decoration: none;
@@ -34,7 +34,9 @@ img {
 			display: flex;
 			flex-flow: column;
 			justify-content: space-evenly;
-			flex: 0 0 50%;
+			@supports(display: flex) {
+				flex: 0 0 50%; // ie11 support
+			}
 			padding: 1em;
 			color: #fff;
 			> h3 {
@@ -82,7 +84,9 @@ img {
 .categoryPost:first-child,
 .categoryPost:first-child + figure {
 	@include md {
-		margin: 0; // prevents odd spacing from breadcrumbs margin
+		@supports(display: flex) { // ie11 support
+			margin: 0; // prevents odd spacing from breadcrumbs margin 
+		}
 	}
 }
 
@@ -109,7 +113,9 @@ img {
 			color: #000;
 		}
 		> figcaption {
-			flex: 0 0 50%;
+			@supports(display: flex) {
+				flex: 0 0 50%; // ie11 support
+			}
 			padding: 1em;
 			line-height: 1.5;
 			> h2 {
@@ -265,7 +271,9 @@ img {
 .magazinePost:first-child,
 .magazinePost:first-child + div {
 	@include md {
-		margin: 0; // prevents odd spacing from breadcrumbs margin
+		@supports(display: flex) { // ie11 support
+			margin: 0; // prevents odd spacing from breadcrumbs margin 
+		}
 	}
 }
 

@@ -109,7 +109,10 @@ header {
 	@include md {
 		position: initial;
 		flex-flow: row;
-		justify-content: space-evenly;
+		justify-content: space-around;
+		@supports(display: flex) {
+			justify-content: space-evenly; // ie11 support
+		}
 		padding: 1em 0;
 		max-height: initial;
 		box-shadow: none;
