@@ -33,7 +33,7 @@ img {
 		> figcaption {
 			display: flex;
 			flex-flow: column;
-			justify-content: space-evenly;
+			justify-content: space-around;
 			@supports(display: flex) {
 				flex: 0 0 50%; // ie11 support
 			}
