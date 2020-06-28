@@ -47,10 +47,5 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
-  "browserslist": [
-    "last 4 versions",
-    "ie >= 9",
-    "> 5%"
-  ]
+  }
 }
