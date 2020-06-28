@@ -31,7 +31,9 @@ img {
 			color: #000;
 		}
 		> figcaption {
-			display: flex;
+			@supports(display: flex) {
+				display: flex; // ie11 support
+			}
 			flex-flow: column;
 			justify-content: space-around;
 			@supports(display: flex) {
