@@ -1,0 +1,21 @@
+---
+title: "How I “Use” Fate"
+date: "2020-05-04"
+author: "Chan Kim"
+category: "Opinion"
+featuredImage: "./images/thumbnail.jpeg"
+---
+
+![](/images/thumbnail.jpeg)
+
+Nothing is more detestable than overthinking the future and causing distress about something that is yet to happen. That is why one superstition I believe in is that an almighty being writes the events a person will face ahead of time. A person, so oblivious and clueless, cannot know what to expect in the days, weeks, and even years to come. For the events that we are not able to control, whatever happens is fate. Though I can make the choice to go to bed early to sleep for a long time, it will not necessarily guarantee a good night's sleep. Even if my intention was to feel fresh the next day, I might still wake up irritated or wanting to go back to sleep. Despite our initial intention of an action, we are not able to manipulate its outcomes. Therefore, I consider the outcomes of our actions as fate.
+
+I began to believe in fate when I noticed most things that happen in life are out of my hands. They are unable to control and mostly occur by coincidence. For example, when I hear of people winning the lottery, I consider it difficult to say they were simply lucky. The chances of winning are so low that to have received divine assistance seems more realistic. I can’t help but think that person was meant to win the lottery during his or her life.
+
+My superstition of fate can be correlated with fatalism. Fatalism is a notion that approaches life as a series of uncontrollable and inevitable events, in which humans do not have any power to change a predetermined future. Suppose a swimmer decides to complete a final training session the day before a match instead of relaxing muscles and resting up. The next day, the swimmer wins first place. Fatalists would say that the swimmer was meant to win regardless of the last-minute training. However, some might say that the result was a well-deserved accomplishment that was aided by the training. This view is called determinism, which supports a chain of events by causality. Between the two ideas, I have a stronger belief in fatalism, since I tend to blame myself for doing something wrong when something negative happens. Because determinism explains events through causality, believing in fate lets me relieve stress and self-doubt.
+
+This does not mean that I leave my life solely up to fate. My definition of fatalism is different in that I use it when trying to explain outcomes with little differences that are difficult to understand using reason only. “Little differences” can be clarified with an example regarding Olympic medalists. The athletes who stand on the podium have such an immeasurable level of skills that I consider fate to be behind the color of their medals. Likewise, I interpret these subtle differences in life though this matter. It is for my convenience that I look up to fate as a means to accept reality and move on. This superstition helps to reduce stress and gain positivity. For example, the day before an important exam or presentation, I tell myself that how well I do is already decided, regardless of how much I prepare now. This relaxes my mind, relieving the built-up pressure. It lets me be optimistic about the future as I hope for the best.
+
+On the other hand, if something negative happens, I consider it to be a step in the process of achieving something grand later on. A personal experience comes from my high school years. Doing poorly on one of my midterms led to anxiety, but also a belief that I would improve during finals. My attitude towards studying became more sincere and a guiding hand for me to accept the results. Miraculously, everything went the way I wished during finals. It was at this moment that I pondered if doing terribly on midterms had been necessary for me to gain motivation.
+
+I was able to learn through past experiences such as the importance of perseverance and patience. Maybe the almighty being tests me at times to see how I cope with unfavorable situations. They will surely and repeatedly attempt to shake me in the future, while offering an opportunity to learn from what may seem as initial defeat. If I handle it well, maybe it will surprise me, to my delight, with a positive reward in the future!

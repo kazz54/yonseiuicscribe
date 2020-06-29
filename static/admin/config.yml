@@ -6,8 +6,8 @@ media_folder: src/content/posts/images
 public_folder: ./images
 
 collections:
-  - name: blog
-    label: Blog
+  - name: uicscribe
+    label: Blog Post
     folder: src/content/posts
     create: true
     fields:
