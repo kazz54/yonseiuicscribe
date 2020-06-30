@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import Logo from "../images/scribe-logo.svg"
+import Logo from "../images/logo-scribe.svg"
 import magnifyingGlass from "../images/magnifyingGlass.svg"
 
 export default () => {
