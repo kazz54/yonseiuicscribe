@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { Disqus } from 'gatsby-plugin-disqus'
+import { Disqus } from "gatsby-plugin-disqus"
 import Layout from "../components/layout"
 import PostBreadcrumb from "../components/postBreadcrumbs"
 import SEO from "../components/seo"
@@ -19,11 +19,13 @@ export default ({ data }) => {
   }
   return (
     <Layout>
-      <PostBreadcrumb crumbs={ [ 'Home', postCategory, postTitle ] } />
+      <PostBreadcrumb crumbs={["Home", postCategory, postTitle]} />
       <SEO title={post.frontmatter.title}></SEO>
       <article className="blogPostContainer">
         <h1>{post.frontmatter.title}</h1>
-        <h2>{post.frontmatter.date}{" "}by{" "}<span>{post.frontmatter.author}</span>{" "}</h2>
+        <h2>
+          {post.frontmatter.date} by <span>{post.frontmatter.author}</span>{" "}
+        </h2>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </article>
       <div className="disqusContainer">
@@ -35,9 +37,7 @@ export default ({ data }) => {
 
 export const query = graphql`
   query($slug: String!) {
-    markdownRemark(
-      fields: { slug: { eq: $slug } }   
-    ) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       fields {
         slug
       }

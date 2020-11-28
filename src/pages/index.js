@@ -14,15 +14,19 @@ export default ({ data }) => {
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <figure className="indexPost" key={node.id}>
             <Link to={node.fields.slug}>
-            <Img className="indexPostImg" fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
-            <figcaption>
-              <h2>{node.frontmatter.category}</h2>
-              <h3>
-                {node.frontmatter.title}
-              </h3>
-              <h4>{node.frontmatter.date}{" "}by{" "}<span>{node.frontmatter.author}</span>{" "}</h4>
-              <p>{node.excerpt}</p>
-            </figcaption>
+              <Img
+                className="indexPostImg"
+                fluid={node.frontmatter.featuredImage.childImageSharp.fluid}
+              />
+              <figcaption>
+                <h2>{node.frontmatter.category}</h2>
+                <h3>{node.frontmatter.title}</h3>
+                <h4>
+                  {node.frontmatter.date} by{" "}
+                  <span>{node.frontmatter.author}</span>{" "}
+                </h4>
+                <p>{node.excerpt}</p>
+              </figcaption>
             </Link>
           </figure>
         ))}
@@ -34,8 +38,9 @@ export default ({ data }) => {
 export const query = graphql`
   query {
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }, limit: 6
-      filter: {frontmatter: {featured: {ne: "true"}}}
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 6
+      filter: { frontmatter: { featured: { ne: "true" } } }
     ) {
       edges {
         node {

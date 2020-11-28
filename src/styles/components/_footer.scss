@@ -1,22 +1,22 @@
 footer {
-	padding: 1.5em 0;
-	padding-left: calc(5% + 20px);
-	padding-right: calc(5% + 20px);
-	font-size: 1.25rem;
-	line-height: 1.5;
-	background: #eee;
-	> a {
-		display: block;
-		margin: 0 auto;
-		width: 5em;
-		text-align: center;
-		text-decoration: none;
-		&:link, 
-		&:visited,
-		&:hover,
-		&:focus,
-		&:active {
-			color: #1976D2;
-		}
-	}
+  padding: 1.5em 0;
+  padding-left: calc(5% + 20px);
+  padding-right: calc(5% + 20px);
+  font-size: 1.25rem;
+  line-height: 1.5;
+  background: #eee;
+  > a {
+    display: block;
+    margin: 0 auto;
+    width: 5em;
+    text-align: center;
+    text-decoration: none;
+    &:link,
+    &:visited,
+    &:hover,
+    &:focus,
+    &:active {
+      color: #1976d2;
+    }
+  }
 }

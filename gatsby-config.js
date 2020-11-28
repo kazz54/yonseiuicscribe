@@ -24,7 +24,7 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 800,
-              loading: 'lazy',
+              loading: "lazy",
             },
           },
         ],
@@ -40,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `yonseiuicscribe`
-      }
+        shortname: `yonseiuicscribe`,
+      },
     },
     {
       resolve: `gatsby-plugin-algolia`,
@@ -64,6 +64,6 @@ module.exports = {
         icon: `src/images/icon.png`,
       },
     },
-    'gatsby-plugin-offline'
+    "gatsby-plugin-offline",
   ],
 }
